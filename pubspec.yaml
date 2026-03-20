@@ -1,0 +1,20 @@
+name: sagapi_gamedata
+description: A sample command-line application with basic argument parsing.
+version: 0.0.1
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.11.0
+
+# Add regular dependencies here.
+dependencies:
+  archive: ^4.0.9
+  args: ^2.7.0
+  bson: ^5.0.8
+  encrypt: ^5.0.3
+  http: ^1.6.0
+  path: ^1.9.1
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6

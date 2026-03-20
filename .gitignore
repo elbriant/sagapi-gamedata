@@ -1,0 +1,15 @@
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+test
+digest.txt
+
+
+# dirty stuff
+flatc_bin/
+fbs_repo/
+gamedata_tmp_bundles/
+gamedata_extracted/
+ArknightsStudioCLI/
+gamedata_final/
+tree.txt

@@ -1,0 +1,66 @@
+name: Gamedata App Update (From FBS)
+
+on:
+  repository_dispatch:
+    types: [fbs_updated]
+  workflow_dispatch:
+    inputs:
+      server:
+        description: 'Target server to update'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - cn
+          - en
+          - jp
+          - kr
+          - tw
+
+jobs:
+  build_gamedata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main code
+        uses: actions/checkout@v4
+        with:
+          path: main_repo
+
+      - name: Checkout gamedata branch
+        uses: actions/checkout@v4
+        with:
+          ref: gamedata
+          path: gamedata_branch
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1
+
+      - name: Fetch Dependencies
+        run: dart pub get
+        working-directory: main_repo
+
+      - name: Execute Full Gamedata Pipeline
+        run: |
+          SERVER="${{ github.event.client_payload.server || github.event.inputs.server || 'all' }}"
+          dart run bin/sagapi_gamedata.dart --server $SERVER --bundles-path ../gamedata_tmp_bundles --out-path ../gamedata_branch --force
+        working-directory: main_repo
+
+      - name: Commit and Push to gamedata branch
+        working-directory: gamedata_branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          
+          SERVER="${{ github.event.client_payload.server || github.event.inputs.server || 'all' }}"
+          CURRENT_DATE=$(date +'%Y-%m-%d')
+          COMMIT_MSG="Auto-update Gamedata (App Update) | Server: $SERVER | Date: $CURRENT_DATE"
+          
+          git diff-index --quiet HEAD || git commit -m "$COMMIT_MSG"
+          git push origin gamedata
