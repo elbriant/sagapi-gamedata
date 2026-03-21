@@ -68,17 +68,6 @@ void _restructureOutput(String server, String outputRoot, String bundlesRoot) {
   if (assetsDir.existsSync()) {
     assetsDir.deleteSync(recursive: true);
   }
-
-  // Copy hot_update_list.json to the server root
-  final hotUpdateSrc = File(p.join(bundlesRoot, server, 'hot_update_list.json'));
-  final hotUpdateDest = File(p.join(serverOutDir.path, 'hot_update_list.json'));
-
-  if (hotUpdateSrc.existsSync()) {
-    hotUpdateSrc.copySync(hotUpdateDest.path);
-    print('[OK] hot_update_list.json copied successfully to server root.');
-  } else {
-    print('[WARN] hot_update_list.json not found in temporary bundles.');
-  }
 }
 
 ArgParser buildParser() {
@@ -138,25 +127,33 @@ void main(List<String> arguments) async {
     final networkInfo = await ArknightsNetwork.fetchAssetBaseUrl(server, failfast: failfast);
     if (networkInfo == null) continue;
 
-    final successDownload = await GamedataDownloader.updateServerData(
+    final updateList = await GamedataDownloader.updateServerData(
       serverName: server,
       assetsBaseUrl: networkInfo['assetsUrl']!,
       saveDirectory: bundlesRoot,
+      localDirectory: outputRoot,
       forceUpdate: forceUpdate,
     );
 
-    if (successDownload) {
-      final extractedDir = p.join(outputRoot, server);
-      bool extractSuccess = await GamedataExtractor.extractServerBundles(
-        server,
-        bundlesRoot,
-        outputRoot,
-      );
+    if (updateList != null) {
+      bool schemaSuccess = await FbsManager.ensureSchemasAvailable(server);
 
-      if (extractSuccess) {
-        bool schemaSuccess = await FbsManager.ensureSchemasAvailable(server);
+      if (schemaSuccess) {
+        await GamedataDownloader.downloadFilesFromServer(
+          filesToDownload: updateList,
+          serverName: server,
+          assetsBaseUrl: networkInfo['assetsUrl']!,
+          saveDirectory: bundlesRoot,
+        );
 
-        if (schemaSuccess) {
+        final extractedDir = p.join(outputRoot, server);
+        bool extractSuccess = await GamedataExtractor.extractServerBundles(
+          server,
+          bundlesRoot,
+          outputRoot,
+        );
+
+        if (extractSuccess) {
           final schemasDir = FbsManager.getSchemaDirectory(server);
 
           print('[INFO] Starting massive decoding (Flatbuffers & AES)...');
@@ -203,14 +200,8 @@ void main(List<String> arguments) async {
           _restructureOutput(server, outputRoot, bundlesRoot);
 
           print('[OK] All data from ${server.toUpperCase()} has been processed.');
-        }
-      } else {
-        print(
-          '[WARN] No schemas found for ${server.toUpperCase()}. Cancelling decoding and cleaning up...',
-        );
-        final serverOutDir = Directory(p.join(outputRoot, server));
-        if (serverOutDir.existsSync()) {
-          serverOutDir.deleteSync(recursive: true);
+
+          GamedataDownloader.updateHotUpdateJson(localDirectory: outputRoot, serverName: server);
         }
       }
     }

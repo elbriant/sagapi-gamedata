@@ -14,6 +14,9 @@ class DownloadTask {
 }
 
 class GamedataDownloader {
+  /// to save json when parsed correctly
+  static dynamic remoteHotUpdateJson;
+
   /// Converts the file path to the nomenclature used by the server (e.g., gamedata/excel/a.ab -> gamedata_excel_a.dat)
   /// Logic adapted from asset_path_to_server_filename in bundle.py
   static String encodePath(String input) {
@@ -79,18 +82,23 @@ class GamedataDownloader {
   }
 
   /// Main function to orchestrate the update of a server
-  static Future<bool> updateServerData({
+  static Future<List<String>?> updateServerData({
     required String serverName,
     required String assetsBaseUrl,
     required String saveDirectory,
+    required String localDirectory,
     bool forceUpdate = false,
   }) async {
     print('[INFO] Starting update check for server: ${serverName.toUpperCase()}');
 
-    final serverDir = Directory(p.join(saveDirectory, serverName));
-    if (!serverDir.existsSync()) serverDir.createSync(recursive: true);
+    // make sure to null the remote json at the start so dont get mixed with other servers
+    remoteHotUpdateJson = null;
 
-    final localHotUpdatePath = File(p.join(serverDir.path, 'hot_update_list.json'));
+    final serverLocalDir = Directory(p.join(localDirectory, serverName));
+    final serverSaveDir = Directory(p.join(saveDirectory, serverName));
+    if (!serverSaveDir.existsSync()) serverSaveDir.createSync(recursive: true);
+
+    final localHotUpdatePath = File(p.join(serverLocalDir.path, 'hot_update_list.json'));
     Map<String, dynamic>? localHotUpdate;
 
     if (localHotUpdatePath.existsSync() && !forceUpdate) {
@@ -110,17 +118,27 @@ class GamedataDownloader {
     }
 
     final remoteHotUpdate = jsonDecode(remoteResponse.body);
-
+    remoteHotUpdateJson = remoteHotUpdate;
     final filesToDownload = getOutdatedHashes(remoteHotUpdate, localHotUpdate);
 
     if (filesToDownload.isEmpty) {
       print('[INFO] Server $serverName is already up to date.');
       // We update the local JSON anyway to synchronize minor changes unrelated to gamedata
       localHotUpdatePath.writeAsStringSync(jsonEncode(remoteHotUpdate));
-      return true;
+      return null;
     }
 
     print('[INFO] Found ${filesToDownload.length} updated gamedata bundles for $serverName.');
+    return filesToDownload;
+  }
+
+  static Future<bool> downloadFilesFromServer({
+    required String serverName,
+    required List<String> filesToDownload,
+    required String assetsBaseUrl,
+    required String saveDirectory,
+  }) async {
+    final serverSaveDir = Directory(p.join(saveDirectory, serverName));
 
     // Prepare asynchronous download (Task distribution in Isolates)
     final int numOfIso = max(Platform.numberOfProcessors - 1, 1);
@@ -132,8 +150,11 @@ class GamedataDownloader {
       chunks.add(
         chunkNames
             .map(
-              (name) =>
-                  DownloadTask(path: name, assetsUrl: assetsBaseUrl, saveDirectory: serverDir.path),
+              (name) => DownloadTask(
+                path: name,
+                assetsUrl: assetsBaseUrl,
+                saveDirectory: serverSaveDir.path,
+              ),
             )
             .toList(),
       );
@@ -147,9 +168,15 @@ class GamedataDownloader {
 
     await Future.wait(isolateTasks);
 
-    // Save the new hot_update_list locally only when everything is finished
-    localHotUpdatePath.writeAsStringSync(jsonEncode(remoteHotUpdate));
     print('[OK] Server $serverName download phase completed.');
     return true;
+  }
+
+  static void updateHotUpdateJson({required String localDirectory, required String serverName}) {
+    final serverLocalDir = Directory(p.join(localDirectory, serverName));
+    final localHotUpdatePath = File(p.join(serverLocalDir.path, 'hot_update_list.json'));
+    // Save the new hot_update_list locally only when everything is finished
+    localHotUpdatePath.writeAsStringSync(jsonEncode(remoteHotUpdateJson));
+    print('[INFO] new hot_update_list.json saved for $serverName');
   }
 }
