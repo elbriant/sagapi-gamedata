@@ -8,11 +8,11 @@ The data is strictly organized by regional game servers:
 
 ```text
 .
-├── cn/               # ~~Chinese Server Data~~ not implemented yet
-├── en/               # Global/English Server Data
-├── jp/               # Japanese Server Data
-├── kr/               # Korean Server Data
-└── tw/               # Taiwanese Server Data
+├── cn/               # Chinese Server (not implemented yet)
+├── en/               # Global/English Server
+├── jp/               # Japanese Server
+├── kr/               # Korean Server
+└── tw/               # Taiwanese Server
 ```
 
 ### Directory Contents
