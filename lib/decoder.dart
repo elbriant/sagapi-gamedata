@@ -117,8 +117,11 @@ class GamedataDecoder {
       }
       return false;
     }
-
-    print('[WARN] Unrecognized format or decoding failed for ${file.path}');
+    if (failfast) {
+      throw Exception('[WARN] Unrecognized format or decoding failed for ${file.path}');
+    } else {
+      print('[WARN] Unrecognized format or decoding failed for ${file.path}');
+    }
     return false;
   }
 

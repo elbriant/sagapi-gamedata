@@ -14,9 +14,15 @@ class ArknightsNetwork {
   };
 
   /// Obtains the base URL of the assets and the current resVersion for a specific server.
-  static Future<Map<String, String>?> fetchAssetBaseUrl(String server) async {
+  static Future<Map<String, String>?> fetchAssetBaseUrl(
+    String server, {
+    bool failfast = false,
+  }) async {
     final configUrl = _configUrls[server];
     if (configUrl == null) {
+      if (failfast) {
+        throw Exception('[ERROR] Servidor desconocido: $server');
+      }
       print('[ERROR] Servidor desconocido: $server');
       return null;
     }
@@ -27,6 +33,11 @@ class ArknightsNetwork {
       final configResponse = await http.get(Uri.parse(configUrl));
 
       if (configResponse.statusCode != 200) {
+        if (failfast) {
+          throw Exception(
+            '[ERROR] network_config failed for $server (HTTP ${configResponse.statusCode})',
+          );
+        }
         print('[ERROR] network_config failed for $server (HTTP ${configResponse.statusCode})');
         return null;
       }
@@ -51,6 +62,11 @@ class ArknightsNetwork {
       final versionResponse = await http.get(Uri.parse(versionUrl));
 
       if (versionResponse.statusCode != 200) {
+        if (failfast) {
+          throw Exception(
+            '[ERROR] Version request failed for $server (HTTP ${versionResponse.statusCode})',
+          );
+        }
         print('[ERROR] Version request failed for $server (HTTP ${versionResponse.statusCode})');
         return null;
       }
@@ -66,6 +82,9 @@ class ArknightsNetwork {
 
       return {'resVersion': resVersion, 'assetsUrl': finalAssetUrl};
     } catch (e) {
+      if (failfast) {
+        throw Exception('[ERROR] Exception in fetchAssetBaseUrl ($server): $e');
+      }
       print('[ERROR] Exception in fetchAssetBaseUrl ($server): $e');
       return null;
     }

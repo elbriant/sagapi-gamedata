@@ -135,7 +135,7 @@ void main(List<String> arguments) async {
   for (String server in serversToProcess) {
     print('\n--- Processing Server: ${server.toUpperCase()} ---');
 
-    final networkInfo = await ArknightsNetwork.fetchAssetBaseUrl(server);
+    final networkInfo = await ArknightsNetwork.fetchAssetBaseUrl(server, failfast: failfast);
     if (networkInfo == null) continue;
 
     final successDownload = await GamedataDownloader.updateServerData(
