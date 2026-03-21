@@ -48,7 +48,7 @@ jobs:
       - name: Execute Gamedata Hot Update Check
         run: |
           SERVER="${{ github.event.inputs.server || 'all' }}"
-          dart run bin/sagapi_gamedata.dart --server $SERVER --bundles-path ../gamedata_tmp_bundles --out-path ../gamedata_branch
+          dart run bin/sagapi_gamedata.dart --server $SERVER --bundles-path ../gamedata_tmp_bundles --out-path ../gamedata_branch --failfast
         working-directory: main_repo
 
       - name: Commit and Push to gamedata branch

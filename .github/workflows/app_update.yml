@@ -48,7 +48,7 @@ jobs:
       - name: Execute Full Gamedata Pipeline
         run: |
           SERVER="${{ github.event.client_payload.server || github.event.inputs.server || 'all' }}"
-          dart run bin/sagapi_gamedata.dart --server $SERVER --bundles-path ../gamedata_tmp_bundles --out-path ../gamedata_branch --force
+          dart run bin/sagapi_gamedata.dart --server $SERVER --bundles-path ../gamedata_tmp_bundles --out-path ../gamedata_branch --force --failfast
         working-directory: main_repo
 
       - name: Commit and Push to gamedata branch
