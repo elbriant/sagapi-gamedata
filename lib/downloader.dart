@@ -67,12 +67,12 @@ class GamedataDownloader {
             ..writeAsBytesSync(response.bodyBytes);
           print('[ISO-$isolateId] Downloaded: ${task.path}');
         } else {
-          print(
+          throw Exception(
             '[ERROR ISO-$isolateId] Failed to download ${task.path}: HTTP ${response.statusCode}',
           );
         }
       } catch (e) {
-        print('[ERROR ISO-$isolateId] Exception downloading ${task.path}: $e');
+        throw Exception('[ERROR ISO-$isolateId] Exception downloading ${task.path}: $e');
       }
     }
     client.close();
@@ -106,8 +106,7 @@ class GamedataDownloader {
     final remoteResponse = await http.get(Uri.parse(remoteHotUpdateUrl));
 
     if (remoteResponse.statusCode != 200) {
-      print('[ERROR] Failed to fetch remote hot_update_list.json');
-      return false;
+      throw Exception('[ERROR] Failed to fetch remote hot_update_list.json');
     }
 
     final remoteHotUpdate = jsonDecode(remoteResponse.body);

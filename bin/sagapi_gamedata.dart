@@ -22,12 +22,21 @@ class DecodeTaskPayload {
   DecodeTaskPayload(this.filePaths, this.schemasDir, this.isolateId);
 }
 
-Future<void> _processChunkInIsolate(DecodeTaskPayload payload, {bool verbose = false}) async {
+Future<void> _processChunkInIsolate(
+  DecodeTaskPayload payload, {
+  bool verbose = false,
+  bool failfast = false,
+}) async {
   int successCount = 0;
   for (String filePath in payload.filePaths) {
     final file = File(filePath);
     if (file.existsSync()) {
-      bool result = await GamedataDecoder.processFile(file, payload.schemasDir, verbose: verbose);
+      bool result = await GamedataDecoder.processFile(
+        file,
+        payload.schemasDir,
+        verbose: verbose,
+        failfast: failfast,
+      );
       if (result) successCount++;
     }
   }
@@ -78,6 +87,11 @@ ArgParser buildParser() {
     ..addOption('bundles-path', defaultsTo: './gamedata_tmp_bundles')
     ..addOption('out-path', defaultsTo: './gamedata_final')
     ..addFlag('verbose', abbr: 'v', defaultsTo: false)
+    ..addFlag(
+      'failfast',
+      abbr: 'd',
+      defaultsTo: false,
+    ) // errors end program, useful to deactivate on development
     ..addFlag('force', abbr: 'f', defaultsTo: false);
 }
 
@@ -107,6 +121,7 @@ void main(List<String> arguments) async {
   final String outputRoot = argResults['out-path'];
   final bool forceUpdate = argResults['force'];
   final bool verbose = argResults['verbose'];
+  final bool failfast = argResults['failfast'];
 
   List<String> serversToProcess = targetServer == 'all'
       ? ['cn', 'en', 'jp', 'kr', 'tw']
@@ -173,7 +188,9 @@ void main(List<String> arguments) async {
             for (int i = 0; i < chunks.length; i++) {
               final payload = DecodeTaskPayload(chunks[i], schemasDir, i);
               isolateTasks.add(
-                Isolate.run(() => _processChunkInIsolate(payload, verbose: verbose)),
+                Isolate.run(
+                  () => _processChunkInIsolate(payload, verbose: verbose, failfast: failfast),
+                ),
               );
             }
 

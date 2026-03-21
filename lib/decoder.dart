@@ -11,7 +11,12 @@ String _getFlatcExecutable() {
 class GamedataDecoder {
   /// Processes a .bytes file by routing it to the correct decoder based on its path and filename,
   /// mirroring the logic found in the Python bundle extraction script.
-  static Future<bool> processFile(File file, String fbsSchemasDir, {bool verbose = false}) async {
+  static Future<bool> processFile(
+    File file,
+    String fbsSchemasDir, {
+    bool verbose = false,
+    bool failfast = false,
+  }) async {
     final fileName = p.basename(file.path);
     final rawBytes = file.readAsBytesSync();
 
@@ -94,12 +99,22 @@ class GamedataDecoder {
           return true;
         } catch (e) {
           if (fromFbsSchema) {
-            print('[ERROR] FlatBuffer and Cryptic A fallback also failed for $fileName: $e');
+            if (failfast) {
+              throw Exception(
+                '[ERROR] FlatBuffer and Cryptic A fallback also failed for $fileName: $e',
+              );
+            } else {
+              print('[ERROR] FlatBuffer and Cryptic A fallback also failed for $fileName: $e');
+            }
           }
         }
       }
     } catch (e) {
-      print('[ERROR] Critical failure processing ${file.path}: $e');
+      if (failfast) {
+        throw Exception('[ERROR] Critical failure processing ${file.path}: $e');
+      } else {
+        print('[ERROR] Critical failure processing ${file.path}: $e');
+      }
       return false;
     }
 
@@ -113,6 +128,7 @@ class GamedataDecoder {
     String schemaName,
     String schemasDir, {
     bool verbose = false,
+    bool failfast = false,
   }) async {
     final schemaFile = File(p.join(schemasDir, '$schemaName.fbs'));
     if (!schemaFile.existsSync()) {
@@ -182,20 +198,39 @@ class GamedataDecoder {
           _saveCleanJson(originalFile, decoded);
           return true;
         } catch (e) {
-          print('[ERROR] Failed to parse flatc generated JSON for ${originalFile.path}: $e');
+          if (failfast) {
+            throw Exception(
+              '[ERROR] Failed to parse flatc generated JSON for ${originalFile.path}: $e',
+            );
+          } else {
+            print('[ERROR] Failed to parse flatc generated JSON for ${originalFile.path}: $e');
+          }
           return false;
         }
       }
     } else {
       if (verbose) {
         if (result.exitCode == -1073741819 || result.exitCode == 139) {
-          print(
-            '[ERROR] flatc Segfault on ${p.basename(originalFile.path)}. The .fbs schema might be outdated.',
-          );
+          if (failfast) {
+            throw Exception(
+              '[ERROR] flatc Segfault on ${p.basename(originalFile.path)}. The .fbs schema might be outdated.',
+            );
+          } else {
+            print(
+              '[ERROR] flatc Segfault on ${p.basename(originalFile.path)}. The .fbs schema might be outdated.',
+            );
+          }
         } else {
-          print('[ERROR] flatc failed with code ${result.exitCode} for ${originalFile.path}');
-          if (result.stderr.toString().trim().isNotEmpty) {
-            print('[FLATC LOG] ${result.stderr.toString().trim()}');
+          if (failfast) {
+            throw Exception(
+              '[ERROR] flatc failed with code ${result.exitCode} for ${originalFile.path}',
+            );
+          }
+          {
+            print('[ERROR] flatc failed with code ${result.exitCode} for ${originalFile.path}');
+            if (result.stderr.toString().trim().isNotEmpty) {
+              print('[FLATC LOG] ${result.stderr.toString().trim()}');
+            }
           }
         }
       }

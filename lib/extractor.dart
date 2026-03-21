@@ -39,9 +39,7 @@ class GamedataExtractor {
       print('[OK] Extraction completed for $serverName.');
       return true;
     } else {
-      print('[ERROR] ArknightsStudioCLI failed:');
-      print(result.stderr);
-      return false;
+      throw Exception('[ERROR] ArknightsStudioCLI failed:${result.stderr}');
     }
   }
 }

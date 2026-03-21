@@ -39,8 +39,7 @@ class FlatcManager {
         }, orElse: () => null);
 
         if (asset == null) {
-          print('[ERROR] No flatc binary found for this platform.');
-          return false;
+          throw Exception('[ERROR] No flatc binary found for this platform.');
         }
 
         final downloadUrl = asset['browser_download_url'];
@@ -63,8 +62,7 @@ class FlatcManager {
 
         print('[OK] flatc installed successfully in $flatcPath.');
       } catch (e) {
-        print('[ERROR] Failed to download flatc: $e');
-        return false;
+        throw Exception('[ERROR] Failed to download flatc: $e');
       }
     }
     return true;

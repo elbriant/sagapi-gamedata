@@ -48,8 +48,7 @@ class StudioManager {
 
         print('[OK] ArknightsStudioCLI installed successfully.');
       } catch (e) {
-        print('[ERROR] Failed to download ArknightsStudioCLI: $e');
-        return false;
+        throw Exception('[ERROR] Failed to download ArknightsStudioCLI: $e');
       }
     }
     return true;

@@ -18,8 +18,7 @@ class FbsManager {
       ]);
 
       if (result.exitCode != 0) {
-        print('[ERROR] Error cloning schemas: ${result.stderr}');
-        return false;
+        throw Exception('[ERROR] Error cloning schemas: ${result.stderr}');
       }
     } else {
       await Process.run('git', ['pull'], workingDirectory: fbsRepoPath);
@@ -29,8 +28,7 @@ class FbsManager {
     final schemaPath = p.join(fbsRepoPath, schemaServer);
 
     if (!Directory(schemaPath).existsSync()) {
-      print('[ERROR] Schema directory not found for $schemaServer');
-      return false;
+      throw Exception('[ERROR] Schema directory not found for $schemaServer');
     }
 
     print('[OK] Schemas successfully obtained in ./fbs_repo.');
