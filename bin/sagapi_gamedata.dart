@@ -204,6 +204,14 @@ void main(List<String> arguments) async {
 
           print('[OK] All data from ${server.toUpperCase()} has been processed.');
         }
+      } else {
+        print(
+          '[WARN] No schemas found for ${server.toUpperCase()}. Cancelling decoding and cleaning up...',
+        );
+        final serverOutDir = Directory(p.join(outputRoot, server));
+        if (serverOutDir.existsSync()) {
+          serverOutDir.deleteSync(recursive: true);
+        }
       }
     }
   }
