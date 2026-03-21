@@ -28,7 +28,8 @@ class FbsManager {
     final schemaPath = p.join(fbsRepoPath, schemaServer);
 
     if (!Directory(schemaPath).existsSync()) {
-      throw Exception('[ERROR] Schema directory not found for $schemaServer');
+      print('[ERROR] Schema directory not found for $schemaServer');
+      return false;
     }
 
     print('[OK] Schemas successfully obtained in ./fbs_repo.');
