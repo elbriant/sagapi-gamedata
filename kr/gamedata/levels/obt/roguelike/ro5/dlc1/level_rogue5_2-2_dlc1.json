@@ -1938,174 +1938,174 @@
       "level": 0,
       "overwrittenData": {
         "name": {
-          "m_defined": true,
-          "m_value": "혼비스트"
+          "defined": true,
+          "value": "혼비스트"
         },
         "description": {
-          "m_defined": true,
-          "m_value": "산지에서 흔히 볼 수 있는 초식 동물. 초기에는 <@eb.key>휴식</> 상태, 피격 시 주변의 다른 혼비스트와 함께 <@eb.key>공격</> 상태 돌입"
+          "defined": true,
+          "value": "산지에서 흔히 볼 수 있는 초식 동물. 초기에는 <@eb.key>휴식</> 상태, 피격 시 주변의 다른 혼비스트와 함께 <@eb.key>공격</> 상태 돌입"
         },
         "prefabKey": {
-          "m_defined": true,
-          "m_value": "enemy_1303_mhshep"
+          "defined": true,
+          "value": "enemy_1303_mhshep"
         },
         "attributes": {
           "maxHp": {
-            "m_defined": true,
-            "m_value": 5000
+            "defined": true,
+            "value": 5000
           },
           "atk": {
-            "m_defined": true,
-            "m_value": 250
+            "defined": true,
+            "value": 250
           },
           "def": {
-            "m_defined": true,
-            "m_value": 0
+            "defined": true,
+            "value": 0
           },
           "magicResistance": {
-            "m_defined": true,
-            "m_value": 0.0
+            "defined": true,
+            "value": 0.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": true,
-            "m_value": 0.8
+            "defined": true,
+            "value": 0.8
           },
           "attackSpeed": {
-            "m_defined": true,
-            "m_value": 100.0
+            "defined": true,
+            "value": 100.0
           },
           "baseAttackTime": {
-            "m_defined": true,
-            "m_value": 2.3
+            "defined": true,
+            "value": 2.3
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": true,
-            "m_value": 1
+            "defined": true,
+            "value": 1
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": true,
-            "m_value": false
+            "defined": true,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": true,
-          "m_value": "MELEE"
+          "defined": true,
+          "value": "MELEE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": true,
-          "m_value": -1.0
+          "defined": true,
+          "value": -1.0
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": false,
-          "m_value": false
+          "defined": false,
+          "value": false
         },
         "talentBlackboard": [
           {
@@ -2164,174 +2164,174 @@
       "level": 0,
       "overwrittenData": {
         "name": {
-          "m_defined": true,
-          "m_value": "혼비스트"
+          "defined": true,
+          "value": "혼비스트"
         },
         "description": {
-          "m_defined": true,
-          "m_value": "산지에서 흔히 볼 수 있는 초식 동물. 초기에는 <@eb.key>휴식</> 상태, 피격 시 주변의 다른 혼비스트와 함께 <@eb.key>공격</> 상태 돌입"
+          "defined": true,
+          "value": "산지에서 흔히 볼 수 있는 초식 동물. 초기에는 <@eb.key>휴식</> 상태, 피격 시 주변의 다른 혼비스트와 함께 <@eb.key>공격</> 상태 돌입"
         },
         "prefabKey": {
-          "m_defined": true,
-          "m_value": "enemy_1303_mhshep"
+          "defined": true,
+          "value": "enemy_1303_mhshep"
         },
         "attributes": {
           "maxHp": {
-            "m_defined": true,
-            "m_value": 5000
+            "defined": true,
+            "value": 5000
           },
           "atk": {
-            "m_defined": true,
-            "m_value": 250
+            "defined": true,
+            "value": 250
           },
           "def": {
-            "m_defined": true,
-            "m_value": 0
+            "defined": true,
+            "value": 0
           },
           "magicResistance": {
-            "m_defined": true,
-            "m_value": 0.0
+            "defined": true,
+            "value": 0.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": true,
-            "m_value": 0.8
+            "defined": true,
+            "value": 0.8
           },
           "attackSpeed": {
-            "m_defined": true,
-            "m_value": 100.0
+            "defined": true,
+            "value": 100.0
           },
           "baseAttackTime": {
-            "m_defined": true,
-            "m_value": 2.3
+            "defined": true,
+            "value": 2.3
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": true,
-            "m_value": 1
+            "defined": true,
+            "value": 1
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": true,
-            "m_value": false
+            "defined": true,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": true,
-          "m_value": "MELEE"
+          "defined": true,
+          "value": "MELEE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": true,
-          "m_value": -1.0
+          "defined": true,
+          "value": -1.0
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": false,
-          "m_value": false
+          "defined": false,
+          "value": false
         },
         "talentBlackboard": [
           {
@@ -2360,174 +2360,174 @@
       "level": 0,
       "overwrittenData": {
         "name": {
-          "m_defined": true,
-          "m_value": "혼비스트"
+          "defined": true,
+          "value": "혼비스트"
         },
         "description": {
-          "m_defined": true,
-          "m_value": "산지에서 흔히 볼 수 있는 초식 동물. 초기에는 <@eb.key>휴식</> 상태, 피격 시 주변의 다른 혼비스트와 함께 <@eb.key>공격</> 상태 돌입"
+          "defined": true,
+          "value": "산지에서 흔히 볼 수 있는 초식 동물. 초기에는 <@eb.key>휴식</> 상태, 피격 시 주변의 다른 혼비스트와 함께 <@eb.key>공격</> 상태 돌입"
         },
         "prefabKey": {
-          "m_defined": true,
-          "m_value": "enemy_1303_mhshep"
+          "defined": true,
+          "value": "enemy_1303_mhshep"
         },
         "attributes": {
           "maxHp": {
-            "m_defined": true,
-            "m_value": 5000
+            "defined": true,
+            "value": 5000
           },
           "atk": {
-            "m_defined": true,
-            "m_value": 250
+            "defined": true,
+            "value": 250
           },
           "def": {
-            "m_defined": true,
-            "m_value": 0
+            "defined": true,
+            "value": 0
           },
           "magicResistance": {
-            "m_defined": true,
-            "m_value": 0.0
+            "defined": true,
+            "value": 0.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": true,
-            "m_value": 0.8
+            "defined": true,
+            "value": 0.8
           },
           "attackSpeed": {
-            "m_defined": true,
-            "m_value": 100.0
+            "defined": true,
+            "value": 100.0
           },
           "baseAttackTime": {
-            "m_defined": true,
-            "m_value": 2.3
+            "defined": true,
+            "value": 2.3
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": true,
-            "m_value": 1
+            "defined": true,
+            "value": 1
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": true,
-            "m_value": false
+            "defined": true,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": true,
-          "m_value": "MELEE"
+          "defined": true,
+          "value": "MELEE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": true,
-          "m_value": -1.0
+          "defined": true,
+          "value": -1.0
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": false,
-          "m_value": false
+          "defined": false,
+          "value": false
         },
         "talentBlackboard": [
           {

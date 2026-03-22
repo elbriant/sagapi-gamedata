@@ -1527,174 +1527,174 @@
       "level": 0,
       "overwrittenData": {
         "name": {
-          "m_defined": false,
-          "m_value": "'버림받은 자'"
+          "defined": false,
+          "value": "'버림받은 자'"
         },
         "description": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "prefabKey": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "attributes": {
           "maxHp": {
-            "m_defined": true,
-            "m_value": 80000
+            "defined": true,
+            "value": 80000
           },
           "atk": {
-            "m_defined": true,
-            "m_value": 600
+            "defined": true,
+            "value": 600
           },
           "def": {
-            "m_defined": true,
-            "m_value": 400
+            "defined": true,
+            "value": 400
           },
           "magicResistance": {
-            "m_defined": true,
-            "m_value": 40.0
+            "defined": true,
+            "value": 40.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "attackSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "baseAttackTime": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": false,
-          "m_value": "NONE"
+          "defined": false,
+          "value": "NONE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": true,
-          "m_value": 3.5
+          "defined": true,
+          "value": 3.5
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": false,
-          "m_value": false
+          "defined": false,
+          "value": false
         },
         "talentBlackboard": [],
         "skills": [],
@@ -1707,174 +1707,174 @@
       "level": 0,
       "overwrittenData": {
         "name": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "description": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "prefabKey": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "attributes": {
           "maxHp": {
-            "m_defined": true,
-            "m_value": 13500
+            "defined": true,
+            "value": 13500
           },
           "atk": {
-            "m_defined": true,
-            "m_value": 500
+            "defined": true,
+            "value": 500
           },
           "def": {
-            "m_defined": true,
-            "m_value": 500
+            "defined": true,
+            "value": 500
           },
           "magicResistance": {
-            "m_defined": true,
-            "m_value": 20.0
+            "defined": true,
+            "value": 20.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "attackSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "baseAttackTime": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": false,
-          "m_value": "NONE"
+          "defined": false,
+          "value": "NONE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": false,
-          "m_value": false
+          "defined": false,
+          "value": false
         },
         "talentBlackboard": [
           {
@@ -1918,174 +1918,174 @@
       "level": 0,
       "overwrittenData": {
         "name": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "description": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "prefabKey": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "attributes": {
           "maxHp": {
-            "m_defined": true,
-            "m_value": 20000
+            "defined": true,
+            "value": 20000
           },
           "atk": {
-            "m_defined": true,
-            "m_value": 700
+            "defined": true,
+            "value": 700
           },
           "def": {
-            "m_defined": true,
-            "m_value": 1500
+            "defined": true,
+            "value": 1500
           },
           "magicResistance": {
-            "m_defined": true,
-            "m_value": 20.0
+            "defined": true,
+            "value": 20.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "attackSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "baseAttackTime": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": false,
-          "m_value": "NONE"
+          "defined": false,
+          "value": "NONE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": false,
-          "m_value": false
+          "defined": false,
+          "value": false
         },
         "talentBlackboard": [
           {
@@ -2134,174 +2134,174 @@
       "level": 0,
       "overwrittenData": {
         "name": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "description": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "prefabKey": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "attributes": {
           "maxHp": {
-            "m_defined": true,
-            "m_value": 30000
+            "defined": true,
+            "value": 30000
           },
           "atk": {
-            "m_defined": true,
-            "m_value": 1200
+            "defined": true,
+            "value": 1200
           },
           "def": {
-            "m_defined": true,
-            "m_value": 700
+            "defined": true,
+            "value": 700
           },
           "magicResistance": {
-            "m_defined": true,
-            "m_value": 20.0
+            "defined": true,
+            "value": 20.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "attackSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "baseAttackTime": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": false,
-          "m_value": "NONE"
+          "defined": false,
+          "value": "NONE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": false,
-          "m_value": false
+          "defined": false,
+          "value": false
         },
         "talentBlackboard": [
           {
@@ -2363,174 +2363,174 @@
       "level": 2,
       "overwrittenData": {
         "name": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "description": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "prefabKey": {
-          "m_defined": false,
-          "m_value": null
+          "defined": false,
+          "value": null
         },
         "attributes": {
           "maxHp": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "atk": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "def": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "magicResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "cost": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "blockCnt": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "moveSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "attackSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "baseAttackTime": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "respawnTime": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "hpRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "spRecoveryPerSec": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "maxDeployCount": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "massLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "baseForceLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "tauntLevel": {
-            "m_defined": false,
-            "m_value": 0
+            "defined": false,
+            "value": 0
           },
           "epDamageResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epResistance": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitratePhysical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "damageHitrateMagical": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "epBreakRecoverSpeed": {
-            "m_defined": false,
-            "m_value": 0.0
+            "defined": false,
+            "value": 0.0
           },
           "stunImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "silenceImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "sleepImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "frozenImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "levitateImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "disarmedCombatImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "fearedImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "palsyImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           },
           "attractImmune": {
-            "m_defined": false,
-            "m_value": false
+            "defined": false,
+            "value": false
           }
         },
         "applyWay": {
-          "m_defined": false,
-          "m_value": "NONE"
+          "defined": false,
+          "value": "NONE"
         },
         "motion": {
-          "m_defined": false,
-          "m_value": "WALK"
+          "defined": false,
+          "value": "WALK"
         },
         "enemyTags": {
-          "m_defined": false,
-          "m_value": []
+          "defined": false,
+          "value": []
         },
         "lifePointReduce": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "levelType": {
-          "m_defined": false,
-          "m_value": "NORMAL"
+          "defined": false,
+          "value": "NORMAL"
         },
         "rangeRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "numOfExtraDrops": {
-          "m_defined": false,
-          "m_value": 0
+          "defined": false,
+          "value": 0
         },
         "viewRadius": {
-          "m_defined": false,
-          "m_value": 0.0
+          "defined": false,
+          "value": 0.0
         },
         "notCountInTotal": {
-          "m_defined": true,
-          "m_value": true
+          "defined": true,
+          "value": true
         },
         "talentBlackboard": [],
         "skills": [],
