@@ -1206,6 +1206,42 @@
       "bindMainlineZoneId": null,
       "bindMainlineRetroZoneId": null
     },
+    "act45side_zone1": {
+      "zoneID": "act45side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "萬般皆夢",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act45side_zone2": {
+      "zoneID": "act45side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "擁抱命運",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
     "act2enemyduel_zone1": {
       "zoneID": "act2enemyduel_zone1",
       "zoneIndex": 0,
@@ -1608,6 +1644,24 @@
       "type": "ACTIVITY",
       "zoneNameFirst": null,
       "zoneNameSecond": "我始終如一",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act6fun_zone1": {
+      "zoneID": "act6fun_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
       "zoneNameTitleCurrent": null,
       "zoneNameTitleUnCurrent": null,
       "zoneNameTitleEx": null,
@@ -7116,6 +7170,14 @@
       "startTs": 1773986400,
       "endTs": 1774814399
     },
+    "act45side_zone1": {
+      "startTs": 1775030400,
+      "endTs": 1776196799
+    },
+    "act45side_zone2": {
+      "startTs": 1775635200,
+      "endTs": 1776196799
+    },
     "act2enemyduel_zone1": {
       "startTs": 1773388800,
       "endTs": 1774555199
@@ -7211,6 +7273,10 @@
     "act2mainss_zone1": {
       "startTs": 1761897600,
       "endTs": 1763063999
+    },
+    "act6fun_zone1": {
+      "startTs": 1775030400,
+      "endTs": 1775591999
     },
     "act1multi_zone1": {
       "startTs": 1761292800,
@@ -7885,8 +7951,8 @@
       "endTs": 1625774400
     },
     "act17d7_zone1": {
-      "startTs": 1743494400,
-      "endTs": 1744055999
+      "startTs": 1775030400,
+      "endTs": 1775591999
     },
     "act5sre_zone1": {
       "startTs": 1647934200,
