@@ -1008,6 +1008,24 @@
       "bindMainlineZoneId": null,
       "bindMainlineRetroZoneId": null
     },
+    "tower_n_19": {
+      "zoneID": "tower_n_19",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
     "tower_n_01": {
       "zoneID": "tower_n_01",
       "zoneIndex": 0,
@@ -1156,6 +1174,24 @@
       "zoneID": "rogue_5",
       "zoneIndex": 5,
       "type": "ROGUELIKE",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act1vhalfidle_zone1": {
+      "zoneID": "act1vhalfidle_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
       "zoneNameFirst": null,
       "zoneNameSecond": null,
       "zoneNameTitleCurrent": null,
@@ -7162,6 +7198,10 @@
     }
   },
   "zoneValidInfo": {
+    "act1vhalfidle_zone1": {
+      "startTs": 1775635200,
+      "endTs": 1777406399
+    },
     "act37sre_zone1": {
       "startTs": 1773986400,
       "endTs": 1774814399
