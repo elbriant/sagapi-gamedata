@@ -1206,6 +1206,24 @@
       "bindMainlineZoneId": null,
       "bindMainlineRetroZoneId": null
     },
+    "act2multi_zone1": {
+      "zoneID": "act2multi_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
     "act1vhalfidle_zone1": {
       "zoneID": "act1vhalfidle_zone1",
       "zoneIndex": 0,
@@ -7237,6 +7255,10 @@
     "act3mainss_zone1": {
       "startTs": 1776844800,
       "endTs": 1778011199
+    },
+    "act2multi_zone1": {
+      "startTs": 1777449600,
+      "endTs": 1779220799
     },
     "act1vhalfidle_zone1": {
       "startTs": 1775635200,
