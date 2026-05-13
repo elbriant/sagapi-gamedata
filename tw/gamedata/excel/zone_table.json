@@ -1206,6 +1206,42 @@
       "bindMainlineZoneId": null,
       "bindMainlineRetroZoneId": null
     },
+    "act39sre_zone1": {
+      "zoneID": "act39sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "鹽漠開航",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "act39sre_zone2": {
+      "zoneID": "act39sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "穿越骸礁",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
     "act2multi_zone1": {
       "zoneID": "act2multi_zone1",
       "zoneIndex": 0,
@@ -7163,6 +7199,42 @@
       "sixStarMilestoneGroupId": null,
       "bindMainlineZoneId": null,
       "bindMainlineRetroZoneId": null
+    },
+    "permanent_sidestory_29_zone1": {
+      "zoneID": "permanent_sidestory_29_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "鹽漠開航",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
+    },
+    "permanent_sidestory_29_zone2": {
+      "zoneID": "permanent_sidestory_29_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "穿越骸礁",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null
     }
   },
   "weeklyAdditionInfo": {
@@ -7252,6 +7324,14 @@
     }
   },
   "zoneValidInfo": {
+    "act39sre_zone1": {
+      "startTs": 1778648400,
+      "endTs": 1779479999
+    },
+    "act39sre_zone2": {
+      "startTs": 1778648400,
+      "endTs": 1779479999
+    },
     "act3mainss_zone1": {
       "startTs": 1776844800,
       "endTs": 1778011199
