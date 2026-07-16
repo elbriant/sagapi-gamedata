@@ -54095,6 +54095,864 @@
       "specialEquipDesc": null,
       "specialEquipColor": null,
       "charColor": "#8d0000"
+    },
+    "uniequip_001_wang": {
+      "uniEquipId": "uniequip_001_wang",
+      "uniEquipName": "ウァンの記章",
+      "uniEquipIcon": "uniequip_001_wang",
+      "uniEquipDesc": "ウァンは戦場での待ち伏せや罠の設置に秀でている。\n外勤部門の決定に基づき、\n外勤任務においては特殊オペレーターとして区分し、罠師の責務を担う。\n特別に本記章を授与し、\nその証明とする。",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_2027_wang",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "unlockFavors": [],
+      "itemCost": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#ce9e43"
+    },
+    "uniequip_002_wang": {
+      "uniEquipId": "uniequip_002_wang",
+      "uniEquipName": "獣形の碁笥",
+      "uniEquipIcon": "uniequip_002_wang",
+      "uniEquipDesc": "「雲獣」は白石を一つくわえ上げ、碁盤の上に落とした。そして碁盤から香炉に跳び乗ると、ウァンに向かって「にゃあ」と鳴いた。\nこの雲獣は彼の新しい碁敵であり、かつて彼を収めていた碁笥でもある。獣の形をしているが、百年も対局を眺めてきただけあって、それなりの心得があるようだ。一人と一匹は、一進一退の攻防を繰り広げていたが……\n何度かの押し引きの末、ウァンが大きな地を取り、勝利を確実なものにした。すると「雲獣」は香炉から跳び降り、盤上で大暴れして、盤面をぐちゃぐちゃにしてしまった。\nそれはいつもの光景であり、基本的にウァンが干渉することはない。気が済むまで暴れれば、そのうち自分で碁石を片付け、適当な場所で休息するからだ――碁笥として、それが自然である。\n……\nこの居室で唯一の喧騒が過ぎ去った。\n「雲獣」はウァンの膝の上で眠りにつき、居室は彼が慣れ親しんだ静寂へと沈んでいく。\nかつて、古寺に閉じ込められていた頃のような静寂。\n眼前には碁盤、傍らには碁笥。千秋の想いは言葉にしがたい。\n心には、結晶化し続ける苦痛だけが時折湧き上がり、時計の針のようにゆっくりと回り続ける。\n「雲獣」は寝返りを打ち、懐にしまっていたウァンの腕を抱き枕代わりにしがみつくと、また深い眠りに落ちた。\n碁笥も碁石も彼から生まれたものだというのに、世に対する態度は雲泥の差だ。\nいつも離れて対局を眺め、冷静に局面を把握しているからこそ、かえってある種の達観を得たのだろう。\nどれだけ策を巡らそうと、打ち手は局面に惑わされるもの。しかしこうした傍目を持っていれば、盤上で盲目になることもないだろう。\nそう考えれば、ウァンが歳に取って代わった今でも、この碁笥が彼という唯一の碁石を見つけられたのは、碁石を失った碁笥はその存在意義を失い、二度と形を成せなくなるからだろうか？\nそれとも対局後の碁石は、碁笥に帰ってこそ落ち着きを取り戻し、心を静めていられるからだろうか？\n碁石はただ沈黙し、碁笥はただ抱擁した冷たい手を温めている。\nこの温度こそが、碁笥からの答えだった――彼は元より独りではなかったのだ。\n碁笥だけでなく、ロドスのこの居室にあるあらゆるものが何度もそれを告げてくる。イーが植えた机上の盆栽、シーが描いた時間に応じて変化するカーテン上の模様、ファンの選んだ香が焚かれた、ニェンが鋳造した香炉、その隣には、ユー手作りの桔紅酥（ジューホンスー）が入った岡持ち……\n千余年の時を孤独に過ごしていたウァンに対して、彼の兄弟姉妹たちも、彼の創造物たちも、彼の変化を願っているのだ。\nこの一局、彼は心から敗北を認めた。\n「雲獣」の懐で温められた手を引き抜いたウァンは、岡持ちを開けて桔紅酥を取り出した。ほとんど自分で食べてしまったが、僅かに残ったひと切れは今も膝の上で熟睡している「雲獣」に差し出した。\n「雲獣」は目を開け、目の前のお菓子の匂いを嗅ぎ、様子見で一舐めすると、今度はウァンの手のひらに顔を埋め、桔紅酥をくずも残さずぺろりと食べ切った。\n彼は本来、器鬼に対してあまり親しみを持ち合わせていない。しかし、この捨てられた碁笥の器鬼が再びそばに戻ってきた時、彼の策謀も思慮もついにため息に変わってしまった。それ以来、この器鬼に対する「仕方ない」という気持ちは二度と振りほどけなくなった。\n軽くため息を吐いたウァンは、いびきをかいて眠る「雲獣」にお菓子をやった手を差し出したまま、再び視線を碁盤に向け、終わりのない策略を巡らせた。",
+      "typeIcon": "trp-x",
+      "typeName1": "TRP",
+      "typeName2": "X",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_2027_wang",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "missionList": [
+        "uniequip_002_wang_1",
+        "uniequip_002_wang_2"
+      ],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30155",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30165",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 1,
+      "hasUnlockMission": true,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#ce9e43"
+    },
+    "uniequip_001_chen3": {
+      "uniEquipId": "uniequip_001_chen3",
+      "uniEquipName": "赤刃明霄チェンの記章",
+      "uniEquipIcon": "uniequip_001_chen3",
+      "uniEquipDesc": "赤刃明霄チェンは近接戦闘において敵に術ダメージを与えることに秀でている。\n外勤部門の決定に基づき、\n外勤任務においては前衛オペレーターとして区分し、術戦士の責務を担う。\n特別に本記章を授与し、\nその証明とする。",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_1050_chen3",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "unlockFavors": [],
+      "itemCost": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#cd1518"
+    },
+    "uniequip_002_chen3": {
+      "uniEquipId": "uniequip_002_chen3",
+      "uniEquipName": "記憶の残頁",
+      "uniEquipIcon": "uniequip_002_chen3",
+      "uniEquipDesc": "歳の動乱が収まると同時に、字鬼も消え去った。だがその一件による傷跡は、百灶に色濃く残っている。\n崩れた壁は撤去され、倒れた書架は起こされた。書物や絵画は、破れたものもそうでないものも、瓦礫からそう遠くない空き地に整然と並べられている。その隣には、真っ二つに割れた「尋字斎」と書かれた額が置かれていた。\nチェン・ジャオチェンによると、ここは百灶でも指折りの蔵書を誇り、歴史的建造物とも呼べるそうだ。さらに重要なのは、百二十年前に起きた歳獣の異変で典籍が字を失って以来、真実を追い求めた人々が探し出した書物や絵画がここに所蔵されていることだ。ここの主は員外郎の黄（ホァン）といい、古いものを愛好しており、百灶が何度の変遷を経ても、変わらず先祖代々受け継いできた遺産を守り続けた人物だ。\n「本が多すぎるな。一体、どれが彼女の痕跡にあたるんだ？」\n瓦礫からもう何冊目かもわからない本を掘り出したチェンは、肩で息をしながら堪えきれずに尋ねた。\n「全部がそうかもしれないし、どれも違うかもしれません。」長時間の力仕事で、チェン・ジャオチェンも不機嫌そうに呟いた。「……それか彼女の痕跡は、一冊の書物や一巻の巻物にまとまっていない可能性も。歴史から失われたものを全て揃えて初めて、私たちは彼女の姿を目にするのかもしれません。」\n「全て揃える、か……」\n炎国の文学と歴史にそれほど詳しくないチェンには、その言葉の重みがあまり理解できなかった。\n確かにチェンはここ数日の騒動を経て、かの千年近くにわたる炎国文字と歴史の番人に敬意を持つようになった。それでも、彼女は一つの疑問を抱かずにはいられなかった――それほど大きな労力を費やしてでも、故人を呼び覚ますべきなのだろうか？\nチェンはまた一巻の巻物を瓦礫の山から拾い上げる。山での暮らしを描いた古風な絵図だ。拙くとも墨を散らし、感じたままを写す手法で山と村落を描いており、大きな余白は遥かな大空を思わせる。しかし全体の構図が整っているとは言いがたく、見る者は題名のためにわざわざ余白を残したのではないかとすら考えさせられる。\n「お二方、ご苦労様です。しばしお休みください。」員外郎のホァンが二杯の茶と一皿のお菓子を持ち寄り、手伝いをしてくれている二人をねぎらった。\n「ホァンさん、この山水図がどこの景色を描いたものか知らないか？」チェンは巻物を指して尋ねた。\n「ふむ……なんとも不思議な絵です。この山の松は北に植生する種のようですが、村の家屋は南の様式。こんな景色がどこにあるかと言われると……」\nもしかすると、目の前の書斎が廃墟となる前の姿なのかもしれない。\n歴史とはそういうものだ――自ら後世に伝承せず、無意識のうちに忘れ去られ、意図的に消し去られる。失われるものが山水の景色一つの名前ということもあれば、一人、あるいは多くの人の名前ということもある。\n過去のことは、目の前のことほど重要ではない。「公義」という二文字を許容できる場所は背後にあるかもしれないが、そこへ至る道は過去の中で探し求めるしかない。\nあるいは、この絵の題名を見つけることから始めるべきかもしれない。\n\n翌日、天鏡閣で徹夜の仕事をしていたチェン・ジャオチェンが眠りから目を覚ますと、机に置き手紙を見つけた――\n長き復興を待つに、あえて怠ることはなし。然れども史跡を尋ねるは、書斎の一処のみにあらず。山は高く水は遠し、来たる日に再び会わん。\nチェン・フェイゼ 拝",
+      "typeIcon": "aft-x",
+      "typeName1": "AFT",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_1050_chen3",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "missionList": [
+        "uniequip_002_chen3_1",
+        "uniequip_002_chen3_2"
+      ],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30155",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 1,
+      "hasUnlockMission": true,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#cd1518"
+    },
+    "uniequip_001_ju": {
+      "uniEquipId": "uniequip_001_ju",
+      "uniEquipName": "ジューの記章",
+      "uniEquipIcon": "uniequip_001_ju",
+      "uniEquipDesc": "ジューは距離を保って火力で大型の敵を制圧することに秀でている。\n外勤部門の決定に基づき、\n外勤任務においては狙撃オペレーターとして区分し、破城射手の責務を担う。\n特別に本記章を授与し、\nその証明とする。",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_4221_ju",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "unlockFavors": [],
+      "itemCost": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#af6f48"
+    },
+    "uniequip_002_ju": {
+      "uniEquipId": "uniequip_002_ju",
+      "uniEquipName": "案山子",
+      "uniEquipIcon": "uniequip_002_ju",
+      "uniEquipDesc": "矩は、かつてないほどの閉塞感を覚えていた。目線を落としてみれば、左脇の下側を流れる水流が若干弱まっているようだ。好奇心に駆られた矩は、書生風の服に着替えて畦道を歩き、変化の原因を探ろうとした。遠くには谷の最も狭まった部分に未完成の堤が見え、その裏側には水が貯まって小さな湖ができていた。矩が怒りを覚えることはなく、むしろ強い興味を抱いた。\n「石の間から水が漏れ出すから、ここから斜めに溝を掘って、排水口に流すんだ。」堤の上で、褐色の服を着た職人が現場を指揮していた。おそらく彼が棟梁なのだろう。\n「貴殿らは、なにゆえ川の水を堰き止める？」矩は彼らに歩み寄って尋ねた。\n「もちろん、災害を防ぐためさ。」職人は汗を拭いながら答えた。\n「災害を防ぐため？」\n「山じゃ干ばつも水害も日常茶飯事でね。堤があれば、水を貯めたり放出したりして、水量を調整できるんだ。」\n「だが川は古より止まることなく、それぞれが流れるべき道を流れている。その道を貴殿らが無理に変えてしまえば、川の神仙の怒りに触れると恐れぬのか？」\n誰かがそれを聞いて思わず吹き出したが、職人は表情を引き締めて返した。「川には川の道があるかもしれんが、人にも人の道がある。川が人の生きるための一番大事な道を奪っちまった以上、神仙が何とかしてくれないってなら、人が自ら干渉するしかないだろう。」\nそれから数日間、矩は人間たちが四六時中堤を固め続ける様子を眺めていた。口も出さず、手も貸さない矩に対し、職人は振り向いて冗談を言った。「そんな風に一日中眺めてるんじゃ、知識を求める書生と言うより、むしろ田んぼに突っ立ってる案山子みたいだな。」矩は返事をせず、変わらず眺め続けていた。\n一ヶ月後、堤が完成しないうちに、予想外の春の雨が訪れた。そんな中でも作業員は片時も気を緩めず、職人に従って土を運んで杭を打ち、竹籠を編んでいた。だが突然発生した山津波が堤を襲い、濁流が堤に衝突して亀裂を作った。驚くべきことに、彼らは瞬時に堤に向かって駆け出し、身を挺して亀裂を塞ごうとしたのだ。その様子を見た矩が掌をくるりと返すと、濁流の勢いはすぐに弱まった。その隙に人々は手当たり次第の土嚢で亀裂を塞いだ。雨がようやく止む頃には、堤はボロボロになりながらも、ついに崩れることはなかった。職人が深い安堵の息をつき、後ろを振り向くと、そこには汚れひとつない書生風の服を着た矩が変わらず彼を見つめていた。\n「今回ばかりは川の神様の慈悲に感謝しないとな。」\n「川の神に？感謝すべきは、貴殿らの道が……理に適っていることに対してではないのか？」\n職人は首を横に振って答えた。「いや、ちゃんとわかってんだ。さっき俺たちを助けてくれたのは、理じゃなくて運だってな。そんで、運がどこから来たかって言うと――」\n彼はすっと立ち上がり、堤の向こうで鎮まりつつある川を指さした。「天気が晴れれば、明日にでも水門を開いて放水するさ。川の神よ、安心してくれ。俺たちは水に流れてほしくないわけじゃない。ただ規則を守って、流れるべき時に流れてほしいだけなんだ。」\n「……勝手にするがよい。」矩は身を翻し、その場を離れようとした。\n「ちょっと待ってくれ。」\n「ここ最近、毎日この堤に来てただろう？これは推測だが、俺たちの作ってるもんに心底興味がありそうじゃないか。だったら、ここに留まったらどうだ？」\n「田んぼに降りて、俺たちの作業を観察するとか、人里に入って……俺たちの敷いた道を見るとかすりゃいいと思うぞ。」\n「ほう？」矩は足を止めて振り返った。\n「もちろん、田んぼに突っ立ってる案山子（かかし）よろしく、皆を背中から静かに眺めていたいってなら、それでも構わんが。」\n「とはいえ、やっぱり実際にその手で量ってみたいと思わないか？」\n「人の道に、どれだけの重みがあるのかをな。」",
+      "typeIcon": "sie-x",
+      "typeName1": "SIE",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_4221_ju",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "missionList": [
+        "uniequip_002_ju_1",
+        "uniequip_002_ju_2"
+      ],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31084",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31044",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 1,
+      "hasUnlockMission": true,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#af6f48"
+    },
+    "uniequip_001_yu": {
+      "uniEquipId": "uniequip_001_yu",
+      "uniEquipName": "ユーの記章",
+      "uniEquipIcon": "uniequip_001_yu",
+      "uniEquipDesc": "ユーは戦線を維持しつつ敵に対して元素損傷を与えることに秀でている。\n外勤部門の決定に基づき、\n外勤任務においては重装オペレーターとして区分し、本源衛士の責務を担う。\n特別に本記章を授与し、\nその証明とする。",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_2026_yu",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "unlockFavors": [],
+      "itemCost": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#d22552"
+    },
+    "uniequip_002_yu": {
+      "uniEquipId": "uniequip_002_yu",
+      "uniEquipName": "人間百味",
+      "uniEquipIcon": "uniequip_002_yu",
+      "uniEquipDesc": "わざわざ届けられる料理には、得てして一片の情と、一つの思いが結び付いている。\n余味居の出前稼業は、気づけば始まっていた。きっかけは、ある年配の常連が転倒して傷を負い、子どもたちに故郷へ連れ戻されたことだった。ユーは見舞いに出向き、老人が前に予約していた焼き羽獣を重箱から取り出した。老人は驚いたが、すぐに苦笑した。「わざわざ遠くから届けに来るものでもないだろうに。これはもともと自分の誕生日を祝うために予約したものだよ。今さら何を祝うんだ。もうさっさと死にたいくらいだっていうのに！」\n老人はわざと声を荒らげた。すると、扉の外で続いていた、誰が介護を担うかという子どもたちの密やかな言い争いがぴたりと止んだ。老人は焼き羽獣を脇へ押しやり、食欲がないと言った。ユーはため息をつくと、強引に箸を老人の手に握らせた。「どんなに腹が立っても、食事はするものだよ。」\n肉を口に運ぶと、老人はゆっくり目を閉じた。「昔食べた味のはずだが、何が違うというのか……そうか、あの頃は、周りが本当に賑やかだったな」\nユーが出前を請け負うのは、店の手が空くときに限られる。だがある時期、百灶の劉という大商人から、何度も人づてに出前を懇願された。それなのに、注文するのは決まって油を一切使わない陽春麺の一杯だけだった。ユーはその人のことを思い出した。\n高い敷居をまたいで劉家の屋敷に入ると、家の中は荒れており、家財の多くは売り払われていた。病に倒れた商人は麺が来たと聞くと、無理して身を起こし、ひと口すすった。ユーが特別に多めに添えた葱の香りを感じたのか、彼はふいに涙をこぼした。\n「君は、貧しい行商人だった私のことを、まだ覚えていてくれたのか。あのとき君が奢ってくれた一杯の麺が、私に腹を括らせたんだ。家財をすべて売って賭けてみよう、と。何も入ってない麺があれほど旨いのなら、暮らしがどれほど落ちぶれても、どうということはないと思ったのだ。それから私は何度も賭けた。成功して、また転がり、起き上がる……そして今度は奈落の底だ。相手にしてくれるのは、また君だけとなった。」\nユーは言葉を挟まず、ただ傍に座り、彼が陽春麺を食べ終えるまで付き添った。\nユーが初めて葬儀後の宴に関わったのも、やはり常連客のものだった。別れの「味わい」を初めて口にしたユーは呆気にとられ、戸惑った。宴席の空気が普段のそれと大して変わらなかったからだ。確かに黙り込んで悲しむ人もいるが、部下は上司に酒を勧め、親戚や友人たちは世間話に花を咲かせている。ひとしきり泣けば、葬儀もまた日常の延長にすぎないと言わんばかりだ。だが何よりユーが戸惑ったのは、故人の遺言だった。みんなが賑やかに食べられるよう、激辛の紅油火鍋を用意するようにと、言葉を残していたのだ。\n誰かが食べながら、故人が生前、社員証を鍋に落として紅油を同僚にぶちまけたことを持ち出すと、みんながどっと笑った。それを皮切りに、他の人も故人の数々の逸話、悪癖、宿願、そして口癖だった――「今度、飯でも奢るよ」という言葉について語り出した。ユーは目の前の銅鍋を見つめ、ふいに故人の意図を悟った――彼はただ、皆にご飯を奢って、別れを告げたかったのだと。\nこの宴も世の数多の宴と同じく、喜ぶ者がいれば悲しむ者もいる。辛党もいれば甘党もいる。人の世とは、往々にしてそういうものだ。",
+      "typeIcon": "prp-x",
+      "typeName1": "PRP",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_2026_yu",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "missionList": [
+        "uniequip_002_yu_1",
+        "uniequip_002_yu_2"
+      ],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30165",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 1,
+      "hasUnlockMission": true,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#d22552"
+    },
+    "uniequip_001_philae": {
+      "uniEquipId": "uniequip_001_philae",
+      "uniEquipName": "フィラエの記章",
+      "uniEquipIcon": "uniequip_001_philae",
+      "uniEquipDesc": "フィラエは戦線を維持しつつ敵に対して元素損傷を与えることに秀でている。\n外勤部門の決定に基づき、\n外勤任務においては重装オペレーターとして区分し、本源衛士の責務を担う。\n特別に本記章を授与し、\nその証明とする。",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_4148_philae",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "unlockFavors": [],
+      "itemCost": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#dbac2e"
+    },
+    "uniequip_002_philae": {
+      "uniEquipId": "uniequip_002_philae",
+      "uniEquipName": "撫でさする日々",
+      "uniEquipIcon": "uniequip_002_philae",
+      "uniEquipDesc": "フィラエがはっと目を覚ましたとき、最初に目に入ったのは、机の上に置かれた瑞々しい林檎だった。彼女はしばらく意識の狭間を彷徨っていた。呼吸を整え、祈りの言葉を紡ぐ――そのあと、不覚にも眠ってしまったのだ。部屋はとても静かで、周囲には微かな香料の匂いだけが漂っている。お守りは手に握られており、指にはそこから伝わる冷たさが残っていた。\n近頃フィラエは、仲間たちから頼まれた小さな問題を解決することに、徐々に慣れ始めていた。物事への対応は以前より余裕ができ、神官たちに別れを告げたばかりの頃の自分と比べれば、ずいぶん成長したように思える。任務を受ける際の依頼の言葉、仲間たちの明るい笑い声、新たな生命の産声、そして別れの慟哭――身の回りがますます賑やかになっていくのにも慣れて、フィラエはそれらの声と音を一つずつ覚え、胸の内の戸棚にそっとしまっていった。瞑想の折、彼女はしばしば戸棚を開き、しまい込んだ感覚の手触りを何度も確かめた。\nだがフィラエにとって、いくつかの感覚は遅れて訪れる。アーツを振るう最中ではなく、どこかに留まり、潜み、見つめ、やがて音もなく近付くと、そっと彼女の肩に舞い降りるのだ。それは石碑の表皮が剥がれ落ちる瞬間のようでもあり、泥の壁に走る亀裂が夜中に密かに伸びていくようでもある。彼女のアーツと絡み合う死の残響は、彼女の脳裏でゆっくりと、かつ無慈悲に増殖し続け、低くて長い唸り声のように鳴り止まない。アーツの行使を終えるたび、それはまた静かに戻ってくる。たとえ彼女自身が「すでに影と共に在り、それを力へと転じている」と自認している今でさえ、何かが砕けるような微かな「響き」は決して消え失せることはなかった。\nやがて疲れ果て、知らず知らずのうちに眠りへ落ちると、その「響き」は彼女を呼び覚ます。フィラエは古びたお守りを握り、表面にある馴染み深い傷の一本一本を指で撫でさすった。目を閉じ、「生命の河」に立ち込める朝霧を、石段の果てにある祈祷の碑を、老人の皺だらけの掌を思い出す。現実と夢想の狭間で塵のように降り積もる、砕けるような「響き」と共に。生の営みそのものが修行となり、瞑想が休憩となっている今、こうして静座することは精神の浄化の過程なのか、それとも形の違った逃避なのか、彼女自身にも判然としない。だが同時に理解もしている。誰も答えを与えてはくれないし、他者からの答えで自分を納得させることもできないのだ、と。\nフィラエは小さく息をつき、立ち上がると机の傍へ歩み寄り、林檎を手に取った。林檎は甘く、舌先に果汁が広がった瞬間、あの何かが砕けるような「響き」は止んだ。日常は続いていく。お守りは手の中で、ほんのりと温みを帯びている。フィラエはゆっくりと林檎を噛みしめた。彼女はまた外へ赴き、人々と出会い、風や雨の音を聞き、去りゆく生命の音や、それが生まれ出ずる音を聴きに行かねばならない。それらが、脳裏にはびこる、何かが砕けるような「響き」を覆い尽くしてくれるその日まで。",
+      "typeIcon": "prp-x",
+      "typeName1": "PRP",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_4148_philae",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "missionList": [
+        "uniequip_002_philae_1",
+        "uniequip_002_philae_2"
+      ],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31094",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30014",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31024",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 1,
+      "hasUnlockMission": true,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#dbac2e"
+    },
+    "uniequip_001_cairn": {
+      "uniEquipId": "uniequip_001_cairn",
+      "uniEquipName": "ケルンの記章",
+      "uniEquipIcon": "uniequip_001_cairn",
+      "uniEquipDesc": "ケルンは戦線を維持しつつ敵に対して元素損傷を与えることに秀でている。\n外勤部門の決定に基づき、\n外勤任務においては重装オペレーターとして区分し、本源衛士の責務を担う。\n特別に本記章を授与し、\nその証明とする。",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_0",
+      "charId": "char_4214_cairn",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "missionList": [],
+      "unlockFavors": [],
+      "itemCost": [],
+      "type": "INITIAL",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 0,
+      "hasUnlockMission": false,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#b83f29"
+    },
+    "uniequip_002_cairn": {
+      "uniEquipId": "uniequip_002_cairn",
+      "uniEquipName": "「パラシュート」",
+      "uniEquipIcon": "uniequip_002_cairn",
+      "uniEquipDesc": "「……わかってるだろう、俺は本気で彼女の後追いをしたくて、あんたを頼ったんだ。」男は椅子の上でそわそわと身をよじらせた。\n「わかってるよ。」\n「でもさ、こういうのは、本当に実現するのが難しいんだ。」男の動きはいっそうぎこちなくなる。フェルネは頭をかいた。椅子に画鋲など仕込んでいないと、彼女は確信しているが。\n「わかってるよ。」\n「それにほら、うちの国の人は親切だし、警備も行き届いてる。彼女が飛び込んだ湖は今や人気の観光エリアで、俺がそんな気配を見せただけで通報されて助けられちまう。後追いを手伝うっていうのなら、観光客を全員排除しなきゃならない。いくらなんでも無理な話だ――」男は懇願するようにフェルネを見つめた。彼女には、それは承諾を求めている顔というより、どうか断ってくれと祈っているような顔に見えた。\n「そうだね。でも、あたしなら本当にやれるよ。」\n「……」男は黙って椅子に沈み込んだ。その表情は、ほっとしたと言うより、とびきり悪い知らせを聞かされたときのそれに近かった。\n「だけど、条件がある。」\n「金か？悪いが、知っての通り俺は貧乏なんだ。なら、この件はなしってことで――」男はぱっと身を起こした。まるで縋れる藁を見つけたかのように。\n「お金のことじゃないって！彼女がこの世を去ってからの数年間、あなたは何百通も謝罪の手紙を書いたんでしょ？それを全部持ってきて。」\n\n翌日、男はかつて恋人が身を投げた岩の上に立っていた。フェルネの言葉通り、今この瞬間、観光エリアにこの男を助けられる人は一人もいない。一歩進むたび、足首の鎖が耳障りな音を立てる。鎖の先には巨大な麻袋が結び付けられており、中にはここ数年、懺悔を書き続けた手紙がぎっしりと詰まっていた。\nあのぱっとしないガイドのところを訪ねたとき、男はただ、はっきりした「ノー」という拒絶の言葉を聞き、心おきなく後追いを諦めて安心するつもりだった。なのに、どうしてこんなところまで来てしまったのか。\n理解はしている。もう逃げられない。ここまで自分を追い詰めたのは、長年苛まれてきた罪悪感だ。ここで逃げたら、もう二度と自分と向き合うことはできない。\n大きく嘆きのため息をつくと、男は一気に身を投げた。\n\n湖の水は冷たい。\nこれで彼女に報いることができたのか。自分に報いることができたのか。\n男にはわからない。\nわかるのはただ、湖の水が冷たいということだけだ。彼女が身を投げたときに望んでいたのは、こんな凍えるように冷酷な結末だったのだろうか？\nだが男は今、それを少しも望んでいない。\n男は必死にもがいた。あのガイドに頼まなければよかった。もし足に、手紙を詰め込んだ麻袋さえ繋がれていなければ、まだ助かる見込みが――\n「げほっ――ごほごほっ！」\nそのとき、大きな網が、がっしりと男の体をすくい上げた。早々に立ち去ったはずのフェルネが水面から顔を出し、片目をつむってみせる。\n「あ、あんた……鎖は？麻袋は？」\n「もう水の底。」\n「じゃあ、後追いの件は――」\n「本気でまだそうしたいなら、もう一度、正式に依頼して。前に受けた依頼は、『ある人の罪悪感を捨て去り、お詫びを届けるのを手伝うこと』だったはずだよ。後追いの手伝いじゃないからね。」",
+      "typeIcon": "prp-x",
+      "typeName1": "PRP",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_4214_cairn",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "missionList": [
+        "uniequip_002_cairn_1",
+        "uniequip_002_cairn_2"
+      ],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31034",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31064",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 1,
+      "hasUnlockMission": true,
+      "isSpecialEquip": false,
+      "specialEquipDesc": null,
+      "specialEquipColor": null,
+      "charColor": "#b83f29"
+    },
+    "uniequip_004_irene": {
+      "uniEquipId": "uniequip_004_irene",
+      "uniEquipName": "アイリーニの特別限定記章",
+      "uniEquipIcon": "uniequip_004_irene",
+      "uniEquipDesc": "アイリーニは特別な認証許可を得ている。\n外勤部門の決定に基づき、\n統合戦略行動において改良型戦略を駆使して敵に対処する。\n特別に本記章を授与し、\nその証明とする。\n「あなたには、最も厳しい審判が下るわ。」",
+      "typeIcon": "isw-a",
+      "typeName1": "ISW",
+      "typeName2": "A",
+      "equipShiningColor": "purple",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_4009_irene",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "missionList": [],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 4,
+      "hasUnlockMission": false,
+      "isSpecialEquip": true,
+      "specialEquipDesc": "特定モード専用効果追加",
+      "specialEquipColor": "0098dc",
+      "charColor": "#a27381"
+    },
+    "uniequip_004_pasngr": {
+      "uniEquipId": "uniequip_004_pasngr",
+      "uniEquipName": "パッセンジャーの特別限定記章",
+      "uniEquipIcon": "uniequip_004_pasngr",
+      "uniEquipDesc": "パッセンジャーは特別な認証許可を得ている。\n外勤部門の決定に基づき、\n生息演算行動において改良型戦略を駆使して敵に対処する。\n特別に本記章を授与し、\nその証明とする。\n「滅びこそが、貴方に相応しい罰です。」",
+      "typeIcon": "ra-a",
+      "typeName1": "RA",
+      "typeName2": "A",
+      "equipShiningColor": "purple",
+      "showEvolvePhase": "PHASE_2",
+      "unlockEvolvePhase": "PHASE_2",
+      "charId": "char_472_pasngr",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "missionList": [],
+      "unlockFavors": {
+        "1": 0,
+        "2": 2732,
+        "3": 10070
+      },
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1784185200,
+      "uniEquipShowEnd": -62135629200,
+      "charEquipOrder": 4,
+      "hasUnlockMission": false,
+      "isSpecialEquip": true,
+      "specialEquipDesc": "特定モード専用効果追加",
+      "specialEquipColor": "0098dc",
+      "charColor": "#f7bd7d"
     }
   },
   "missionList": {
@@ -66422,6 +67280,173 @@
       "uniEquipMissionSort": 2,
       "uniEquipId": "uniequip_003_hodrer",
       "jumpStageId": "main_10-09"
+    },
+    "uniequip_002_ju_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "サポート以外のジューで敵に累計80000ダメージを与える。",
+      "paramList": [
+        "char_4221_ju",
+        "80000",
+        "0"
+      ],
+      "uniEquipMissionId": "uniequip_002_ju_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_ju",
+      "jumpStageId": null
+    },
+    "uniequip_002_ju_2": {
+      "template": "EquipmentSkillCastStage",
+      "desc": "エピソード『登臨意』WB-4を★3でクリア。その際、サポート以外のジューを編成・配置し、スキル「良翼、乗り難し」を1回以上使用。",
+      "paramList": [
+        "3",
+        "act23side_04",
+        "skchr_ju_2",
+        "1",
+        "char_4221_ju"
+      ],
+      "uniEquipMissionId": "uniequip_002_ju_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_ju",
+      "jumpStageId": "act23side_04"
+    },
+    "uniequip_002_yu_1": {
+      "template": "EquipmentElementBurst",
+      "desc": "サポート以外のユーで累計8回、灼熱損傷の爆発効果を発動させる。",
+      "paramList": [
+        "char_2026_yu",
+        "8",
+        "3"
+      ],
+      "uniEquipMissionId": "uniequip_002_yu_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_yu",
+      "jumpStageId": null
+    },
+    "uniequip_002_yu_2": {
+      "template": "EquipmentSquadNoAnyDead",
+      "desc": "エピソード『画中人』WR-4を★3でクリア。その際、サポート以外のユーを編成・配置し、全てのオペレーターが一度も倒されないようにする。",
+      "paramList": [
+        "3",
+        "act16d5_04",
+        "char_2026_yu"
+      ],
+      "uniEquipMissionId": "uniequip_002_yu_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_yu",
+      "jumpStageId": "act16d5_04"
+    },
+    "uniequip_002_philae_1": {
+      "template": "EquipmentElementBurst",
+      "desc": "サポート以外のフィラエで累計3回、壊死損傷の爆発効果を発動させる。",
+      "paramList": [
+        "char_4148_philae",
+        "3",
+        "4"
+      ],
+      "uniEquipMissionId": "uniequip_002_philae_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_philae",
+      "jumpStageId": null
+    },
+    "uniequip_002_philae_2": {
+      "template": "EquipmentSkillCastStage",
+      "desc": "メインテーマ10-2の通常実戦環境を★3でクリア。その際、サポート以外のフィラエを編成・配置し、スキル「冥河の呪詛」を1回以上使用。",
+      "paramList": [
+        "3",
+        "main_10-01",
+        "skchr_philae_2",
+        "1",
+        "char_4148_philae"
+      ],
+      "uniEquipMissionId": "uniequip_002_philae_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_philae",
+      "jumpStageId": "main_10-01"
+    },
+    "uniequip_002_cairn_1": {
+      "template": "EquipmentElementBurst",
+      "desc": "サポート以外のケルンで累計3回、神経損傷の爆発効果を発動させる。",
+      "paramList": [
+        "char_4214_cairn",
+        "3",
+        "1"
+      ],
+      "uniEquipMissionId": "uniequip_002_cairn_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_cairn",
+      "jumpStageId": null
+    },
+    "uniequip_002_cairn_2": {
+      "template": "EquipmentSkillCastStage",
+      "desc": "エピソード『ウォルモンドの薄暮』TW-7を★3でクリア。その際、サポート以外のケルンを編成・配置し、スキル「メガホン式ガイド」を1回以上使用。",
+      "paramList": [
+        "3",
+        "act11d0_07",
+        "skchr_cairn_2",
+        "1",
+        "char_4214_cairn"
+      ],
+      "uniEquipMissionId": "uniequip_002_cairn_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_cairn",
+      "jumpStageId": "act11d0_07"
+    },
+    "uniequip_002_chen3_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "サポート以外の赤刃明霄チェンのスキル「赤霄・天喟」を累計5回使用。",
+      "paramList": [
+        "char_1050_chen3",
+        "skchr_chen3_3",
+        "5",
+        "char_1050_chen3"
+      ],
+      "uniEquipMissionId": "uniequip_002_chen3_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_chen3",
+      "jumpStageId": null
+    },
+    "uniequip_002_chen3_2": {
+      "template": "EquipmentCharKilledStage",
+      "desc": "メインテーマ5-10を★3でクリア。その際、サポート以外の赤刃明霄チェンを編成・配置し、赤刃明霄チェンの攻撃で敵を3体以上撃破。",
+      "paramList": [
+        "3",
+        "main_05-10",
+        "char_1050_chen3",
+        "3",
+        "char_1050_chen3"
+      ],
+      "uniEquipMissionId": "uniequip_002_chen3_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_chen3",
+      "jumpStageId": "main_05-10"
+    },
+    "uniequip_002_wang_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "サポート以外のウァンのスキル「天下劫」を累計3回使用。",
+      "paramList": [
+        "char_2027_wang",
+        "skchr_wang_3",
+        "3",
+        "char_2027_wang"
+      ],
+      "uniEquipMissionId": "uniequip_002_wang_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_wang",
+      "jumpStageId": null
+    },
+    "uniequip_002_wang_2": {
+      "template": "EquipmentSquadNum",
+      "desc": "エピソード『懐黍離』HS-7を★3でクリア。その際、サポート以外のウァンを編成・配置し、それ以外のメンバーは7人以下とする。",
+      "paramList": [
+        "3",
+        "act31side_07",
+        "char_2027_wang",
+        "7"
+      ],
+      "uniEquipMissionId": "uniequip_002_wang_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_wang",
+      "jumpStageId": "act31side_07"
     }
   },
   "subProfDict": {
@@ -66794,6 +67819,11 @@
       "subProfessionId": "skybreaker",
       "subProfessionName": "翔空射手",
       "subProfessionCatagory": 74
+    },
+    "watchman": {
+      "subProfessionId": "watchman",
+      "subProfessionName": "空癒師",
+      "subProfessionCatagory": 75
     }
   },
   "subProfToProfDict": {
@@ -66866,7 +67896,8 @@
     "primguard": 1,
     "counsellor": 512,
     "mercenary": 1,
-    "skybreaker": 2
+    "skybreaker": 2,
+    "watchman": 8
   },
   "charEquip": {
     "char_248_mgllan": [
@@ -66962,7 +67993,8 @@
     "char_472_pasngr": [
       "uniequip_001_pasngr",
       "uniequip_002_pasngr",
-      "uniequip_003_pasngr"
+      "uniequip_003_pasngr",
+      "uniequip_004_pasngr"
     ],
     "char_306_leizi": [
       "uniequip_001_leizi",
@@ -67189,7 +68221,8 @@
     "char_4009_irene": [
       "uniequip_001_irene",
       "uniequip_002_irene",
-      "uniequip_003_irene"
+      "uniequip_003_irene",
+      "uniequip_004_irene"
     ],
     "char_4046_ebnhlz": [
       "uniequip_001_ebnhlz",
@@ -68448,6 +69481,30 @@
     "char_4166_varkis": [
       "uniequip_001_varkis",
       "uniequip_002_varkis"
+    ],
+    "char_2027_wang": [
+      "uniequip_001_wang",
+      "uniequip_002_wang"
+    ],
+    "char_1050_chen3": [
+      "uniequip_001_chen3",
+      "uniequip_002_chen3"
+    ],
+    "char_4221_ju": [
+      "uniequip_001_ju",
+      "uniequip_002_ju"
+    ],
+    "char_2026_yu": [
+      "uniequip_001_yu",
+      "uniequip_002_yu"
+    ],
+    "char_4148_philae": [
+      "uniequip_001_philae",
+      "uniequip_002_philae"
+    ],
+    "char_4214_cairn": [
+      "uniequip_001_cairn",
+      "uniequip_002_cairn"
     ]
   },
   "equipTypeInfos": [
@@ -73767,6 +74824,95 @@
           "equipId": "uniequip_003_hodrer",
           "type": "ADVANCED",
           "archiveShowTimeEnd": 1784185200
+        }
+      ]
+    },
+    {
+      "timeStamp": 1784185200,
+      "trackList": [
+        {
+          "charId": "char_2027_wang",
+          "equipId": "uniequip_001_wang",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_2027_wang",
+          "equipId": "uniequip_002_wang",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_1050_chen3",
+          "equipId": "uniequip_001_chen3",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_1050_chen3",
+          "equipId": "uniequip_002_chen3",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_4221_ju",
+          "equipId": "uniequip_001_ju",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_4221_ju",
+          "equipId": "uniequip_002_ju",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_2026_yu",
+          "equipId": "uniequip_001_yu",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_2026_yu",
+          "equipId": "uniequip_002_yu",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_4148_philae",
+          "equipId": "uniequip_001_philae",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_4148_philae",
+          "equipId": "uniequip_002_philae",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_4214_cairn",
+          "equipId": "uniequip_001_cairn",
+          "type": "INITIAL",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_4214_cairn",
+          "equipId": "uniequip_002_cairn",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_4009_irene",
+          "equipId": "uniequip_004_irene",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
+        },
+        {
+          "charId": "char_472_pasngr",
+          "equipId": "uniequip_004_pasngr",
+          "type": "ADVANCED",
+          "archiveShowTimeEnd": -62135629200
         }
       ]
     }
