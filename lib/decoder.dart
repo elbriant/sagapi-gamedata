@@ -60,6 +60,29 @@ class GamedataDecoder {
         return true;
       }
 
+      // Baked muzzle data (character baked animations) - binary FlatBuffers
+      // routed by folder: `gamedata/bakemuzzledata/...` -> bake_muzzle_data.fbs
+      if (file.path.contains(p.join('gamedata', 'bakemuzzledata'))) {
+        bool isFbs = await _decodeFlatbuffer(
+          file,
+          rawBytes,
+          'bake_muzzle_data',
+          fbsSchemasDir,
+          verbose: verbose,
+        );
+        if (isFbs) return true;
+
+        // Fallback: AES decrypt
+        try {
+          final decryptedAES = ArknightsCrypto.decryptCrypticA(rawBytes);
+          dynamic decoded = ArknightsCrypto.parseJsonOrBson(decryptedAES);
+          _saveCleanJson(file, _collapseDicts(decoded));
+          return true;
+        } catch (_) {}
+
+        return false;
+      }
+
       // Standard Game Tables
       final hexRegex = RegExp(
         r'^(\w+_(?:table|data|const|database|text))(?:[0-9a-fA-F]{6})?\.bytes$',
