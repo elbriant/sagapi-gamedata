@@ -4548,7 +4548,8 @@
             "value": 0.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4583,7 +4584,8 @@
             "value": 0.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4618,7 +4620,8 @@
             "value": 0.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4653,7 +4656,8 @@
             "value": 0.0,
             "valueStr": "line_04"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4688,7 +4692,8 @@
             "value": 0.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4723,7 +4728,8 @@
             "value": 0.0,
             "valueStr": "line_06"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

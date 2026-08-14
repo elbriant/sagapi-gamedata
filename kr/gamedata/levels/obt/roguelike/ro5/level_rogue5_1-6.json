@@ -7372,7 +7372,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7402,7 +7403,8 @@
             "value": 0.4,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7432,7 +7434,8 @@
             "value": 0.0,
             "valueStr": "enemy_2106_dyremy"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7456,7 +7459,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7486,7 +7490,8 @@
             "value": 0.4,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7516,7 +7521,8 @@
             "value": 0.0,
             "valueStr": "enemy_2106_dyremy"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7540,7 +7546,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7564,7 +7571,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

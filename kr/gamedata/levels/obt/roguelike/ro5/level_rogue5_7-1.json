@@ -5544,7 +5544,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5574,7 +5575,8 @@
             "value": 0.4,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5604,7 +5606,8 @@
             "value": 0.0,
             "valueStr": "enemy_2106_dyremy"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5628,7 +5631,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5658,7 +5662,8 @@
             "value": 0.4,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5688,7 +5693,8 @@
             "value": 0.0,
             "valueStr": "enemy_2106_dyremy"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5728,7 +5734,8 @@
             "value": 0.0,
             "valueStr": "enemy_1302_ymtro_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5768,7 +5775,8 @@
             "value": 0.0,
             "valueStr": "enemy_1302_ymtro_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5792,7 +5800,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

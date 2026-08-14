@@ -3323,7 +3323,8 @@
             "value": 0.0,
             "valueStr": "bmbcar1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -3358,7 +3359,8 @@
             "value": 0.0,
             "valueStr": "bonore_spilot"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

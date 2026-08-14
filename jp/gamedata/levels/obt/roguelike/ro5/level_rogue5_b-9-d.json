@@ -18515,7 +18515,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -18555,7 +18556,8 @@
             "value": 0.0,
             "valueStr": "enemy_1309_mhboar_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -18595,7 +18597,8 @@
             "value": 0.0,
             "valueStr": "enemy_1304_mhwolf_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -18635,7 +18638,8 @@
             "value": 0.0,
             "valueStr": "enemy_1304_mhwolf_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -18675,7 +18679,8 @@
             "value": 0.0,
             "valueStr": "enemy_1304_mhwolf_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -18715,7 +18720,8 @@
             "value": 0.0,
             "valueStr": "enemy_1304_mhwolf_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -18755,7 +18761,8 @@
             "value": 0.0,
             "valueStr": "enemy_1309_mhboar_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],
@@ -18778,7 +18785,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "initialCnt": 0,
@@ -18798,7 +18806,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       }
     ]
   },

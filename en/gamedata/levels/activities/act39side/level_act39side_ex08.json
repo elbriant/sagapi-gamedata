@@ -5977,7 +5977,8 @@
             "value": 0.0,
             "valueStr": "route_1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -6007,7 +6008,8 @@
             "value": 0.0,
             "valueStr": "route_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -6037,7 +6039,8 @@
             "value": 0.0,
             "valueStr": "route_3"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -6067,7 +6070,8 @@
             "value": 0.0,
             "valueStr": "route_4"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

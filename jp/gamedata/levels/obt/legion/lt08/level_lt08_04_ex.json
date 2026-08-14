@@ -4818,7 +4818,8 @@
             "value": 8.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

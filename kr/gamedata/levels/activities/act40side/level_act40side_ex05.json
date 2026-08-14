@@ -3743,7 +3743,8 @@
             "value": 0.0,
             "valueStr": "summon_cjglon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -3773,7 +3774,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

@@ -2794,7 +2794,8 @@
             "value": 50.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],
@@ -2828,7 +2829,8 @@
             "value": 50.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ]
   },

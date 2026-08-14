@@ -9671,7 +9671,8 @@
             "value": 0.0,
             "valueStr": "Obt/SandboxPerm/sandbox_1/BattleAVG/dialog_sandbox_1_level_20"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -9711,7 +9712,8 @@
             "value": 0.0,
             "valueStr": "hidden_1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -9751,7 +9753,8 @@
             "value": 0.0,
             "valueStr": "hidden_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -9791,7 +9794,8 @@
             "value": 0.0,
             "valueStr": "hidden_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -9831,7 +9835,8 @@
             "value": 0.0,
             "valueStr": "hidden_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -9871,7 +9876,8 @@
             "value": 0.0,
             "valueStr": "hidden_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -9911,7 +9917,8 @@
             "value": 0.0,
             "valueStr": "hidden_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],
