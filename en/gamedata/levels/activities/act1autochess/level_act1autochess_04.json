@@ -17,7 +17,7 @@
   },
   "levelId": null,
   "mapId": null,
-  "bgmEvent": "bat_act35side_01",
+  "bgmEvent": "bat_kazimierz2_2",
   "environmentSe": null,
   "mapData": {
     "map": {
@@ -4531,113 +4531,6 @@
     {
       "motionMode": "FLY",
       "startPosition": {
-        "row": 9,
-        "col": 10
-      },
-      "endPosition": {
-        "row": 9,
-        "col": 2
-      },
-      "spawnRandomRange": {},
-      "spawnOffset": {},
-      "checkpoints": [
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 9,
-            "col": 8
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 12,
-            "col": 8
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 12,
-            "col": 5
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 9,
-            "col": 5
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 9,
-            "col": 4
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 12,
-            "col": 4
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 12,
-            "col": 3
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 9,
-            "col": 3
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        }
-      ],
-      "allowDiagonalMove": true,
-      "visitEveryTileCenter": false,
-      "visitEveryNodeCenter": false,
-      "visitEveryCheckPoint": false
-    },
-    {
-      "motionMode": "FLY",
-      "startPosition": {
         "row": 12,
         "col": 10
       },
@@ -4843,7 +4736,7 @@
               "actionType": "SPAWN",
               "managedByScheduler": true,
               "key": "enemy_1422_lrsldr",
-              "count": 5,
+              "count": 2,
               "preDelay": 12.0,
               "interval": 4.0,
               "routeIndex": 0,
@@ -4906,7 +4799,7 @@
               "actionType": "SPAWN",
               "managedByScheduler": true,
               "key": "enemy_1422_lrsldr",
-              "count": 4,
+              "count": 2,
               "preDelay": 3.0,
               "interval": 6.0,
               "routeIndex": 3,
@@ -4927,7 +4820,7 @@
               "actionType": "SPAWN",
               "managedByScheduler": true,
               "key": "enemy_1005_yokai",
-              "count": 3,
+              "count": 2,
               "preDelay": 3.0,
               "interval": 6.0,
               "routeIndex": 4,
@@ -4949,30 +4842,9 @@
               "managedByScheduler": true,
               "key": "enemy_1005_yokai",
               "count": 3,
-              "preDelay": 22.0,
-              "interval": 5.5,
-              "routeIndex": 5,
-              "blockFragment": false,
-              "autoPreviewRoute": false,
-              "autoDisplayEnemyInfo": false,
-              "isUnharmfulAndAlwaysCountAsKilled": false,
-              "hiddenGroup": null,
-              "randomSpawnGroupKey": null,
-              "randomSpawnGroupPackKey": null,
-              "randomType": "ALWAYS",
-              "refreshType": "ALWAYS",
-              "weight": 0,
-              "dontBlockWave": false,
-              "forceBlockWaveInBranch": false
-            },
-            {
-              "actionType": "SPAWN",
-              "managedByScheduler": true,
-              "key": "enemy_1005_yokai",
-              "count": 3,
               "preDelay": 26.0,
               "interval": 6.5,
-              "routeIndex": 6,
+              "routeIndex": 5,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -4993,7 +4865,7 @@
               "count": 3,
               "preDelay": 17.0,
               "interval": 9.0,
-              "routeIndex": 7,
+              "routeIndex": 6,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -5014,7 +4886,7 @@
               "count": 2,
               "preDelay": 18.0,
               "interval": 9.0,
-              "routeIndex": 8,
+              "routeIndex": 7,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
@@ -5035,7 +4907,7 @@
               "count": 3,
               "preDelay": 7.0,
               "interval": 8.0,
-              "routeIndex": 9,
+              "routeIndex": 8,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,
