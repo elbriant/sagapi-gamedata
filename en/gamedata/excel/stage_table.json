@@ -91648,6 +91648,2909 @@
       "advancedRuneIdList2": [],
       "useSpecialSizeMapPreview": false
     },
+    "act51side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_st01",
+      "levelId": null,
+      "zoneId": "act51side_zone1",
+      "code": "PA-ST-1",
+      "name": "The Rabble",
+      "description": "I accuse a clamorous wasteland. I see a thousand mouths and hear ten thousand voices. The arguments never end, nor reach a conclusion. Their proud posturing represents the destination of their intention.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_01",
+      "levelId": "Activities/act51side/level_act51side_01",
+      "zoneId": "act51side_zone1",
+      "code": "PA-1",
+      "name": "'Welcome to Katorga'",
+      "description": "I tell of a fragmented night, where youth was extinguished in the snow, while rotten wood lingers in the fireplace.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_tr01",
+      "levelId": "Activities/act51side/level_act51side_tr01",
+      "zoneId": "act51side_zone1",
+      "code": "PA-TR-1",
+      "name": "Depravity and Prosperity",
+      "description": "I present a rusted plate, once the humming industrial heart of Grypherburg, now a derelict organ waiting to be amputated.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_02",
+      "levelId": "Activities/act51side/level_act51side_02",
+      "zoneId": "act51side_zone1",
+      "code": "PA-2",
+      "name": "In Shackles",
+      "description": "I collect an ancient debt of blood. You whipped and herded the numbered beasts and let them cry and wail, until they remember that they were human once.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_03",
+      "levelId": "Activities/act51side/level_act51side_03",
+      "zoneId": "act51side_zone1",
+      "code": "PA-3",
+      "name": "Sun Shines Upon Grypherburg",
+      "description": "I beseech a clear night. One spark is all it will take to ignite this dried and pained land, thirsting for new life.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 1 Lv. 1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_04",
+      "levelId": "Activities/act51side/level_act51side_04",
+      "zoneId": "act51side_zone1",
+      "code": "PA-4",
+      "name": "Behind the Wall",
+      "description": "I fabricate an intricate dance. The shackles I was given at birth are my pivot. I stand with my back to the candlelight, so that I may see the dark night beyond the wall.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 1 Lv. 20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_05",
+      "levelId": "Activities/act51side/level_act51side_05",
+      "zoneId": "act51side_zone1",
+      "code": "PA-5",
+      "name": "Noble Betrayal",
+      "description": "I admit a necessary transgression. I withheld all my opinions, for the scales raised high can no longer discern truth from falsehood.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 1 Lv. 30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_06",
+      "levelId": "Activities/act51side/level_act51side_06",
+      "zoneId": "act51side_zone1",
+      "code": "PA-6",
+      "name": "Separate Exiles",
+      "description": "I sketch a crowded path. The hurried footsteps happen to meet upon the same road. No one knows who is right, everyone in exile according to their own fate.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.rem>Some characters cannot be deployed in this stage</>",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 1 Lv. 50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_07",
+      "levelId": "Activities/act51side/level_act51side_07",
+      "zoneId": "act51side_zone1",
+      "code": "PA-7",
+      "name": "Two Ends of a Dead Knot",
+      "description": "I present a tightly tied dead knot. You and I are on each end of the rope, with the frozen tundra of the north and the dried channels of Lake Neva in between. Yet fate inescapable drags me towards your embrace.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 1 Lv. 60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_08",
+      "levelId": "Activities/act51side/level_act51side_08",
+      "zoneId": "act51side_zone1",
+      "code": "PA-8",
+      "name": "A Thousand Years Later",
+      "description": "I borrow from you a broken sword. I, too, have a path to carve out on my own. A thousand years since your death, they sculpted you into a statue, locked you in concrete and steel. All so that you can never swing your sword. I shall do what you cannot.\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 2 Lv. 10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31033",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "31033",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_st02",
+      "levelId": null,
+      "zoneId": "act51side_zone1",
+      "code": "PA-ST-2",
+      "name": "Flawless Blemish",
+      "description": "I recite the wailing of the children and the laments of the mother. Ursus, thy name a broken poem, thine verses too heavy for my hungry flesh and blood to lift. But after tonight, the fire is lit, and no one can summon the fragile spring back from those lips.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex01",
+      "levelId": "Activities/act51side/level_act51side_ex01",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-1",
+      "name": "The Lower Depths",
+      "description": "'Madam, if fate wills as we predict, then the walls of Katorga will have fallen by the time this letter reaches you. Matvey, your beloved son, as well as I, will have paid the price for bringing about its demise.'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": "act51side_ex01#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 1 Lv. 50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex01#f#",
+      "levelId": "Activities/act51side/level_act51side_ex01",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-1",
+      "name": "The Lower Depths",
+      "description": "<@lv.fs>Condition: </>\nMore Sentry Turrets will appear.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex02",
+      "levelId": "Activities/act51side/level_act51side_ex02",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-2",
+      "name": "The Living Corpse",
+      "description": "'This is a radical choice, but also the only one we have. I do not seek your forgiveness, for it is your right to accuse me of taking him from you. I have betrayed my oath, yet I still believe that it was all worthwhile.'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.",
+      "hardStagedId": "act51side_ex02#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 1 Lv. 60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex02#f#",
+      "levelId": "Activities/act51side/level_act51side_ex02",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-2",
+      "name": "The Living Corpse",
+      "description": "<@lv.fs>Condition:</>\nDifferent enemies will appear.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex03",
+      "levelId": "Activities/act51side/level_act51side_ex03",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-3",
+      "name": "Mother",
+      "description": "'I still remember the borscht at your dinner table, from when I first planted that cherry tree. I said I would pick its prettiest branch for you when it blossomed, and Matvey carved a word upon it to mark the occasion. The tree is gone now, and Matvey will not tell me what the word was.'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.",
+      "hardStagedId": "act51side_ex03#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 2 Lv. 1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex03#f#",
+      "levelId": "Activities/act51side/level_act51side_ex03",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-3",
+      "name": "Mother",
+      "description": "<@lv.fs>Condition: </>\nThe DP cost of Sniper and Caster Operators is doubled.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex04",
+      "levelId": "Activities/act51side/level_act51side_ex04",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-4",
+      "name": "The Elder Son",
+      "description": "'Matvey sits opposite me now, sharpening a wooden stake with the very knife he once used to carve that word. He is not afraid—in fact, he is even calmer and quieter than usual. Perhaps you will understand that he is doing what he thinks is right.'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": "act51side_ex04#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 2 Lv. 1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex04#f#",
+      "levelId": "Activities/act51side/level_act51side_ex04",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-4",
+      "name": "The Elder Son",
+      "description": "<@lv.fs>Condition: </>\nFewer Cells.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex05",
+      "levelId": "Activities/act51side/level_act51side_ex05",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-5",
+      "name": "Three Sisters",
+      "description": "'The things Matvey and I experienced in Katorga are even more complex than they used to be. More than once, I have wondered if there was another way, but it was always Matvey who reminded me that we must not compromise.'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": "act51side_ex05#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 2 Lv. 10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex05#f#",
+      "levelId": "Activities/act51side/level_act51side_ex05",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-5",
+      "name": "Three Sisters",
+      "description": "<@lv.fs>Condition: </>\n3 tiles on the battlefield are no longer available for deployment.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex06",
+      "levelId": "Activities/act51side/level_act51side_ex06",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-6",
+      "name": "The Government Inspector",
+      "description": "'We must not compromise. Compromise, and our path will no longer exist, and life will become little more than a process of slowly choking to death. I never told you of the dreams and ideals we have upheld, but who would ever be willing to give their own lives if they did not believe from the bottom of their hearts that this is not the way things should be?'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": "act51side_ex06#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 2 Lv. 20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex06#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex06",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex06#f#",
+      "levelId": "Activities/act51side/level_act51side_ex06",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-6",
+      "name": "The Government Inspector",
+      "description": "<@lv.fs>Condition: </>\nMore enemies will appear.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex07",
+      "levelId": "Activities/act51side/level_act51side_ex07",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-7",
+      "name": "Optimistic Tragedy",
+      "description": "'There is little paper left, and little left of the night. Soon, we will go to our fates, gladly and of our own accord. Gaze not upon our gravestones, but at the gap in the wall that will be filled with the sun's rays. At our final and lasting declaration.'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.",
+      "hardStagedId": "act51side_ex07#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 2 Lv. 35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex07#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex07",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex07#f#",
+      "levelId": "Activities/act51side/level_act51side_ex07",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-7",
+      "name": "Optimistic Tragedy",
+      "description": "<@lv.fs>Condition: </>\nGromov has greatly increased HP and Movement Speed.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex08",
+      "levelId": "Activities/act51side/level_act51side_ex08",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-8",
+      "name": "The Cherry Orchard",
+      "description": "'P.S. Matvey just told me that the word he carved was 'Vesna'—Spring. How did I not guess? Spring is coming. When it does, will you see for us whether the cherry trees by the roadside have bloomed at their appointed time?'\n<@lv.item><Sentry Turret></> Rotates periodically, attacking all exposed allied units within its range.\n<@lv.item><Disguise Kit></> Affected units become temporarily stealthy, unable to be detected or block.\n<@lv.item><Cell></> Can only be attacked by Operators in the four adjacent tiles. When destroyed, drops Disguise Kits and DP, and attracts nearby Sentry Turrets.",
+      "hardStagedId": "act51side_ex08#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "Elite 2 Lv. 40",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex08#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex08",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex08#f#",
+      "levelId": "Activities/act51side/level_act51side_ex08",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-8",
+      "name": "The Cherry Orchard",
+      "description": "<@lv.fs>Condition:</>\nSpecialist and Vanguard Operator DP cost doubled.",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
     "act20mini_01": {
       "stageType": "ACTIVITY",
       "difficulty": "NORMAL",
@@ -581272,6 +584175,114 @@
       "startTs": 1731020400,
       "endTs": -1
     },
+    "act51side_st01": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_01": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_tr01": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_02": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_03": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_04": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_05": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_06": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_07": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_08": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_st02": {
+      "startTs": 1789570800,
+      "endTs": 1790765999
+    },
+    "act51side_ex01": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex01#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex02": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex02#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex03": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex03#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex04": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex04#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex05": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex05#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex06": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex06#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex07": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex07#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex08": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
+    "act51side_ex08#f#": {
+      "startTs": 1790204400,
+      "endTs": 1790765999
+    },
     "act20mini_01": {
       "startTs": 1786622400,
       "endTs": 1787223599
@@ -592696,6 +595707,36 @@
           "unlockStageId": "main_01-10",
           "relevantStorySetId": "setId_ssLine_act10d5",
           "mainlineSplitData": null
+        },
+        "ssLine_act10d5_after1": {
+          "locationId": "ssLine_act10d5_after1",
+          "locationType": "AFTER",
+          "sortId": 13011,
+          "startTime": 1786622400,
+          "presentStageId": "act51side_st02",
+          "unlockStageId": "main_03-08",
+          "relevantStorySetId": "setId_mainline_3_1",
+          "mainlineSplitData": null
+        },
+        "ssLine_act51side_before1": {
+          "locationId": "ssLine_act51side_before1",
+          "locationType": "BEFORE",
+          "sortId": 13019,
+          "startTime": 1789570800,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "st_15-03",
+          "relevantStorySetId": "setId_mainline_3_2",
+          "mainlineSplitData": null
+        },
+        "ssLine_act51side": {
+          "locationId": "ssLine_act51side",
+          "locationType": "STORY_SET",
+          "sortId": 13020,
+          "startTime": 1789570800,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "main_01-10",
+          "relevantStorySetId": "setId_ssLine_act51side",
+          "mainlineSplitData": null
         }
       }
     },
@@ -594147,6 +597188,35 @@
         "desc": "It was such a long winter in Chernobog.\nThe lingering chill still haunts the survivors of Peterheim Middle School.\nThe things they cannot change, face, or retrieve.\nThe reasons they must remember, push on, and believe.",
         "backgroundId": "storybg_children_of_ursus"
       }
+    },
+    "setId_ssLine_act51side": {
+      "storySetId": "setId_ssLine_act51side",
+      "storySetType": "SS",
+      "sortByYear": 7,
+      "sortWithinYear": 8,
+      "kvImageId": "kv_people_a_people",
+      "titleImageId": "title_people_a_people",
+      "haveVideoToPlay": false,
+      "backgroundId": null,
+      "gameMusicId": "music_3in1bg_act51side",
+      "coreRewardType": "CHAR",
+      "coreRewardId": "char_4223_botany",
+      "relevantActivityId": "act51side",
+      "mainlineData": null,
+      "ssData": {
+        "desc": "Voices from the Ursine Far North echo across the skies of grand Deity Grypherburg,\nyet the powerful swirl their wine glasses at the ball, turning the city to a prison.\nHigh walls separate close friends, decrees cover up crimes,\nwhile blood drives those worried, naive souls into maturity.\nWhen one clenches their fist in anger,\nwhen one, when many, bring these fists to bear against injustice—\nFrom that moment on, the people will remember: that is the emblem of the Ursus Student Self-Government Group.",
+        "backgroundId": "storybg_people_a_people",
+        "tags": [
+          "tag_13",
+          "tag_14"
+        ],
+        "reopenActivityId": null,
+        "retroActivityId": null,
+        "isRecommended": false,
+        "recommendHideStageId": null,
+        "overrideStageList": []
+      },
+      "collectData": null
     },
     "setId_ssLine_act16side": {
       "storySetId": "setId_ssLine_act16side",
@@ -600177,6 +603247,232 @@
       "sortId": 5,
       "relatedStoryId": "activities/act18mini/level_act18mini_st06",
       "relatedStageId": null
+    },
+    "cgId_ssLine_act51side_1": {
+      "displayId": "cgId_ssLine_act51side_1",
+      "cgList": [
+        "72_i01_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Absinthe's Testimony",
+      "displayDesc": "For a moment there, she thinks it might be the air stirred by the swinging of fists that is making her feel cold, not the behavior of the nobles once again going beyond the pale.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 1,
+      "relatedStoryId": "activities/act51side/level_act51side_st01",
+      "relatedStageId": "act51side_st01"
+    },
+    "cgId_ssLine_act51side_2": {
+      "displayId": "cgId_ssLine_act51side_2",
+      "cgList": [
+        "72_i02"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "'Outsiders'",
+      "displayDesc": "Hands raise into the air... Before long, there are only a few left who have not acted. They stand apart from the rest.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 2,
+      "relatedStoryId": "activities/act51side/level_act51side_st01",
+      "relatedStageId": "act51side_st01"
+    },
+    "cgId_ssLine_act51side_3": {
+      "displayId": "cgId_ssLine_act51side_3",
+      "cgList": [
+        "72_i03_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Venting Fury",
+      "displayDesc": "Liberty for the people! Bread for the people!\nToday's silence is tomorrow's slavery! Make our voices heard!",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 3,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_4": {
+      "displayId": "cgId_ssLine_act51side_4",
+      "cgList": [
+        "72_i05"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Intervener",
+      "displayDesc": "Unfortunately, your best intentions do not seem to be appreciated.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 4,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_5": {
+      "displayId": "cgId_ssLine_act51side_5",
+      "cgList": [
+        "72_i04_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Separation",
+      "displayDesc": "A dozen guardsmen rush in from every direction, grabbing Zima's shoulders, but she does not budge in the slightest. They begin striking her in the back with their nightsticks.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 5,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_6": {
+      "displayId": "cgId_ssLine_act51side_6",
+      "cgList": [
+        "72_i06_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Rosa's Plan",
+      "displayDesc": "The sunlight is dazzling as it streams in through the window. Rosa lowers her eyes, giving an imperceptible nod before returning to a polite smile befitting a noblewoman.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 6,
+      "relatedStoryId": "activities/act51side/level_act51side_04_end",
+      "relatedStageId": "act51side_04"
+    },
+    "cgId_ssLine_act51side_7": {
+      "displayId": "cgId_ssLine_act51side_7",
+      "cgList": [
+        "72_i07"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Istina's Speech",
+      "displayDesc": "Tell Ursus that we are fighting for our fellow students, our friends, our families! We are fighting for ourselves!",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 7,
+      "relatedStoryId": "activities/act51side/level_act51side_05_beg",
+      "relatedStageId": "act51side_05"
+    },
+    "cgId_ssLine_act51side_8": {
+      "displayId": "cgId_ssLine_act51side_8",
+      "cgList": [
+        "72_i08_1",
+        "72_i08_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "'To Tomorrow'",
+      "displayDesc": "To... souls happy and free.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 8,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_9": {
+      "displayId": "cgId_ssLine_act51side_9",
+      "cgList": [
+        "72_i09"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Zima's Blow",
+      "displayDesc": "Any last words, Gromov?",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 9,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_10": {
+      "displayId": "cgId_ssLine_act51side_10",
+      "cgList": [
+        "72_i08_3",
+        "72_i08_4"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "'Tomorrow Will Come'",
+      "displayDesc": "...Such a simple prayer.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 10,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_11": {
+      "displayId": "cgId_ssLine_act51side_11",
+      "cgList": [
+        "72_i10_1",
+        "72_i10_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Gummy's Memories",
+      "displayDesc": "The voice seems so strange, yet so familiar.\nA voice that has become distorted through transmission and loss.\nA voice that Lada will never forget.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 11,
+      "relatedStoryId": "activities/act51side/level_act51side_07_end",
+      "relatedStageId": "act51side_07"
+    },
+    "cgId_ssLine_act51side_12": {
+      "displayId": "cgId_ssLine_act51side_12",
+      "cgList": [
+        "72_i11"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Fist of Rage",
+      "displayDesc": "The dust has yet to settle. A bright ray of light shines in.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 12,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_13": {
+      "displayId": "cgId_ssLine_act51side_13",
+      "cgList": [
+        "72_i16"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Our Flag",
+      "displayDesc": "But no, we say.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 13,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_14": {
+      "displayId": "cgId_ssLine_act51side_14",
+      "cgList": [
+        "72_i12"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Children of Ursus",
+      "displayDesc": "Igor's fist smashes the shackles. One figure climbs over the ruins, then a dozen, a hundred...",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 14,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_15": {
+      "displayId": "cgId_ssLine_act51side_15",
+      "cgList": [
+        "72_i13"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "Leto's Determination",
+      "displayDesc": "It was only because... this was the fastest way.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 15,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_16": {
+      "displayId": "cgId_ssLine_act51side_16",
+      "cgList": [
+        "72_i14"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "The Emperor's Solitude",
+      "displayDesc": "Fyodor has lived in this city for decades. Now, for the first time, he walks its streets on his own two feet.\nThe snow falls upon him, equally cold in the ruins as it is in the palace.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 16,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_17": {
+      "displayId": "cgId_ssLine_act51side_17",
+      "cgList": [
+        "72_i15_2",
+        "72_i15_3",
+        "72_i15_4"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "One Last Look",
+      "displayDesc": "The burdenbeast, laden with old furniture and stopped in the middle of the street, is like this nation—unsure of where it should go. He stops not out of pity for the beast, but because he is giving an old friend in the mirror one last look.",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 17,
+      "relatedStoryId": "activities/act51side/level_act51side_st02",
+      "relatedStageId": "act51side_st02"
     },
     "cgId_ssLine_act16side_1": {
       "displayId": "cgId_ssLine_act16side_1",
@@ -608202,6 +611498,30 @@
         "cgId_ssLine_act18mini_5"
       ]
     },
+    "setId_ssLine_act51side": {
+      "storySetId": "setId_ssLine_act51side",
+      "storylineId": "ssLine_13",
+      "locationId": "ssLine_act51side",
+      "displays": [
+        "cgId_ssLine_act51side_1",
+        "cgId_ssLine_act51side_2",
+        "cgId_ssLine_act51side_3",
+        "cgId_ssLine_act51side_4",
+        "cgId_ssLine_act51side_5",
+        "cgId_ssLine_act51side_6",
+        "cgId_ssLine_act51side_7",
+        "cgId_ssLine_act51side_8",
+        "cgId_ssLine_act51side_9",
+        "cgId_ssLine_act51side_10",
+        "cgId_ssLine_act51side_11",
+        "cgId_ssLine_act51side_12",
+        "cgId_ssLine_act51side_13",
+        "cgId_ssLine_act51side_14",
+        "cgId_ssLine_act51side_15",
+        "cgId_ssLine_act51side_16",
+        "cgId_ssLine_act51side_17"
+      ]
+    },
     "setId_ssLine_act16side": {
       "storySetId": "setId_ssLine_act16side",
       "storylineId": "ssLine_2",
@@ -612051,6 +615371,160 @@
       "compositeType": "NONE",
       "compositeList": [],
       "storySetId": "setId_ssLine_act18mini"
+    },
+    "72_i01_1": {
+      "cgId": "72_i01_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i02": {
+      "cgId": "72_i02",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i03_2": {
+      "cgId": "72_i03_2",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i05": {
+      "cgId": "72_i05",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i04_1": {
+      "cgId": "72_i04_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i06_1": {
+      "cgId": "72_i06_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i07": {
+      "cgId": "72_i07",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_1": {
+      "cgId": "72_i08_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_2": {
+      "cgId": "72_i08_2",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i09": {
+      "cgId": "72_i09",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_3": {
+      "cgId": "72_i08_3",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_4": {
+      "cgId": "72_i08_4",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i10_1": {
+      "cgId": "72_i10_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i10_2": {
+      "cgId": "72_i10_2",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i11": {
+      "cgId": "72_i11",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i16": {
+      "cgId": "72_i16",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i12": {
+      "cgId": "72_i12",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i13": {
+      "cgId": "72_i13",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i14": {
+      "cgId": "72_i14",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_2": {
+      "cgId": "72_i15_2",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_3": {
+      "cgId": "72_i15_3",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_4": {
+      "cgId": "72_i15_4",
+      "sortId": 2,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
     },
     "26_i07": {
       "cgId": "26_i07",

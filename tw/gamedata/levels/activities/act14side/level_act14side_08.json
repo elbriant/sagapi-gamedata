@@ -1768,7 +1768,8 @@
             "value": 35.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -1803,7 +1804,8 @@
             "value": 70.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

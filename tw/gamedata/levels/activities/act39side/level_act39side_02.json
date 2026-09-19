@@ -2121,7 +2121,8 @@
             "value": 0.0,
             "valueStr": "route_1"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

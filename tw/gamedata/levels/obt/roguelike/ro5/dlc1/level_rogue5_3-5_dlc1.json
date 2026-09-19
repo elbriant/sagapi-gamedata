@@ -4174,7 +4174,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4204,7 +4205,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4234,7 +4236,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_3"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4264,7 +4267,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_4"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4294,7 +4298,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_5"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4324,7 +4329,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_6"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4354,7 +4360,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_7"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4384,7 +4391,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_9"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4414,7 +4422,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_10"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4438,7 +4447,8 @@
         "mainSkillLvl": 1,
         "skinId": null,
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4462,7 +4472,8 @@
         "mainSkillLvl": 1,
         "skinId": null,
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4486,7 +4497,8 @@
         "mainSkillLvl": 1,
         "skinId": null,
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4510,7 +4522,8 @@
         "mainSkillLvl": 1,
         "skinId": null,
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4534,7 +4547,8 @@
         "mainSkillLvl": 1,
         "skinId": null,
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4558,7 +4572,8 @@
         "mainSkillLvl": 1,
         "skinId": null,
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4598,7 +4613,8 @@
             "value": 0.0,
             "valueStr": "enemy_10065_ftzlc"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4622,7 +4638,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

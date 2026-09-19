@@ -91648,6 +91648,2909 @@
       "advancedRuneIdList2": [],
       "useSpecialSizeMapPreview": false
     },
+    "act51side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_st01",
+      "levelId": null,
+      "zoneId": "act51side_zone1",
+      "code": "PA-ST-1",
+      "name": "衆愚",
+      "description": "あなたに喧々諤々たる荒野を告発しよう。私は千の話と万の声を聞いたが、この地では昼夜問わず争いが絶えず、結論に至ることもない。その無意味な喧騒を許される立場自体が、彼らの達成すべき目標なのだ。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_01",
+      "levelId": "Activities/act51side/level_act51side_01",
+      "zoneId": "act51side_zone1",
+      "code": "PA-1",
+      "name": "「カトルガ区へようこそ」",
+      "description": "あなたに支離滅裂な夜話を語ろう。青春の火は雪原に消え、朽ちた木は暖炉でかろうじて息をつなぐ。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_tr01",
+      "levelId": "Activities/act51side/level_act51side_tr01",
+      "zoneId": "act51side_zone1",
+      "code": "PA-TR-1",
+      "name": "卑劣と繁栄",
+      "description": "あなたに錆びついた区画を捧げよう。ここはかつてサンクト・グリファーブルクの工業の肺として、苦しい息を吐き続けていた。しかし今となっては、切除されるのを待つ器官に過ぎない。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_02",
+      "levelId": "Activities/act51side/level_act51side_02",
+      "zoneId": "act51side_zone1",
+      "code": "PA-2",
+      "name": "枷に繋がれて",
+      "description": "あなたに古の時代に貸し与えた血の返済を求めよう。あなたは番号を与えられた獣の群れを鞭打ち、それらがかつて人間であったことを思い出すまで、泣き叫び、怒り狂うままにさせるのだ。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_03",
+      "levelId": "Activities/act51side/level_act51side_03",
+      "zoneId": "act51side_zone1",
+      "code": "PA-3",
+      "name": "陽光照らす我らの帝都",
+      "description": "あなたに清らかな夜を乞おう。わずかな火花さえあれば、枯れ果てて苦痛に喘ぎ、新たな生を渇望するこの地もまた燃え上がることだろう。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "昇進1 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_04",
+      "levelId": "Activities/act51side/level_act51side_04",
+      "zoneId": "act51side_zone1",
+      "code": "PA-4",
+      "name": "壁一枚の隔たり",
+      "description": "あなたに偽りの正確なステップを授けよう。生まれた時から嵌められた足枷が、私の回転の支点だ。蝋燭の火に背を向け、私は壁の向こうの闇を見つめる。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "昇進1 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_05",
+      "levelId": "Activities/act51side/level_act51side_05",
+      "zoneId": "act51side_zone1",
+      "code": "PA-5",
+      "name": "崇高な裏切り",
+      "description": "あなたにやむを得ぬ越権行為を告白しよう。高く掲げられた天秤は、もはや真実と虚偽を量り得ない。ゆえに、私は全ての意見を心に押し留める他なかった。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "昇進1 LV.30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_06",
+      "levelId": "Activities/act51side/level_act51side_06",
+      "zoneId": "act51side_zone1",
+      "code": "PA-6",
+      "name": "それぞれの逃げ道",
+      "description": "あなたに混み合った道を描き示そう。急ぎ足で歩く者たちは、偶然同じ道に居合わせただけだ。一人として誰の道が正しいかを知らず、誰もが運命に従い亡命することしかできない。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.rem>一部登場オペレーター使用不可</>",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "昇進1 LV.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_07",
+      "levelId": "Activities/act51side/level_act51side_07",
+      "zoneId": "act51side_zone1",
+      "code": "PA-7",
+      "name": "結び目の両端",
+      "description": "あなたに解けないほど強固な結び目を披露しよう。私とあなたはこのロープの両端におり、北方の凍土と、ネヴァ湖に続く干上がった川がその間を阻んでいる。しかし逃れ得ぬ宿命は、なおも私をあなたの胸へと引き寄せる。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "昇進1 LV.60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_08",
+      "levelId": "Activities/act51side/level_act51side_08",
+      "zoneId": "act51side_zone1",
+      "code": "PA-8",
+      "name": "千年のあと",
+      "description": "あなたから鋭くも折れた剣を拝借しよう。私の前にも続く、切り拓くべき道のために。死して千年が経った今も、剣が再び振り下ろされぬよう、あなたは彫像に固められ、鉄筋コンクリートに閉じ込められている。だからこそ、我々が手を下すのだ。\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "昇進2 LV.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31033",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "31033",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_st02",
+      "levelId": null,
+      "zoneId": "act51side_zone1",
+      "code": "PA-ST-2",
+      "name": "完全な散逸",
+      "description": "あなたに子供の泣き声と母の嘆きを読み聞かせよう。ウルサスよ、あなたの名は散り散りになった一行の詩だ。私の飢えた血肉では、あなたの韻一つさえ支え切れない。だが今夜を境に火が上がり、誰一人としてあの儚い春の日を再び詠み得ぬだろう。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex01",
+      "levelId": "Activities/act51side/level_act51side_ex01",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-1",
+      "name": "どん底",
+      "description": "「空々しい挨拶は省略させていただきます。運命が我々の計算通りに進んでいれば、この手紙が貴女の手元に届く頃には、カトルガ区の外壁は崩れ去っていることでしょう。そして私と、貴女の愛する息子マトヴェイは、その崩壊に必要な代償となったのです。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": "act51side_ex01#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進1 LV.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex01#f#",
+      "levelId": "Activities/act51side/level_act51side_ex01",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-1",
+      "name": "どん底",
+      "description": "<@lv.fs>制限：</>\n追加の<警備塔>が出現",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex02",
+      "levelId": "Activities/act51side/level_act51side_ex02",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-2",
+      "name": "生ける屍",
+      "description": "「極端な行動でしたが、我々にはその選択肢しか残されていませんでした。ですが、許しを乞うためにこの手紙を書いたのではありません。彼の命を貴女から奪ったこと、貴女の生涯にわたって責められる覚悟はできています。誓いを破ることにはなりましたが、その価値があることだと信じたいのです。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない",
+      "hardStagedId": "act51side_ex02#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進1 LV.60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex02#f#",
+      "levelId": "Activities/act51side/level_act51side_ex02",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-2",
+      "name": "生ける屍",
+      "description": "<@lv.fs>制限：</>\n一部の敵が変化",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex03",
+      "levelId": "Activities/act51side/level_act51side_ex03",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-3",
+      "name": "母",
+      "description": "「ボルシチをご馳走になった時のこと、今でも覚えています。当時はサクランボの木を植えたばかりで、花が咲いたら一番綺麗な枝をプレゼントすると貴女に約束しましたね。その出来事を忘れないように、マトヴェイも木の幹に何やら言葉を刻んでいました。残念なことに、木は切り倒されてしまい、マトヴェイもどんな言葉を刻んだか教えてはくれませんでした。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない",
+      "hardStagedId": "act51side_ex03#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進2 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex03#f#",
+      "levelId": "Activities/act51side/level_act51side_ex03",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-3",
+      "name": "母",
+      "description": "<@lv.fs>制限：</>\n【狙撃】・【術師】の配置コストが2倍",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex04",
+      "levelId": "Activities/act51side/level_act51side_ex04",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-4",
+      "name": "長男",
+      "description": "「いまマトヴェイは私の向かい側に座り、その言葉を刻んだナイフで杭を削っています。彼に恐れる様子はなく、あまりに穏やかなので、退屈しているのではないかと思うほどです。彼はいつも、貴女の性格を受け継いだのだと言っていました。その貴女ならきっとわかってくださるはずです、彼は正しいと信じたことをしたのだと。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": "act51side_ex04#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進2 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex04#f#",
+      "levelId": "Activities/act51side/level_act51side_ex04",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-4",
+      "name": "長男",
+      "description": "<@lv.fs>制限：</>\n<監禁施設>の数が減少",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex05",
+      "levelId": "Activities/act51side/level_act51side_ex05",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-5",
+      "name": "三人姉妹",
+      "description": "「カトルガ区に閉じ込められ、我々は以前より難しい状況に置かれました。別の道があるのではないかと何度も悩みましたが、妥協してはならないと気づかせてくれたのはマトヴェイでした。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": "act51side_ex05#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進2 LV.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex05#f#",
+      "levelId": "Activities/act51side/level_act51side_ex05",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-5",
+      "name": "三人姉妹",
+      "description": "<@lv.fs>制限：</>\n戦場中の3つのマスが配置不可になる",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex06",
+      "levelId": "Activities/act51side/level_act51side_ex06",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-6",
+      "name": "検察官",
+      "description": "「そう、我々に妥協は許されません。一度妥協してしまえば、我々は道を見失い、生きることが徐々に首を締めつける行為となってしまいます。そうした主義や我々の理想については、これまで貴女にお話ししてきませんでしたね。しかし結局のところ、世の中がこうあるべきではないと信じているからこそ、皆がその理想に自らの命を投げ出すのです。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": "act51side_ex06#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進2 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex06#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex06",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex06#f#",
+      "levelId": "Activities/act51side/level_act51side_ex06",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-6",
+      "name": "検察官",
+      "description": "<@lv.fs>制限：</>\n追加の敵が出現",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex07",
+      "levelId": "Activities/act51side/level_act51side_ex07",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-7",
+      "name": "楽天的悲劇",
+      "description": "「もう書く場所も残されていませんし、時刻もじきに朝を迎えます。あと数時間もすれば、我々は胸を張って運命と対峙している頃でしょう。どうか墓の方向ではなく、外壁の崩れるところを見ていてください。きっと太陽の光がそこを満たし、それこそが我々の最後の誓いとなるでしょうから。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない",
+      "hardStagedId": "act51side_ex07#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進2 LV.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex07#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex07",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex07#f#",
+      "levelId": "Activities/act51side/level_act51side_ex07",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-7",
+      "name": "楽天的悲劇",
+      "description": "<@lv.fs>制限：</>\n<グロモフ>の最大HPと移動速度が大幅に上昇",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex08",
+      "levelId": "Activities/act51side/level_act51side_ex08",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-8",
+      "name": "桜の園",
+      "description": "「追記ですが、マトヴェイから木に刻んだ言葉を聞きました。『春』だったそうです。ああ、どうして思いも寄らなかったのでしょう。その春も、それほど遠くはないかもしれません。その時はどうか、街角のサクランボの木が例年のように花を咲かせているか、我々の代わりに見に行ってもらえないでしょうか。」\n<@lv.item><警備塔></>一定周期で回転し、攻撃範囲内にいる索敵可能な味方ユニット全員に攻撃を行う\n<@lv.item><煙玉></>効果対象のユニットを一定時間潜伏状態にする。効果時間中は攻撃対象にならず、敵をブロックしない\n<@lv.item><監禁施設></>隣接4マスの味方ユニットのみ攻撃可能。破壊すると<煙玉>と一定の配置コストを獲得し、付近の警備塔が瞬時にその方向を向く",
+      "hardStagedId": "act51side_ex08#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "昇進2 LV.40",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex08#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex08",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex08#f#",
+      "levelId": "Activities/act51side/level_act51side_ex08",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-8",
+      "name": "桜の園",
+      "description": "<@lv.fs>制限：</>\n【特殊】・【先鋒】の配置コストが2倍",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
     "act20mini_01": {
       "stageType": "ACTIVITY",
       "difficulty": "NORMAL",
@@ -581272,6 +584175,114 @@
       "startTs": 1730962800,
       "endTs": -1
     },
+    "act51side_st01": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_01": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_tr01": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_02": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_03": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_04": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_05": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_06": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_07": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_08": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_st02": {
+      "startTs": 1789542000,
+      "endTs": 1790708399
+    },
+    "act51side_ex01": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex01#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex02": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex02#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex03": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex03#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex04": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex04#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex05": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex05#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex06": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex06#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex07": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex07#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex08": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
+    "act51side_ex08#f#": {
+      "startTs": 1790146800,
+      "endTs": 1790708399
+    },
     "act20mini_01": {
       "startTs": 1786586400,
       "endTs": 1787165999
@@ -592696,6 +595707,36 @@
           "unlockStageId": "main_01-10",
           "relevantStorySetId": "setId_ssLine_act10d5",
           "mainlineSplitData": null
+        },
+        "ssLine_act10d5_after1": {
+          "locationId": "ssLine_act10d5_after1",
+          "locationType": "AFTER",
+          "sortId": 13011,
+          "startTime": 1786586400,
+          "presentStageId": "act51side_st02",
+          "unlockStageId": "main_03-08",
+          "relevantStorySetId": "setId_mainline_3_1",
+          "mainlineSplitData": null
+        },
+        "ssLine_act51side_before1": {
+          "locationId": "ssLine_act51side_before1",
+          "locationType": "BEFORE",
+          "sortId": 13019,
+          "startTime": 1789542000,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "st_15-03",
+          "relevantStorySetId": "setId_mainline_3_2",
+          "mainlineSplitData": null
+        },
+        "ssLine_act51side": {
+          "locationId": "ssLine_act51side",
+          "locationType": "STORY_SET",
+          "sortId": 13020,
+          "startTime": 1789542000,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "main_01-10",
+          "relevantStorySetId": "setId_ssLine_act51side",
+          "mainlineSplitData": null
         }
       }
     },
@@ -594147,6 +597188,35 @@
         "desc": "チェルノボーグのあの冬は、永遠とすら思われるほどに長かった。\nその冷たさは、未だにぺテルヘイム高校の生還者たちに纏わりついて離れない。\n変えられないこと、直視できないこと、取り返しのつかないこと……\n心に刻み付ける理由、前に進む理由、心を預ける理由。",
         "backgroundId": "storybg_children_of_ursus"
       }
+    },
+    "setId_ssLine_act51side": {
+      "storySetId": "setId_ssLine_act51side",
+      "storySetType": "SS",
+      "sortByYear": 7,
+      "sortWithinYear": 8,
+      "kvImageId": "kv_people_a_people",
+      "titleImageId": "title_people_a_people",
+      "haveVideoToPlay": false,
+      "backgroundId": null,
+      "gameMusicId": "music_3in1bg_act51side",
+      "coreRewardType": "CHAR",
+      "coreRewardId": "char_4223_botany",
+      "relevantActivityId": "act51side",
+      "mainlineData": null,
+      "ssData": {
+        "desc": "クライニ・セーヴェルからの声がサンクト・グリファーブルクの広大な空に響き渡るなか、\n権力者たちは舞踏会でワイングラスを回し、都市を監獄へと変えていた。\n親友を引き裂く高い壁、罪を覆い隠す法令、\nそして迸る鮮血が、不安に包まれた無邪気な魂を大人に導く。\n一人が怒りに拳を握り締めた時、\n一人が、そして多くの人々が不平に怒りの拳を掲げた時――\n人々は記憶に刻むことだろう、それがウルサス学生自治団のシンボルであると。",
+        "backgroundId": "storybg_people_a_people",
+        "tags": [
+          "tag_13",
+          "tag_14"
+        ],
+        "reopenActivityId": null,
+        "retroActivityId": null,
+        "isRecommended": false,
+        "recommendHideStageId": null,
+        "overrideStageList": []
+      },
+      "collectData": null
     },
     "setId_ssLine_act16side": {
       "storySetId": "setId_ssLine_act16side",
@@ -600177,6 +603247,232 @@
       "sortId": 5,
       "relatedStoryId": "activities/act18mini/level_act18mini_st06",
       "relatedStageId": null
+    },
+    "cgId_ssLine_act51side_1": {
+      "displayId": "cgId_ssLine_act51side_1",
+      "cgList": [
+        "72_i01_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "アブサントの証言",
+      "displayDesc": "この寒気は背後での取っ組み合いによる風圧のせいで、彼らがまたしても想像を超える愚行をしでかしたせいではないと、一瞬思いたくなった。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 1,
+      "relatedStoryId": "activities/act51side/level_act51side_st01",
+      "relatedStageId": "act51side_st01"
+    },
+    "cgId_ssLine_act51side_2": {
+      "displayId": "cgId_ssLine_act51side_2",
+      "cgList": [
+        "72_i02"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "「異端」",
+      "displayDesc": "次々と賛成の手が挙がる。一方で、最後の数人だけが動きを見せず、周囲と相容れない存在になった。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 2,
+      "relatedStoryId": "activities/act51side/level_act51side_st01",
+      "relatedStageId": "act51side_st01"
+    },
+    "cgId_ssLine_act51side_3": {
+      "displayId": "cgId_ssLine_act51side_3",
+      "cgList": [
+        "72_i03_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "憤りの発散",
+      "displayDesc": "国民に自由を！国民にパンを！\n今日の沈黙は、明日の服従だ！我々の声に耳を傾けろ！",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 3,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_4": {
+      "displayId": "cgId_ssLine_act51side_4",
+      "cgList": [
+        "72_i05"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "介入者",
+      "displayDesc": "残念だが、あのお方にとって、その用意周到な手はずはありがた迷惑だったのだろう。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 4,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_5": {
+      "displayId": "cgId_ssLine_act51side_5",
+      "cgList": [
+        "72_i04_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "瓦解",
+      "displayDesc": "十数人の警官が駆けつけ、慌ただしくズィマーを押さえこみ、倒れ込んだ同僚から引き離そうとする。それでもズィマーは微動だにせず、ついに警官は彼女の背中に警棒を叩きつけ始めた。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 5,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_6": {
+      "displayId": "cgId_ssLine_act51side_6",
+      "cgList": [
+        "72_i06_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "ロサの計略",
+      "displayDesc": "窓から眩しい日差しが差し込む中で、ロサは伏し目がちに、相手も気づかないほど小さく頷くと、すぐさま貴族の令嬢らしい上品な笑みを浮かべた。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 6,
+      "relatedStoryId": "activities/act51side/level_act51side_04_end",
+      "relatedStageId": "act51side_04"
+    },
+    "cgId_ssLine_act51side_7": {
+      "displayId": "cgId_ssLine_act51side_7",
+      "cgList": [
+        "72_i07"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "イースチナの演説",
+      "displayDesc": "ウルサスに知らしめるのです。私たちは仲間のため、友人のため、家族のため――そして、自分自身のために戦うのだと！",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 7,
+      "relatedStoryId": "activities/act51side/level_act51side_05_beg",
+      "relatedStageId": "act51side_05"
+    },
+    "cgId_ssLine_act51side_8": {
+      "displayId": "cgId_ssLine_act51side_8",
+      "cgList": [
+        "72_i08_1",
+        "72_i08_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "「明日に乾杯」",
+      "displayDesc": "乾杯……自由と幸福な魂に。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 8,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_9": {
+      "displayId": "cgId_ssLine_act51side_9",
+      "cgList": [
+        "72_i09"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "ズィマーの鉄槌",
+      "displayDesc": "グロモフ、言い残したことはあるか？",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 9,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_10": {
+      "displayId": "cgId_ssLine_act51side_10",
+      "cgList": [
+        "72_i08_3",
+        "72_i08_4"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "「まだ明日がある」",
+      "displayDesc": "……なんて素朴な祈りだろうか。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 10,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_11": {
+      "displayId": "cgId_ssLine_act51side_11",
+      "cgList": [
+        "72_i10_1",
+        "72_i10_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "グムの記憶",
+      "displayDesc": "慣れ親しんだはずなのに、聞いたことのない声。\n通信機越しの、少し歪んでいる声。\nラーダが決して忘れることのない声。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 11,
+      "relatedStoryId": "activities/act51side/level_act51side_07_end",
+      "relatedStageId": "act51side_07"
+    },
+    "cgId_ssLine_act51side_12": {
+      "displayId": "cgId_ssLine_act51side_12",
+      "cgList": [
+        "72_i11"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "怒りの拳",
+      "displayDesc": "土埃が舞う中、一筋のまばゆい光が差し込んだ。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 12,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_13": {
+      "displayId": "cgId_ssLine_act51side_13",
+      "cgList": [
+        "72_i16"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "我々の旗",
+      "displayDesc": "だが、アタシらの答えは「否」だ。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 13,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_14": {
+      "displayId": "cgId_ssLine_act51side_14",
+      "cgList": [
+        "72_i12"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "ウルサスの子供たち",
+      "displayDesc": "イゴールの拳が枷を打ち砕く。一人の影が瓦礫の山を乗り越え、その背後には何十、何百もの人々が連なっている……",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 14,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_15": {
+      "displayId": "cgId_ssLine_act51side_15",
+      "cgList": [
+        "72_i13"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "リェータの決意",
+      "displayDesc": "これが一番手っ取り早い……それだけだ。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 15,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_16": {
+      "displayId": "cgId_ssLine_act51side_16",
+      "cgList": [
+        "72_i14"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "独り歩く皇帝",
+      "displayDesc": "フョードルはこの街で数十年と生きてきた。しかしこの通りを歩くのは、初めてのことだった。\n雪が彼の頬に触れる。瓦礫の上でも、絢爛な宮殿でも、その冷たさに変わりはなかった。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 16,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_17": {
+      "displayId": "cgId_ssLine_act51side_17",
+      "cgList": [
+        "72_i15_2",
+        "72_i15_3",
+        "72_i15_4"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "最後の対面",
+      "displayDesc": "古びた家具をいっぱいに載せた駄獣車が、通りの中央に停まっている。その姿は行き先を見失ったこの国のようだった。彼が立ち止まったのは、その駄獣に哀れみを覚えたからではなく、ただ最後にもう一度、鏡の中に故人の姿を見たからに過ぎない。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 17,
+      "relatedStoryId": "activities/act51side/level_act51side_st02",
+      "relatedStageId": "act51side_st02"
     },
     "cgId_ssLine_act16side_1": {
       "displayId": "cgId_ssLine_act16side_1",
@@ -608202,6 +611498,30 @@
         "cgId_ssLine_act18mini_5"
       ]
     },
+    "setId_ssLine_act51side": {
+      "storySetId": "setId_ssLine_act51side",
+      "storylineId": "ssLine_13",
+      "locationId": "ssLine_act51side",
+      "displays": [
+        "cgId_ssLine_act51side_1",
+        "cgId_ssLine_act51side_2",
+        "cgId_ssLine_act51side_3",
+        "cgId_ssLine_act51side_4",
+        "cgId_ssLine_act51side_5",
+        "cgId_ssLine_act51side_6",
+        "cgId_ssLine_act51side_7",
+        "cgId_ssLine_act51side_8",
+        "cgId_ssLine_act51side_9",
+        "cgId_ssLine_act51side_10",
+        "cgId_ssLine_act51side_11",
+        "cgId_ssLine_act51side_12",
+        "cgId_ssLine_act51side_13",
+        "cgId_ssLine_act51side_14",
+        "cgId_ssLine_act51side_15",
+        "cgId_ssLine_act51side_16",
+        "cgId_ssLine_act51side_17"
+      ]
+    },
     "setId_ssLine_act16side": {
       "storySetId": "setId_ssLine_act16side",
       "storylineId": "ssLine_2",
@@ -612051,6 +615371,160 @@
       "compositeType": "NONE",
       "compositeList": [],
       "storySetId": "setId_ssLine_act18mini"
+    },
+    "72_i01_1": {
+      "cgId": "72_i01_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i02": {
+      "cgId": "72_i02",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i03_2": {
+      "cgId": "72_i03_2",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i05": {
+      "cgId": "72_i05",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i04_1": {
+      "cgId": "72_i04_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i06_1": {
+      "cgId": "72_i06_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i07": {
+      "cgId": "72_i07",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_1": {
+      "cgId": "72_i08_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_2": {
+      "cgId": "72_i08_2",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i09": {
+      "cgId": "72_i09",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_3": {
+      "cgId": "72_i08_3",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_4": {
+      "cgId": "72_i08_4",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i10_1": {
+      "cgId": "72_i10_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i10_2": {
+      "cgId": "72_i10_2",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i11": {
+      "cgId": "72_i11",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i16": {
+      "cgId": "72_i16",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i12": {
+      "cgId": "72_i12",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i13": {
+      "cgId": "72_i13",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i14": {
+      "cgId": "72_i14",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_2": {
+      "cgId": "72_i15_2",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_3": {
+      "cgId": "72_i15_3",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_4": {
+      "cgId": "72_i15_4",
+      "sortId": 2,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
     },
     "26_i07": {
       "cgId": "26_i07",

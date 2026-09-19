@@ -6901,7 +6901,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -6941,7 +6942,8 @@
             "value": 0.0,
             "valueStr": "hidden_1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -6981,7 +6983,8 @@
             "value": 0.0,
             "valueStr": "hidden_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7021,7 +7024,8 @@
             "value": 0.0,
             "valueStr": "hidden_3"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7051,7 +7055,8 @@
             "value": 1.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -7081,7 +7086,8 @@
             "value": 1.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

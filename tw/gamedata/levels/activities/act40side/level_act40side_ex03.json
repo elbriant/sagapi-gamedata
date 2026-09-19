@@ -3599,7 +3599,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -3629,7 +3630,8 @@
             "value": 0.0,
             "valueStr": "summon_cjglon"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],
@@ -3652,7 +3654,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       }
     ]
   },

@@ -1515,13 +1515,13 @@
       "visitEveryCheckPoint": true
     },
     {
-      "motionMode": "WALK",
+      "motionMode": "FLY",
       "startPosition": {
         "row": 7,
         "col": 10
       },
       "endPosition": {
-        "row": 1,
+        "row": 2,
         "col": 0
       },
       "spawnRandomRange": {},
@@ -1559,6 +1559,17 @@
           "reachOffset": {},
           "randomizeReachOffset": false,
           "reachDistance": 0.0
+        },
+        {
+          "type": "MOVE",
+          "time": 0.0,
+          "position": {
+            "row": 1,
+            "col": 0
+          },
+          "reachOffset": {},
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
         }
       ],
       "allowDiagonalMove": true,
@@ -1756,13 +1767,13 @@
       "visitEveryCheckPoint": true
     },
     {
-      "motionMode": "WALK",
+      "motionMode": "FLY",
       "startPosition": {
         "row": 7,
         "col": 10
       },
       "endPosition": {
-        "row": 1,
+        "row": 2,
         "col": 0
       },
       "spawnRandomRange": {},
@@ -1796,6 +1807,17 @@
           "position": {
             "row": 1,
             "col": 1
+          },
+          "reachOffset": {},
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": "MOVE",
+          "time": 0.0,
+          "position": {
+            "row": 1,
+            "col": 0
           },
           "reachOffset": {},
           "randomizeReachOffset": false,
@@ -4972,7 +4994,8 @@
             "value": 1.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5017,7 +5040,8 @@
             "value": 1.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5062,7 +5086,8 @@
             "value": 1.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5107,7 +5132,8 @@
             "value": 1.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -5131,7 +5157,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

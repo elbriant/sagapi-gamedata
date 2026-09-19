@@ -4176,7 +4176,8 @@
             "value": 0.0,
             "valueStr": "summon_cjglon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4206,7 +4207,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4246,7 +4248,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4286,7 +4289,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4326,7 +4330,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4366,7 +4371,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4406,7 +4412,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4446,7 +4453,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4486,7 +4494,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4526,7 +4535,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4566,7 +4576,8 @@
             "value": 0.0,
             "valueStr": "enemy_10060_cjbfod"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4596,7 +4607,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4626,7 +4638,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4656,7 +4669,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4686,7 +4700,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4716,7 +4731,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4746,7 +4762,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4776,7 +4793,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4806,7 +4824,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -4830,7 +4849,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": []
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

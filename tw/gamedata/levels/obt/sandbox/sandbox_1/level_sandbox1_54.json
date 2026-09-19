@@ -8129,7 +8129,8 @@
             "value": 0.0,
             "valueStr": "hiddenArea1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -8169,7 +8170,8 @@
             "value": 0.0,
             "valueStr": "hiddenArea1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -8209,7 +8211,8 @@
             "value": 0.0,
             "valueStr": "hiddenArea1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -8239,7 +8242,8 @@
             "value": 0.0,
             "valueStr": "trap_437_poachr#1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -8269,7 +8273,8 @@
             "value": 0.0,
             "valueStr": "trap_437_poachr#2"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -8309,7 +8314,8 @@
             "value": 0.0,
             "valueStr": "hiddenArea1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -8349,7 +8355,8 @@
             "value": 0.0,
             "valueStr": "hiddenArea1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -8389,7 +8396,8 @@
             "value": 0.0,
             "valueStr": "hiddenArea1"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],

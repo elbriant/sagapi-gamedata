@@ -30400,7 +30400,8 @@
             "value": 0.0,
             "valueStr": "route_1"
           }
-        ]
+        ],
+        "overrideTalents": []
       },
       {
         "position": {
@@ -30430,7 +30431,8 @@
             "value": 0.0,
             "valueStr": "route_2"
           }
-        ]
+        ],
+        "overrideTalents": []
       }
     ],
     "characterCards": [],
