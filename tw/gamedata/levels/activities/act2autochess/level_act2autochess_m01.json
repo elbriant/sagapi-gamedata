@@ -178,7 +178,7 @@
   },
   "levelId": null,
   "mapId": null,
-  "bgmEvent": "act1vautochess_shop",
+  "bgmEvent": "act1autochess_shop",
   "environmentSe": null,
   "mapData": {
     "map": {
@@ -1140,10 +1140,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -1212,10 +1212,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -1302,6 +1302,24 @@
         "effects": []
       },
       {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
         "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
@@ -1311,37 +1329,19 @@
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
+        "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
+        "passableMask": "ALL",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -1392,36 +1392,117 @@
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
+        "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
+        "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
@@ -1446,91 +1527,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
         "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
         "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -1581,154 +1581,154 @@
         "effects": []
       },
       {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
         "tileKey": "tile_fence_bound",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
         "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -1761,10 +1761,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
+        "tileKey": "tile_fence_bound",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
-        "passableMask": "ALL",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -1797,19 +1797,19 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -2523,10 +2523,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -2595,10 +2595,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -2685,63 +2685,27 @@
         "effects": []
       },
       {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
         "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_floor",
-        "heightType": "LOWLAND",
-        "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
         "blackboard": [],
@@ -2766,45 +2730,9 @@
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
@@ -2838,36 +2766,9 @@
         "effects": []
       },
       {
-        "tileKey": "tile_forbidden",
+        "tileKey": "tile_wall",
         "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_forbidden",
-        "heightType": "HIGHLAND",
-        "buildableType": "NONE",
+        "buildableType": "RANGED",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
@@ -2877,60 +2778,6 @@
         "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_floor",
-        "heightType": "LOWLAND",
-        "buildableType": "NONE",
         "passableMask": "ALL",
         "playerSideMask": "ALL",
         "blackboard": [],
@@ -2955,45 +2802,9 @@
         "effects": []
       },
       {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "FLY_ONLY",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_fence_bound",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
         "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
@@ -3063,10 +2874,208 @@
         "effects": []
       },
       {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
         "tileKey": "tile_road",
         "heightType": "LOWLAND",
         "buildableType": "ALL",
         "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_floor",
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_road",
+        "heightType": "LOWLAND",
+        "buildableType": "ALL",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_floor",
+        "heightType": "LOWLAND",
+        "buildableType": "NONE",
+        "passableMask": "ALL",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -3099,19 +3108,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -3135,10 +3135,19 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
+        "playerSideMask": "ALL",
+        "blackboard": [],
+        "effects": []
+      },
+      {
+        "tileKey": "tile_wall",
+        "heightType": "HIGHLAND",
+        "buildableType": "RANGED",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -3171,19 +3180,10 @@
         "effects": []
       },
       {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
-        "playerSideMask": "ALL",
-        "blackboard": [],
-        "effects": []
-      },
-      {
-        "tileKey": "tile_road",
-        "heightType": "LOWLAND",
-        "buildableType": "ALL",
-        "passableMask": "ALL",
+        "tileKey": "tile_forbidden",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": [],
         "effects": []
@@ -4407,37 +4407,36 @@
     "layerRects": []
   },
   "tilesDisallowToLocate": [],
-  "runes": [
-    {
-      "difficultyMask": "ALL",
-      "key": "env_system_new",
-      "professionMask": 1023,
-      "buildableMask": "ALL",
-      "blackboard": [
-        {
-          "key": "key",
-          "value": 0.0,
-          "valueStr": "env_026_act41side"
-        },
-        {
-          "key": "disable_line",
-          "value": 1.0,
-          "valueStr": null
-        }
-      ]
-    }
-  ],
+  "runes": [],
   "optionalRunes": [],
   "globalBuffs": [],
   "routes": [
     {
       "motionMode": "WALK",
       "startPosition": {
-        "row": 5,
+        "row": 12,
         "col": 10
       },
       "endPosition": {
-        "row": 2,
+        "row": 9,
+        "col": 2
+      },
+      "spawnRandomRange": {},
+      "spawnOffset": {},
+      "checkpoints": [],
+      "allowDiagonalMove": true,
+      "visitEveryTileCenter": false,
+      "visitEveryNodeCenter": false,
+      "visitEveryCheckPoint": false
+    },
+    {
+      "motionMode": "WALK",
+      "startPosition": {
+        "row": 9,
+        "col": 10
+      },
+      "endPosition": {
+        "row": 9,
         "col": 2
       },
       "spawnRandomRange": {},
@@ -4488,6 +4487,27 @@
               "weight": 0,
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false
+            },
+            {
+              "actionType": "SPAWN",
+              "managedByScheduler": true,
+              "key": "enemy_1000_gopro_2",
+              "count": 1,
+              "preDelay": 3.0,
+              "interval": 20.0,
+              "routeIndex": 1,
+              "blockFragment": false,
+              "autoPreviewRoute": false,
+              "autoDisplayEnemyInfo": true,
+              "isUnharmfulAndAlwaysCountAsKilled": false,
+              "hiddenGroup": null,
+              "randomSpawnGroupKey": null,
+              "randomSpawnGroupPackKey": null,
+              "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
+              "weight": 0,
+              "dontBlockWave": false,
+              "forceBlockWaveInBranch": false
             }
           ]
         }
@@ -4497,78 +4517,27 @@
   ],
   "branches": [],
   "predefines": {
-    "characterInsts": [],
-    "tokenInsts": [
+    "characterInsts": [
       {
         "position": {
-          "row": 4,
-          "col": 6
+          "row": 10,
+          "col": 2
         },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_218_fttree#1",
+        "direction": "RIGHT",
+        "hidden": true,
+        "alias": "char_605_cmedic#1",
         "uniEquipIds": [],
         "showSpIllust": false,
         "masterInfos": [],
         "inst": {
-          "characterKey": "trap_218_fttree",
-          "level": 1,
-          "phase": "PHASE_0",
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": "PHASE_1",
           "favorBattlePhase": 0,
           "potentialRank": 0
         },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 3,
-          "col": 7
-        },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_218_fttree#2",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_218_fttree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 11,
-          "col": 6
-        },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_218_fttree#1",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_218_fttree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": [],
@@ -4577,16 +4546,268 @@
       {
         "position": {
           "row": 10,
-          "col": 7
+          "col": 10
         },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_218_fttree#2",
+        "direction": "RIGHT",
+        "hidden": true,
+        "alias": "char_605_cmedic#2_multi_only",
         "uniEquipIds": [],
         "showSpIllust": false,
         "masterInfos": [],
         "inst": {
-          "characterKey": "trap_218_fttree",
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": "PHASE_1",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 2
+        },
+        "direction": "RIGHT",
+        "hidden": true,
+        "alias": "char_605_cmedic#3",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": "PHASE_1",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 18
+        },
+        "direction": "LEFT",
+        "hidden": true,
+        "alias": "char_605_cmedic#4_multi_only",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": "PHASE_1",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 10,
+          "col": 2
+        },
+        "direction": "RIGHT",
+        "hidden": true,
+        "alias": "char_613_acmedc#1",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": "PHASE_2",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 10,
+          "col": 10
+        },
+        "direction": "RIGHT",
+        "hidden": true,
+        "alias": "char_613_acmedc#2_multi_only",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": "PHASE_2",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 2
+        },
+        "direction": "RIGHT",
+        "hidden": true,
+        "alias": "char_613_acmedc#3",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": "PHASE_2",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 18
+        },
+        "direction": "LEFT",
+        "hidden": true,
+        "alias": "char_613_acmedc#4_multi_only",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": "PHASE_2",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      }
+    ],
+    "tokenInsts": [
+      {
+        "position": {
+          "row": 8,
+          "col": 9
+        },
+        "direction": "UP",
+        "hidden": true,
+        "alias": "trap_1104_aclasert#1",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_1104_aclasert",
+          "level": 1,
+          "phase": "PHASE_0",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 0,
+        "mainSkillLvl": 1,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 8,
+          "col": 17
+        },
+        "direction": "UP",
+        "hidden": true,
+        "alias": "trap_1104_aclasert#2",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_1104_aclasert",
+          "level": 1,
+          "phase": "PHASE_0",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 0,
+        "mainSkillLvl": 1,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 6,
+          "col": 8
+        },
+        "direction": "DOWN",
+        "hidden": true,
+        "alias": "trap_1104_aclasert#3",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_1104_aclasert",
+          "level": 1,
+          "phase": "PHASE_0",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 0,
+        "mainSkillLvl": 1,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 6,
+          "col": 12
+        },
+        "direction": "DOWN",
+        "hidden": true,
+        "alias": "trap_1104_aclasert#4",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_1104_aclasert",
           "level": 1,
           "phase": "PHASE_0",
           "favorBattlePhase": 0,
@@ -4626,74 +4847,49 @@
       },
       {
         "position": {
-          "row": 8,
+          "row": 13,
+          "col": 5
+        },
+        "direction": "DOWN",
+        "hidden": false,
+        "alias": "trap_013_blower#001",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_013_blower",
+          "level": 1,
+          "phase": "PHASE_0",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 0,
+        "mainSkillLvl": 2,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 13,
           "col": 9
         },
-        "direction": "UP",
-        "hidden": true,
-        "alias": "trap_1104_aclasert#1",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_1104_aclasert",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 1,
-          "col": 11
-        },
-        "direction": "UP",
-        "hidden": true,
-        "alias": "trap_1104_aclasert#2",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_1104_aclasert",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 11,
-          "col": 9
-        },
-        "direction": "UP",
+        "direction": "DOWN",
         "hidden": false,
-        "alias": "trap_1105_accrate#1",
+        "alias": "trap_013_blower#002",
         "uniEquipIds": [],
         "showSpIllust": false,
         "masterInfos": [],
         "inst": {
-          "characterKey": "trap_1105_accrate",
+          "characterKey": "trap_013_blower",
           "level": 1,
           "phase": "PHASE_0",
           "favorBattlePhase": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
-        "mainSkillLvl": 3,
+        "mainSkillLvl": 2,
         "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": [],
@@ -4701,174 +4897,24 @@
       },
       {
         "position": {
-          "row": 11,
-          "col": 17
-        },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_1105_accrate#2",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_1105_accrate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 10,
-          "col": 9
-        },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_1105_accrate#3",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_1105_accrate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 10,
-          "col": 17
-        },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_1105_accrate#4",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_1105_accrate",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 3,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 1,
-          "col": 9
-        },
-        "direction": "UP",
-        "hidden": true,
-        "alias": "trap_1104_aclasert#3",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_1104_aclasert",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": null,
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 8,
-          "col": 17
-        },
-        "direction": "UP",
-        "hidden": true,
-        "alias": "trap_1104_aclasert#4",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_1104_aclasert",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 4,
-          "col": 14
-        },
-        "direction": "UP",
-        "hidden": false,
-        "alias": "trap_218_fttree#3",
-        "uniEquipIds": [],
-        "showSpIllust": false,
-        "masterInfos": [],
-        "inst": {
-          "characterKey": "trap_218_fttree",
-          "level": 1,
-          "phase": "PHASE_0",
-          "favorBattlePhase": 0,
-          "potentialRank": 0
-        },
-        "skillIndex": 0,
-        "mainSkillLvl": 1,
-        "skinId": "",
-        "tmplId": null,
-        "overrideSkillBlackboard": [],
-        "overrideTalents": []
-      },
-      {
-        "position": {
-          "row": 3,
+          "row": 13,
           "col": 13
         },
-        "direction": "UP",
+        "direction": "DOWN",
         "hidden": false,
-        "alias": "trap_218_fttree#4",
+        "alias": "trap_013_blower#101",
         "uniEquipIds": [],
         "showSpIllust": false,
         "masterInfos": [],
         "inst": {
-          "characterKey": "trap_218_fttree",
+          "characterKey": "trap_013_blower",
           "level": 1,
           "phase": "PHASE_0",
           "favorBattlePhase": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "mainSkillLvl": 2,
         "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": [],
@@ -4876,24 +4922,24 @@
       },
       {
         "position": {
-          "row": 11,
-          "col": 14
+          "row": 13,
+          "col": 17
         },
-        "direction": "UP",
+        "direction": "DOWN",
         "hidden": false,
-        "alias": "trap_218_fttree#3",
+        "alias": "trap_013_blower#102",
         "uniEquipIds": [],
         "showSpIllust": false,
         "masterInfos": [],
         "inst": {
-          "characterKey": "trap_218_fttree",
+          "characterKey": "trap_013_blower",
           "level": 1,
           "phase": "PHASE_0",
           "favorBattlePhase": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "mainSkillLvl": 2,
         "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": [],
@@ -4901,24 +4947,99 @@
       },
       {
         "position": {
-          "row": 10,
+          "row": 6,
+          "col": 5
+        },
+        "direction": "DOWN",
+        "hidden": false,
+        "alias": "trap_013_blower#201",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_013_blower",
+          "level": 1,
+          "phase": "PHASE_0",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 0,
+        "mainSkillLvl": 2,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 6,
+          "col": 9
+        },
+        "direction": "DOWN",
+        "hidden": false,
+        "alias": "trap_013_blower#202",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_013_blower",
+          "level": 1,
+          "phase": "PHASE_0",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 0,
+        "mainSkillLvl": 2,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 6,
           "col": 15
         },
-        "direction": "UP",
+        "direction": "DOWN",
         "hidden": false,
-        "alias": "trap_218_fttree#4",
+        "alias": "trap_013_blower#301",
         "uniEquipIds": [],
         "showSpIllust": false,
         "masterInfos": [],
         "inst": {
-          "characterKey": "trap_218_fttree",
+          "characterKey": "trap_013_blower",
           "level": 1,
           "phase": "PHASE_0",
           "favorBattlePhase": 0,
           "potentialRank": 0
         },
         "skillIndex": 0,
-        "mainSkillLvl": 1,
+        "mainSkillLvl": 2,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": [],
+        "overrideTalents": []
+      },
+      {
+        "position": {
+          "row": 6,
+          "col": 11
+        },
+        "direction": "DOWN",
+        "hidden": false,
+        "alias": "trap_013_blower#302",
+        "uniEquipIds": [],
+        "showSpIllust": false,
+        "masterInfos": [],
+        "inst": {
+          "characterKey": "trap_013_blower",
+          "level": 1,
+          "phase": "PHASE_0",
+          "favorBattlePhase": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 0,
+        "mainSkillLvl": 2,
         "skinId": "",
         "tmplId": null,
         "overrideSkillBlackboard": [],

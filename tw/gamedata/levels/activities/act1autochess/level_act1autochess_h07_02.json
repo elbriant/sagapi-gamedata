@@ -4783,7 +4783,7 @@
     {
       "motionMode": "WALK",
       "startPosition": {
-        "row": 5,
+        "row": 4,
         "col": 10
       },
       "endPosition": {
@@ -4797,17 +4797,6 @@
           "type": "PATROL_MOVE",
           "time": 0.0,
           "position": {
-            "row": 4,
-            "col": 9
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "PATROL_MOVE",
-          "time": 0.0,
-          "position": {
             "row": 3,
             "col": 9
           },
@@ -4819,19 +4808,8 @@
           "type": "PATROL_MOVE",
           "time": 0.0,
           "position": {
-            "row": 3,
-            "col": 11
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "PATROL_MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 4,
-            "col": 11
+            "row": 2,
+            "col": 3
           },
           "reachOffset": {},
           "randomizeReachOffset": false,
@@ -4842,7 +4820,7 @@
           "time": 0.0,
           "position": {
             "row": 5,
-            "col": 10
+            "col": 9
           },
           "reachOffset": {},
           "randomizeReachOffset": false,
@@ -5109,6 +5087,58 @@
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false,
       "visitEveryCheckPoint": false
+    },
+    {
+      "motionMode": "WALK",
+      "startPosition": {
+        "row": 4,
+        "col": 10
+      },
+      "endPosition": {
+        "row": 2,
+        "col": 2
+      },
+      "spawnRandomRange": {},
+      "spawnOffset": {},
+      "checkpoints": [
+        {
+          "type": "PATROL_MOVE",
+          "time": 0.0,
+          "position": {
+            "row": 3,
+            "col": 11
+          },
+          "reachOffset": {},
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": "PATROL_MOVE",
+          "time": 0.0,
+          "position": {
+            "row": 2,
+            "col": 17
+          },
+          "reachOffset": {},
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": "PATROL_MOVE",
+          "time": 0.0,
+          "position": {
+            "row": 5,
+            "col": 11
+          },
+          "reachOffset": {},
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        }
+      ],
+      "allowDiagonalMove": true,
+      "visitEveryTileCenter": false,
+      "visitEveryNodeCenter": false,
+      "visitEveryCheckPoint": false
     }
   ],
   "enemies": [],
@@ -5141,7 +5171,190 @@
       "useDb": true,
       "id": "enemy_9017_achunt",
       "level": 0,
-      "overwrittenData": null
+      "overwrittenData": {
+        "name": {
+          "defined": false,
+          "value": null
+        },
+        "description": {
+          "defined": false,
+          "value": null
+        },
+        "prefabKey": {
+          "defined": false,
+          "value": null
+        },
+        "attributes": {
+          "maxHp": {
+            "defined": false,
+            "value": 0
+          },
+          "atk": {
+            "defined": false,
+            "value": 0
+          },
+          "def": {
+            "defined": false,
+            "value": 0
+          },
+          "magicResistance": {
+            "defined": false,
+            "value": 0.0
+          },
+          "cost": {
+            "defined": false,
+            "value": 0
+          },
+          "blockCnt": {
+            "defined": false,
+            "value": 0
+          },
+          "moveSpeed": {
+            "defined": false,
+            "value": 0.0
+          },
+          "attackSpeed": {
+            "defined": false,
+            "value": 0.0
+          },
+          "baseAttackTime": {
+            "defined": false,
+            "value": 0.0
+          },
+          "respawnTime": {
+            "defined": false,
+            "value": 0
+          },
+          "hpRecoveryPerSec": {
+            "defined": false,
+            "value": 0.0
+          },
+          "spRecoveryPerSec": {
+            "defined": false,
+            "value": 0.0
+          },
+          "maxDeployCount": {
+            "defined": false,
+            "value": 0
+          },
+          "massLevel": {
+            "defined": false,
+            "value": 0
+          },
+          "baseForceLevel": {
+            "defined": false,
+            "value": 0
+          },
+          "tauntLevel": {
+            "defined": false,
+            "value": 0
+          },
+          "epDamageResistance": {
+            "defined": false,
+            "value": 0.0
+          },
+          "epResistance": {
+            "defined": false,
+            "value": 0.0
+          },
+          "damageHitratePhysical": {
+            "defined": false,
+            "value": 0.0
+          },
+          "damageHitrateMagical": {
+            "defined": false,
+            "value": 0.0
+          },
+          "epBreakRecoverSpeed": {
+            "defined": false,
+            "value": 0.0
+          },
+          "stunImmune": {
+            "defined": false,
+            "value": false
+          },
+          "silenceImmune": {
+            "defined": false,
+            "value": false
+          },
+          "sleepImmune": {
+            "defined": false,
+            "value": false
+          },
+          "frozenImmune": {
+            "defined": false,
+            "value": false
+          },
+          "levitateImmune": {
+            "defined": false,
+            "value": false
+          },
+          "disarmedCombatImmune": {
+            "defined": false,
+            "value": false
+          },
+          "fearedImmune": {
+            "defined": false,
+            "value": false
+          },
+          "palsyImmune": {
+            "defined": false,
+            "value": false
+          },
+          "attractImmune": {
+            "defined": false,
+            "value": false
+          }
+        },
+        "applyWay": {
+          "defined": false,
+          "value": "NONE"
+        },
+        "motion": {
+          "defined": false,
+          "value": "WALK"
+        },
+        "enemyTags": {
+          "defined": false,
+          "value": []
+        },
+        "lifePointReduce": {
+          "defined": false,
+          "value": 0
+        },
+        "levelType": {
+          "defined": false,
+          "value": "NORMAL"
+        },
+        "rangeRadius": {
+          "defined": false,
+          "value": 0.0
+        },
+        "numOfExtraDrops": {
+          "defined": false,
+          "value": 0
+        },
+        "viewRadius": {
+          "defined": false,
+          "value": 0.0
+        },
+        "notCountInTotal": {
+          "defined": false,
+          "value": false
+        },
+        "talentBlackboard": [],
+        "skills": [
+          {
+            "prefabKey": "1",
+            "priority": 0,
+            "cooldown": 999.0,
+            "initCooldown": 999.0,
+            "spCost": 0,
+            "blackboard": []
+          }
+        ],
+        "spData": null
+      }
     },
     {
       "useDb": true,
@@ -5566,6 +5779,36 @@
               "preDelay": 0.0,
               "interval": 1.0,
               "routeIndex": 2,
+              "blockFragment": false,
+              "autoPreviewRoute": false,
+              "autoDisplayEnemyInfo": false,
+              "isUnharmfulAndAlwaysCountAsKilled": false,
+              "hiddenGroup": null,
+              "randomSpawnGroupKey": null,
+              "randomSpawnGroupPackKey": null,
+              "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
+              "weight": 0,
+              "dontBlockWave": false,
+              "forceBlockWaveInBranch": false
+            }
+          ]
+        }
+      ]
+    },
+    "boss_battle_multi_player": {
+      "phases": [
+        {
+          "preDelay": 0.0,
+          "actions": [
+            {
+              "actionType": "SPAWN",
+              "managedByScheduler": true,
+              "key": "enemy_9017_achunt",
+              "count": 1,
+              "preDelay": 0.0,
+              "interval": 1.0,
+              "routeIndex": 3,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "autoDisplayEnemyInfo": false,

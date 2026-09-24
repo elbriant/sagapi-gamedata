@@ -4238,7 +4238,7 @@
     {
       "motionMode": "WALK",
       "startPosition": {
-        "row": 5,
+        "row": 4,
         "col": 10
       },
       "endPosition": {
@@ -4252,18 +4252,7 @@
           "type": "PATROL_MOVE",
           "time": 0.0,
           "position": {
-            "row": 5,
-            "col": 9
-          },
-          "reachOffset": {},
-          "randomizeReachOffset": false,
-          "reachDistance": 0.0
-        },
-        {
-          "type": "PATROL_MOVE",
-          "time": 0.0,
-          "position": {
-            "row": 2,
+            "row": 3,
             "col": 9
           },
           "reachOffset": {},
@@ -4276,6 +4265,17 @@
           "position": {
             "row": 2,
             "col": 3
+          },
+          "reachOffset": {},
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": "PATROL_MOVE",
+          "time": 0.0,
+          "position": {
+            "row": 5,
+            "col": 9
           },
           "reachOffset": {},
           "randomizeReachOffset": false,
