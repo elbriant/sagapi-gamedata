@@ -91648,6 +91648,2909 @@
       "advancedRuneIdList2": [],
       "useSpecialSizeMapPreview": false
     },
+    "act51side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_st01",
+      "levelId": null,
+      "zoneId": "act51side_zone1",
+      "code": "PA-ST-1",
+      "name": "群氓",
+      "description": "我向你指控一片聒噪的廢土，我看見一千副口舌，我聽見一萬種聲音，這裡的爭吵晝夜不休卻從無結論，那些昂揚的立場已是他們意圖的終點。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_01",
+      "levelId": "Activities/act51side/level_act51side_01",
+      "zoneId": "act51side_zone1",
+      "code": "PA-1",
+      "name": "“卡托加區歡迎你”",
+      "description": "我向你轉述一個支離的夜晚，青春在雪地裡熄滅，朽木在壁爐中苟延殘喘。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_tr01",
+      "levelId": "Activities/act51side/level_act51side_tr01",
+      "zoneId": "act51side_zone1",
+      "code": "PA-TR-1",
+      "name": "卑劣與繁榮",
+      "description": "我向你獻上一座鏽蝕的地塊，這裡曾是聖駿堡喘鳴不止的工業肺臟，但現在，它只是一個等待被切除的器官。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_02",
+      "levelId": "Activities/act51side/level_act51side_02",
+      "zoneId": "act51side_zone1",
+      "code": "PA-2",
+      "name": "枷鎖之中",
+      "description": "我向你追償一筆陳舊的血債，你鞭打驅趕那些被編號的獸群，任由他們哭號怒駡，直到他們想起自己曾為人類。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 9,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_03",
+      "levelId": "Activities/act51side/level_act51side_03",
+      "zoneId": "act51side_zone1",
+      "code": "PA-3",
+      "name": "陽光照耀聖駿堡",
+      "description": "我向你乞求一個清朗的夜晚，只需要一點星火，就足以點燃這片乾枯而痛苦、渴望著新生的土地。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "精英1 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_04",
+      "levelId": "Activities/act51side/level_act51side_04",
+      "zoneId": "act51side_zone1",
+      "code": "PA-4",
+      "name": "一牆之隔",
+      "description": "我向你虛構一段精密的舞步，自出生起就被賜下的腳鐐是我轉圜的支點，我背向燭光以看清圍牆另一邊的黑夜。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "精英1 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_05",
+      "levelId": "Activities/act51side/level_act51side_05",
+      "zoneId": "act51side_zone1",
+      "code": "PA-5",
+      "name": "高尚的背叛",
+      "description": "我向你坦白一樁必要的僭越，我保留了我所有的意見，因為那高舉的天秤不再能衡量真與假的分別。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "精英1 LV.30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 12,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 12,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_06",
+      "levelId": "Activities/act51side/level_act51side_06",
+      "zoneId": "act51side_zone1",
+      "code": "PA-6",
+      "name": "各自流亡",
+      "description": "我向你描摹一條擁擠的道路，那些匆匆的腳步只是恰巧相逢在同一條路上。沒人能知道到底誰才是正確的，每個人都只能沿著自己的命運流亡。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.rem>無法攜帶部分登場角色</>",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_07",
+      "levelId": "Activities/act51side/level_act51side_07",
+      "zoneId": "act51side_zone1",
+      "code": "PA-7",
+      "name": "死結兩端",
+      "description": "我向你展示一個牢固的死結，我和你是這根繩的兩端，中間橫亙著北方的凍土和涅瓦湖乾涸的河道，但那難以逃脫的宿命仍將我拉向你的懷中。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_08",
+      "levelId": "Activities/act51side/level_act51side_08",
+      "zoneId": "act51side_zone1",
+      "code": "PA-8",
+      "name": "一千年後",
+      "description": "我向你借取一把斷折的利劍，我同樣有必須開闢的前路。你已死去一千年，他們仍在將你塑成雕像，將你鎖在鋼筋水泥中，好使你的劍無法揮下。那麼，我來。\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 21,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 21,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31033",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "31033",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_st02",
+      "levelId": null,
+      "zoneId": "act51side_zone1",
+      "code": "PA-ST-2",
+      "name": "完整的缺損",
+      "description": "我向你念誦孩童的啼哭與母親的嘆息，烏薩斯，你的名字是一行破碎的詩。我飢餓的血肉難以撐起你的一個韻腳。然而今夜後，火堆已經燃起，沒人再能從唇齒間召回那個孱弱的春天。",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_st01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex01",
+      "levelId": "Activities/act51side/level_act51side_ex01",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-1",
+      "name": "在底層",
+      "description": "“夫人，請允許我省去那些無意義的寒暄，如果命運如我們計算的那樣精準，那麼這封信送到您手上時，卡托加區的圍牆已經倒下了。而我和您深愛的兒子，馬特維，也已經付出了讓它倒塌所必要的代價。”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": "act51side_ex01#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex01#f#",
+      "levelId": "Activities/act51side/level_act51side_ex01",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-1",
+      "name": "在底層",
+      "description": "<@lv.fs>附加條件：</>\n出現額外的警戒塔",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex02",
+      "levelId": "Activities/act51side/level_act51side_ex02",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-2",
+      "name": "活屍",
+      "description": "“這是一個極端的選擇，但也是我們僅有的選擇。夫人，我不是來乞求原諒的，您可以用餘生來指責我從您身邊帶走了他。我違背了自己的諾言，但我仍願意相信這是值得的。”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人",
+      "hardStagedId": "act51side_ex02#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex02#f#",
+      "levelId": "Activities/act51side/level_act51side_ex02",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-2",
+      "name": "活屍",
+      "description": "<@lv.fs>附加條件：</>\n部分敵人有所不同",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 10,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 10,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex03",
+      "levelId": "Activities/act51side/level_act51side_ex03",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-3",
+      "name": "母親",
+      "description": "“我還記得您用紅菜湯招待我，那時我剛種下一棵櫻桃樹，我說，等它開花，我會摘下最美的一枝送給您。馬特維還在樹幹上刻下了一個詞來銘記這件事，可惜，樹被砍掉了，馬特維也不肯告訴我那個詞是什麼。”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人",
+      "hardStagedId": "act51side_ex03#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex03#f#",
+      "levelId": "Activities/act51side/level_act51side_ex03",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-3",
+      "name": "母親",
+      "description": "<@lv.fs>附加條件：</>\n狙擊與術師幹員部署費用提升至2倍",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex04",
+      "levelId": "Activities/act51side/level_act51side_ex04",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-4",
+      "name": "長子",
+      "description": "“此刻馬特維正坐在我的對面，用當初刻字的小刀削尖一截木樁。他沒有害怕，甚至平靜得有些乏味。他總說他繼承了您的性格。我想，也許您會理解，他是在做自己認為正確的事。”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": "act51side_ex04#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英2 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex04#f#",
+      "levelId": "Activities/act51side/level_act51side_ex04",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-4",
+      "name": "長子",
+      "description": "<@lv.fs>附加條件：</>\n禁閉所數量減少",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex05",
+      "levelId": "Activities/act51side/level_act51side_ex05",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-5",
+      "name": "三姐妹",
+      "description": "“被封鎖在卡托加區的這段時間，我和馬特維經歷的事比起從前更為複雜。我甚至曾不只一次地想過，是否還有其他的道路，但最後仍然是馬特維提醒了我，我們不能妥協。”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": "act51side_ex05#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex05#f#",
+      "levelId": "Activities/act51side/level_act51side_ex05",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-5",
+      "name": "三姐妹",
+      "description": "<@lv.fs>附加條件：</>\n場上3個位置不可部署",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex06",
+      "levelId": "Activities/act51side/level_act51side_ex06",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-6",
+      "name": "欽差大臣",
+      "description": "“是的，我們無法妥協。一旦妥協，我們的道路將不復存在，活著只是慢性窒息。夫人，我不曾和您講過那些理想和主義，但說到底，如果不是認定了這世道不該如此，誰又會甘願放棄自己的生命呢？”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": "act51side_ex06#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英2 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex06#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex06",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex06#f#",
+      "levelId": "Activities/act51side/level_act51side_ex06",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-6",
+      "name": "欽差大臣",
+      "description": "<@lv.fs>附加條件：</>\n出現額外的敵人",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 15,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 15,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex07",
+      "levelId": "Activities/act51side/level_act51side_ex07",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-7",
+      "name": "樂觀的悲劇",
+      "description": "“這張紙並不算長，今夜也只剩下幾個鐘頭了。再過不久，我們將坦然奔赴我們的命運。夫人，請不要看向墳墓，請看向城牆上的缺口。太陽的光芒會填滿它，那將是我們最後的宣言了。”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人",
+      "hardStagedId": "act51side_ex07#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英2 LV.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex07#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex07",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex07#f#",
+      "levelId": "Activities/act51side/level_act51side_ex07",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-7",
+      "name": "樂觀的悲劇",
+      "description": "<@lv.fs>附加條件：</>\n格羅莫夫的生命值與移動速度大幅提升",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act51side_ex07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act51side_ex08",
+      "levelId": "Activities/act51side/level_act51side_ex08",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-8",
+      "name": "櫻桃園",
+      "description": "“另外，馬特維剛剛告訴我，當初他刻下的那個詞是‘春天’。啊，我竟然一直沒猜到。春天也許很快就要到了，夫人，拜託您到時替我們去看看街邊的櫻桃樹，看看它們是否如期盛開。”\n<@lv.item><警戒塔></>定期旋轉，同時攻擊範圍內所有暴露的我方單位\n<@lv.item><偽裝工具></>使被影響的單位潛伏一段時間，其間無法被選中也不會阻擋敵人\n<@lv.item><禁閉所></>僅能被周圍四格的幹員攻擊，破壞後獲得偽裝工具與部署費用並吸引附近的警戒塔",
+      "hardStagedId": "act51side_ex08#f#",
+      "sixStarStageId": null,
+      "dangerLevel": "精英2 LV.40",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act51side_token_poem",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
+    "act51side_ex08#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act51side_ex08",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act51side_ex08#f#",
+      "levelId": "Activities/act51side/level_act51side_ex08",
+      "zoneId": "act51side_zone2",
+      "code": "PA-EX-8",
+      "name": "櫻桃園",
+      "description": "<@lv.fs>附加條件：</>\n特種與先鋒幹員部署費用提升至2倍",
+      "hardStagedId": null,
+      "sixStarStageId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_PA_block",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 20,
+      "maxSlot": -1,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": [],
+        "firstCompleteRewards": [],
+        "passRewards": [],
+        "completeRewards": [],
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canMultipleBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act51side_ex01",
+      "S_extraCondition": [],
+      "S_extraInfo": [],
+      "sixStarBaseDesc": null,
+      "sixStarDisplayRewardList": [],
+      "advancedRuneIdList1": [],
+      "advancedRuneIdList2": [],
+      "useSpecialSizeMapPreview": false
+    },
     "act20mini_01": {
       "stageType": "ACTIVITY",
       "difficulty": "NORMAL",
@@ -155222,7 +158125,7 @@
       ],
       "stageId": "act41side_st01",
       "levelId": null,
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-ST-1",
       "name": "涉過寒夜",
       "description": "故事、歌謠、篝火……齊聚在此的人一無所有，也無所不有。",
@@ -155310,7 +158213,7 @@
       ],
       "stageId": "act41side_01",
       "levelId": "Activities/act41side/level_act41side_01",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-1",
       "name": "扉頁所見",
       "description": "“自我放逐者，你為何來此？”",
@@ -155322,7 +158225,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -155336,7 +158239,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "displayMainItem": null,
@@ -155355,12 +158258,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -155403,13 +158306,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -155486,7 +158389,7 @@
       ],
       "stageId": "act41side_tr01",
       "levelId": "Activities/act41side/level_act41side_tr01",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-TR-1",
       "name": "撥霧聲",
       "description": "“我帶來牧場的豐獲與野地的饋贈。我曾空手離去，而今滿載歸來。”\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野",
@@ -155574,7 +158477,7 @@
       ],
       "stageId": "act41side_02",
       "levelId": "Activities/act41side/level_act41side_02",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-2",
       "name": "不過別離",
       "description": "“你滿懷真誠，卻別無所求？”\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野",
@@ -155586,7 +158489,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 9,
-      "apFailReturn": 8,
+      "apFailReturn": 9,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -155600,7 +158503,7 @@
       "goldGain": 90,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 8,
+      "passFavor": 9,
       "completeFavor": 9,
       "slProgress": 0,
       "displayMainItem": null,
@@ -155619,12 +158522,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -155667,13 +158570,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -155750,7 +158653,7 @@
       ],
       "stageId": "act41side_03",
       "levelId": "Activities/act41side/level_act41side_03",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-3",
       "name": "惶惑與衝動",
       "description": "“也為彌補過去，也為再臨故土。此外，我別無所求。”\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野",
@@ -155762,7 +158665,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -155776,7 +158679,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "displayMainItem": null,
@@ -155795,12 +158698,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -155823,13 +158726,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -155882,7 +158785,7 @@
       ],
       "stageId": "act41side_04",
       "levelId": "Activities/act41side/level_act41side_04",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-4",
       "name": "舊舞步",
       "description": "“你飽嚐悔愧與思念，但別無所求？”\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><空殼></>幹員部署至其上時，將場上的另一個<空殼>複製成為幹員，且該複製幹員可造成灼燃損傷",
@@ -155894,7 +158797,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -155908,7 +158811,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "displayMainItem": null,
@@ -155927,12 +158830,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -155955,13 +158858,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156014,7 +158917,7 @@
       ],
       "stageId": "act41side_05",
       "levelId": "Activities/act41side/level_act41side_05",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-5",
       "name": "溺火",
       "description": "“請領我去往另一條紅龍身旁。此外，我別無所求。”\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野\n<@lv.item><盾與牆></>遮擋我方單位的視野",
@@ -156026,7 +158929,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 12,
-      "apFailReturn": 11,
+      "apFailReturn": 12,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -156040,7 +158943,7 @@
       "goldGain": 120,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 11,
+      "passFavor": 12,
       "completeFavor": 12,
       "slProgress": 0,
       "displayMainItem": null,
@@ -156059,12 +158962,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156087,13 +158990,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156146,7 +159049,7 @@
       ],
       "stageId": "act41side_06",
       "levelId": "Activities/act41side/level_act41side_06",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-6",
       "name": "失路人",
       "description": "“……這條路，果真是通往他的道路嗎？”\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野",
@@ -156158,7 +159061,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -156172,7 +159075,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "displayMainItem": null,
@@ -156191,12 +159094,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156214,13 +159117,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156267,7 +159170,7 @@
       ],
       "stageId": "act41side_st02",
       "levelId": null,
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-ST-2",
       "name": "羅曼史已死",
       "description": "這只是故事，而非你我未來的預兆。不必哭泣，拉芙希妮。",
@@ -156355,7 +159258,7 @@
       ],
       "stageId": "act41side_07",
       "levelId": "Activities/act41side/level_act41side_07",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-7",
       "name": "燒燈者",
       "description": "……如你所願，愛布拉娜。\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野",
@@ -156367,7 +159270,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -156381,7 +159284,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "displayMainItem": null,
@@ -156400,12 +159303,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156423,13 +159326,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156476,7 +159379,7 @@
       ],
       "stageId": "act41side_08",
       "levelId": "Activities/act41side/level_act41side_08",
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-8",
       "name": "夜盡之時",
       "description": "等到大雨落下，太陽升起，我們既跨越生，亦跨越死。\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野\n<@lv.item><空殼></>幹員部署至其上時，將場上的另一個<空殼>複製成為幹員，且該複製幹員可造成灼燃損傷",
@@ -156488,7 +159391,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 21,
-      "apFailReturn": 20,
+      "apFailReturn": 21,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -156502,7 +159405,7 @@
       "goldGain": 210,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 20,
+      "passFavor": 21,
       "completeFavor": 21,
       "slProgress": 0,
       "displayMainItem": null,
@@ -156521,12 +159424,12 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156544,13 +159447,13 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "NORMAL"
           },
           {
@@ -156597,7 +159500,7 @@
       ],
       "stageId": "act41side_st03",
       "levelId": null,
-      "zoneId": "act41side_zone1",
+      "zoneId": "act41sre_zone1",
       "code": "EA-ST-3",
       "name": "封底紀事",
       "description": "千萬重複的故事，組成歷史。",
@@ -156685,7 +159588,7 @@
       ],
       "stageId": "act41side_ex01",
       "levelId": "Activities/act41side/level_act41side_ex01",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-1",
       "name": "帷幕另一側",
       "description": "傳說在夏末節夜晚的薄霧中，人們能再見逝去之人的幻影，聽到他們的聲音。當然，這只是傳說。\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野\n<@lv.item><空殼></>幹員部署至其上時，將場上的另一個<空殼>複製成為幹員，且該複製幹員可造成灼燃損傷",
@@ -156697,7 +159600,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -156711,7 +159614,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -156730,7 +159633,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -156743,7 +159646,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -156788,7 +159691,7 @@
       ],
       "stageId": "act41side_ex01#f#",
       "levelId": "Activities/act41side/level_act41side_ex01",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-1",
       "name": "帷幕另一側",
       "description": "<@lv.fs>附加條件：</>\n初始場上的<空殼>不再出現",
@@ -156800,7 +159703,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -156814,7 +159717,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -156876,7 +159779,7 @@
       ],
       "stageId": "act41side_ex02",
       "levelId": "Activities/act41side/level_act41side_ex02",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-2",
       "name": "以篝火占卜",
       "description": "“點燃儀式的篝火，然後提問，從燒完的煙灰裡得到答案。先不論可信度，我們已經多少年沒有這麼做了？”\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野",
@@ -156888,7 +159791,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -156902,7 +159805,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -156921,7 +159824,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -156934,7 +159837,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -156979,7 +159882,7 @@
       ],
       "stageId": "act41side_ex02#f#",
       "levelId": "Activities/act41side/level_act41side_ex02",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-2",
       "name": "以篝火占卜",
       "description": "<@lv.fs>附加條件：</>\n場上有3個位置無法部署",
@@ -156991,7 +159894,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 10,
-      "apFailReturn": 9,
+      "apFailReturn": 10,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157005,7 +159908,7 @@
       "goldGain": 100,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 9,
+      "passFavor": 10,
       "completeFavor": 10,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157067,7 +159970,7 @@
       ],
       "stageId": "act41side_ex03",
       "levelId": "Activities/act41side/level_act41side_ex03",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-3",
       "name": "暖春遊行",
       "description": "象徵春季開始的節日沒有固定的名字，人們只是在逐漸回暖的日子裡走到街上，曬曬太陽，僅此而已。\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野",
@@ -157079,7 +159982,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157093,7 +159996,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157112,7 +160015,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157125,7 +160028,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157170,7 +160073,7 @@
       ],
       "stageId": "act41side_ex03#f#",
       "levelId": "Activities/act41side/level_act41side_ex03",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-3",
       "name": "暖春遊行",
       "description": "<@lv.fs>附加條件：</>\n指路草獲得<隱匿>",
@@ -157182,7 +160085,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157196,7 +160099,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157258,7 +160161,7 @@
       ],
       "stageId": "act41side_ex04",
       "levelId": "Activities/act41side/level_act41side_ex04",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-4",
       "name": "窗邊玩偶",
       "description": "“就算沒有黑林裡的樹藤，一樣可以用別的東西編娃娃啊。主要是，我真的不想再被那些東西捉弄了！”\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野\n<@lv.item><盾與牆></>遮擋我方單位的視野\n<@lv.rem>本次行動中幹員部署不受近遠程限制</>",
@@ -157270,7 +160173,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157284,7 +160187,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157303,7 +160206,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157316,7 +160219,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157361,7 +160264,7 @@
       ],
       "stageId": "act41side_ex04#f#",
       "levelId": "Activities/act41side/level_act41side_ex04",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-4",
       "name": "窗邊玩偶",
       "description": "<@lv.fs>附加條件：</>\n地形和敵人等有所不同",
@@ -157373,7 +160276,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157387,7 +160290,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157449,7 +160352,7 @@
       ],
       "stageId": "act41side_ex05",
       "levelId": "Activities/act41side/level_act41side_ex05",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-5",
       "name": "五月樹",
       "description": "樹上橙黃色的花朵會在火焰節期間次第開放，在節日臨近結束時盛開圓滿。燭火是火，花朵也是火。\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野\n<@lv.item><空殼></>幹員部署至其上時，將場上的另一個<空殼>複製成為幹員，且該複製幹員可造成灼燃損傷",
@@ -157461,7 +160364,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157475,7 +160378,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157494,7 +160397,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157507,7 +160410,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157552,7 +160455,7 @@
       ],
       "stageId": "act41side_ex05#f#",
       "levelId": "Activities/act41side/level_act41side_ex05",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-5",
       "name": "五月樹",
       "description": "<@lv.fs>附加條件：</>\n戰場上額外出現4個<盾與牆>",
@@ -157564,7 +160467,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157578,7 +160481,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157640,7 +160543,7 @@
       ],
       "stageId": "act41side_ex06",
       "levelId": "Activities/act41side/level_act41side_ex06",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-6",
       "name": "歌唱時",
       "description": "“不知道說什麼的時候就唱歌吧，話語會消散，而旋律會傳得很遠很遠。在耳邊，在霧裡，在風中。”\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野\n<@lv.item><盾與牆></>遮擋我方單位的視野",
@@ -157652,7 +160555,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157666,7 +160569,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157685,7 +160588,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157698,7 +160601,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157743,7 +160646,7 @@
       ],
       "stageId": "act41side_ex06#f#",
       "levelId": "Activities/act41side/level_act41side_ex06",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-6",
       "name": "歌唱時",
       "description": "<@lv.fs>附加條件：</>\n<盾與牆>初始位置改變",
@@ -157755,7 +160658,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 15,
-      "apFailReturn": 14,
+      "apFailReturn": 15,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157769,7 +160672,7 @@
       "goldGain": 150,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 14,
+      "passFavor": 15,
       "completeFavor": 15,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157831,7 +160734,7 @@
       ],
       "stageId": "act41side_ex07",
       "levelId": "Activities/act41side/level_act41side_ex07",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-7",
       "name": "花環",
       "description": "登上城中最高的山，摘下沿途最美麗的花，將它們編織成環。送給親人，送給友人，送給愛人。\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><樹叢></>不會受到攻擊，遮擋我方單位的視野\n<@lv.item><盾與牆></>遮擋我方單位的視野",
@@ -157843,7 +160746,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157857,7 +160760,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -157876,7 +160779,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157889,7 +160792,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -157934,7 +160837,7 @@
       ],
       "stageId": "act41side_ex07#f#",
       "levelId": "Activities/act41side/level_act41side_ex07",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-7",
       "name": "花環",
       "description": "<@lv.fs>附加條件：</>\n場上有5個位置無法部署",
@@ -157946,7 +160849,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -157960,7 +160863,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -158022,7 +160925,7 @@
       ],
       "stageId": "act41side_ex08",
       "levelId": "Activities/act41side/level_act41side_ex08",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-8",
       "name": "冠冕",
       "description": "“給孩子們加冕，給馱獸們加冕，給山楂樹加冕！你問紅龍？讓我們撿起這個傳統的就是紅龍！”\n<@lv.item><草毯></>可以生長<樹叢>，置於其上的單位持續受到法術傷害\n<@lv.item><盾與牆></>遮擋我方單位的視野",
@@ -158034,7 +160937,7 @@
       "canPractice": true,
       "canBattleReplay": true,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -158048,7 +160951,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -158067,7 +160970,7 @@
         "displayRewards": [
           {
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -158080,7 +160983,7 @@
           {
             "occPercent": "ALWAYS",
             "type": "ACTIVITY_ITEM",
-            "id": "act41side_token_light",
+            "id": "act41side_token_light_rep_1",
             "dropType": "COMPLETE"
           },
           {
@@ -158125,7 +161028,7 @@
       ],
       "stageId": "act41side_ex08#f#",
       "levelId": "Activities/act41side/level_act41side_ex08",
-      "zoneId": "act41side_zone2",
+      "zoneId": "act41sre_zone2",
       "code": "EA-EX-8",
       "name": "冠冕",
       "description": "<@lv.fs>附加條件：</>\n戰場上額外出現2個<盾與牆>",
@@ -158137,7 +161040,7 @@
       "canPractice": true,
       "canBattleReplay": false,
       "apCost": 20,
-      "apFailReturn": 19,
+      "apFailReturn": 20,
       "maxSlot": -1,
       "etItemId": null,
       "etCost": -1,
@@ -158151,7 +161054,7 @@
       "goldGain": 200,
       "loseExpGain": 0,
       "loseGoldGain": 0,
-      "passFavor": 19,
+      "passFavor": 20,
       "completeFavor": 20,
       "slProgress": 0,
       "displayMainItem": null,
@@ -581261,6 +584164,114 @@
       "startTs": 1741852800,
       "endTs": -1
     },
+    "act51side_st01": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_01": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_tr01": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_02": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_03": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_04": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_05": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_06": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_07": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_08": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_st02": {
+      "startTs": 1791446400,
+      "endTs": 1792612799
+    },
+    "act51side_ex01": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex01#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex02": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex02#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex03": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex03#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex04": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex04#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex05": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex05#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex06": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex06#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex07": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex07#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex08": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
+    "act51side_ex08#f#": {
+      "startTs": 1792051200,
+      "endTs": 1792612799
+    },
     "act20mini_01": {
       "startTs": 1789365600,
       "endTs": 1789934399
@@ -583626,116 +586637,116 @@
       "endTs": 1763063999
     },
     "act41side_st01": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_01": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_tr01": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_02": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_03": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_04": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_05": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_06": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_st02": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_07": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_08": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_st03": {
-      "startTs": 1760680800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex01": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex01#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex02": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex02#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex03": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex03#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex04": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex04#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex05": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex05#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex06": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex06#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex07": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex07#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex08": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act41side_ex08#f#": {
-      "startTs": 1761292800,
-      "endTs": 1761854399
+      "startTs": 1792612800,
+      "endTs": 1793476799
     },
     "act40side_st01": {
       "startTs": 1786046400,
@@ -592685,6 +595696,36 @@
           "unlockStageId": "main_01-10",
           "relevantStorySetId": "setId_ssLine_act10d5",
           "mainlineSplitData": null
+        },
+        "ssLine_act10d5_after1": {
+          "locationId": "ssLine_act10d5_after1",
+          "locationType": "AFTER",
+          "sortId": 13011,
+          "startTime": 1791446400,
+          "presentStageId": "act51side_st02",
+          "unlockStageId": "main_03-08",
+          "relevantStorySetId": "setId_mainline_3_1",
+          "mainlineSplitData": null
+        },
+        "ssLine_act51side_before1": {
+          "locationId": "ssLine_act51side_before1",
+          "locationType": "BEFORE",
+          "sortId": 13019,
+          "startTime": 1791446400,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "st_15-03",
+          "relevantStorySetId": "setId_mainline_3_2",
+          "mainlineSplitData": null
+        },
+        "ssLine_act51side": {
+          "locationId": "ssLine_act51side",
+          "locationType": "STORY_SET",
+          "sortId": 13020,
+          "startTime": 1791446400,
+          "presentStageId": "main_01-10",
+          "unlockStageId": "main_01-10",
+          "relevantStorySetId": "setId_ssLine_act51side",
+          "mainlineSplitData": null
         }
       }
     },
@@ -594137,6 +597178,35 @@
         "backgroundId": "storybg_children_of_ursus"
       }
     },
+    "setId_ssLine_act51side": {
+      "storySetId": "setId_ssLine_act51side",
+      "storySetType": "SS",
+      "sortByYear": 7,
+      "sortWithinYear": 5,
+      "kvImageId": "kv_people_a_people",
+      "titleImageId": "title_people_a_people",
+      "haveVideoToPlay": false,
+      "backgroundId": null,
+      "gameMusicId": "music_3in1bg_act51side",
+      "coreRewardType": "CHAR",
+      "coreRewardId": "char_4223_botany",
+      "relevantActivityId": "act51side",
+      "mainlineData": null,
+      "ssData": {
+        "desc": "來自烏薩斯遠北的聲音在宏偉的聖駿堡上空迴響，\n而權貴在舞會上晃動酒杯，將城市劃為監獄。\n高牆分割摯友，法令粉飾罪惡，\n鮮血催熟了那些焦慮而天真的靈魂。\n當一個人因憤怒握緊了拳頭，\n當一個人、當更多人將怒拳揮向不公——\n從此人們會記住，那是烏薩斯學生自治團的標誌。",
+        "backgroundId": "storybg_people_a_people",
+        "tags": [
+          "tag_13",
+          "tag_14"
+        ],
+        "reopenActivityId": null,
+        "retroActivityId": null,
+        "isRecommended": false,
+        "recommendHideStageId": null,
+        "overrideStageList": []
+      },
+      "collectData": null
+    },
     "setId_ssLine_act16side": {
       "storySetId": "setId_ssLine_act16side",
       "storySetType": "SS",
@@ -595171,8 +598241,8 @@
           "tag_13",
           "tag_16"
         ],
-        "reopenActivityId": null,
-        "retroActivityId": null,
+        "reopenActivityId": "act41sre",
+        "retroActivityId": "permanent_sidestory_31_When_Elegies_are_Ashes",
         "isRecommended": false,
         "recommendHideStageId": null,
         "overrideStageList": []
@@ -600166,6 +603236,232 @@
       "sortId": 5,
       "relatedStoryId": "activities/act18mini/level_act18mini_st06",
       "relatedStageId": null
+    },
+    "cgId_ssLine_act51side_1": {
+      "displayId": "cgId_ssLine_act51side_1",
+      "cgList": [
+        "72_i01_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "苦艾的證詞",
+      "displayDesc": "她一度懷疑是背後廝打的人的“拳風”讓她渾身發涼，而不是貴族的作風又突破了她的認知。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 1,
+      "relatedStoryId": "activities/act51side/level_act51side_st01",
+      "relatedStageId": "act51side_st01"
+    },
+    "cgId_ssLine_act51side_2": {
+      "displayId": "cgId_ssLine_act51side_2",
+      "cgList": [
+        "72_i02"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "“異類”",
+      "displayDesc": "一隻隻手先後舉起……很快，大會裡就剩下最後幾個沒有動作的人。他們格格不入。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 2,
+      "relatedStoryId": "activities/act51side/level_act51side_st01",
+      "relatedStageId": "act51side_st01"
+    },
+    "cgId_ssLine_act51side_3": {
+      "displayId": "cgId_ssLine_act51side_3",
+      "cgList": [
+        "72_i03_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "宣洩怒火",
+      "displayDesc": "自由歸於人民！麵包歸於人民！\n今日的沉默，就是明日的奴役，聆聽我們發出的聲音！",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 3,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_4": {
+      "displayId": "cgId_ssLine_act51side_4",
+      "cgList": [
+        "72_i05"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "介入者",
+      "displayDesc": "可惜了，你這周到的打算，有的人卻不領情。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 4,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_5": {
+      "displayId": "cgId_ssLine_act51side_5",
+      "cgList": [
+        "72_i04_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "失散",
+      "displayDesc": "從四面八方湧來十幾人，手忙腳亂地扣住了凜冬的手臂，她卻動也不動，隨後警棍便輪番往她的後背揮了下去。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 5,
+      "relatedStoryId": "activities/act51side/level_act51side_01_end",
+      "relatedStageId": "act51side_01"
+    },
+    "cgId_ssLine_act51side_6": {
+      "displayId": "cgId_ssLine_act51side_6",
+      "cgList": [
+        "72_i06_1"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "早露的謀劃",
+      "displayDesc": "窗外陽光炫目，早露垂下眼睛，以無法讓人察覺的幅度點了點頭，旋即換上了屬於貴族小姐的禮貌笑容。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 6,
+      "relatedStoryId": "activities/act51side/level_act51side_04_end",
+      "relatedStageId": "act51side_04"
+    },
+    "cgId_ssLine_act51side_7": {
+      "displayId": "cgId_ssLine_act51side_7",
+      "cgList": [
+        "72_i07"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "真理的演講",
+      "displayDesc": "告訴烏薩斯，我們為我們的同學、朋友、親人而戰！我們為我們自己而戰！",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 7,
+      "relatedStoryId": "activities/act51side/level_act51side_05_beg",
+      "relatedStageId": "act51side_05"
+    },
+    "cgId_ssLine_act51side_8": {
+      "displayId": "cgId_ssLine_act51side_8",
+      "cgList": [
+        "72_i08_1",
+        "72_i08_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "“敬明天”",
+      "displayDesc": "敬……自由與幸福的靈魂。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 8,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_9": {
+      "displayId": "cgId_ssLine_act51side_9",
+      "cgList": [
+        "72_i09"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "凜冬的摧破",
+      "displayDesc": "格羅莫夫，你的遺言呢？",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 9,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_10": {
+      "displayId": "cgId_ssLine_act51side_10",
+      "cgList": [
+        "72_i08_3",
+        "72_i08_4"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "“還有明天”",
+      "displayDesc": "……多麼簡單的禱告詞。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 10,
+      "relatedStoryId": "activities/act51side/level_act51side_06_end",
+      "relatedStageId": "act51side_06"
+    },
+    "cgId_ssLine_act51side_11": {
+      "displayId": "cgId_ssLine_act51side_11",
+      "cgList": [
+        "72_i10_1",
+        "72_i10_2"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "古米的記憶",
+      "displayDesc": "一個熟悉而又陌生的聲音。\n一個經過傳輸磨損後已失真的聲音。\n一個拉達永遠不會忘記的聲音。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 11,
+      "relatedStoryId": "activities/act51side/level_act51side_07_end",
+      "relatedStageId": "act51side_07"
+    },
+    "cgId_ssLine_act51side_12": {
+      "displayId": "cgId_ssLine_act51side_12",
+      "cgList": [
+        "72_i11"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "怒拳",
+      "displayDesc": "塵埃尚未落定，一道刺目的光射了進來。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 12,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_13": {
+      "displayId": "cgId_ssLine_act51side_13",
+      "cgList": [
+        "72_i16"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "我們的旗幟",
+      "displayDesc": "但是，“不”，我們回答。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 13,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_14": {
+      "displayId": "cgId_ssLine_act51side_14",
+      "cgList": [
+        "72_i12"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "烏薩斯的孩子們",
+      "displayDesc": "伊戈爾的拳頭砸碎了枷鎖，一個人影跨過廢墟，接著是十個，百個……",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 14,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_15": {
+      "displayId": "cgId_ssLine_act51side_15",
+      "cgList": [
+        "72_i13"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "烈夏的決意",
+      "displayDesc": "只因為……這是最快的方式。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 15,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_16": {
+      "displayId": "cgId_ssLine_act51side_16",
+      "cgList": [
+        "72_i14"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "皇帝的獨行",
+      "displayDesc": "費奧多爾在這座城市住了數十年，卻是第一次在這條街道上行走。\n雪花從他臉上劃過——無論落在廢墟還是皇宮，都是同樣地冰冷。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 16,
+      "relatedStoryId": "activities/act51side/level_act51side_08_end",
+      "relatedStageId": "act51side_08"
+    },
+    "cgId_ssLine_act51side_17": {
+      "displayId": "cgId_ssLine_act51side_17",
+      "cgList": [
+        "72_i15_2",
+        "72_i15_3",
+        "72_i15_4"
+      ],
+      "cgSource": "IMAGE",
+      "displayName": "最後一面",
+      "displayDesc": "載滿舊傢俱的馱獸停在街道中央，如同這個國家，不知該前往何處。他駐足不是為這隻馱獸心生憐憫，只因在鏡中見到了故人的最後一面。",
+      "storySetId": "setId_ssLine_act51side",
+      "sortId": 17,
+      "relatedStoryId": "activities/act51side/level_act51side_st02",
+      "relatedStageId": "act51side_st02"
     },
     "cgId_ssLine_act16side_1": {
       "displayId": "cgId_ssLine_act16side_1",
@@ -608191,6 +611487,30 @@
         "cgId_ssLine_act18mini_5"
       ]
     },
+    "setId_ssLine_act51side": {
+      "storySetId": "setId_ssLine_act51side",
+      "storylineId": "ssLine_13",
+      "locationId": "ssLine_act51side",
+      "displays": [
+        "cgId_ssLine_act51side_1",
+        "cgId_ssLine_act51side_2",
+        "cgId_ssLine_act51side_3",
+        "cgId_ssLine_act51side_4",
+        "cgId_ssLine_act51side_5",
+        "cgId_ssLine_act51side_6",
+        "cgId_ssLine_act51side_7",
+        "cgId_ssLine_act51side_8",
+        "cgId_ssLine_act51side_9",
+        "cgId_ssLine_act51side_10",
+        "cgId_ssLine_act51side_11",
+        "cgId_ssLine_act51side_12",
+        "cgId_ssLine_act51side_13",
+        "cgId_ssLine_act51side_14",
+        "cgId_ssLine_act51side_15",
+        "cgId_ssLine_act51side_16",
+        "cgId_ssLine_act51side_17"
+      ]
+    },
     "setId_ssLine_act16side": {
       "storySetId": "setId_ssLine_act16side",
       "storylineId": "ssLine_2",
@@ -612040,6 +615360,160 @@
       "compositeType": "NONE",
       "compositeList": [],
       "storySetId": "setId_ssLine_act18mini"
+    },
+    "72_i01_1": {
+      "cgId": "72_i01_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i02": {
+      "cgId": "72_i02",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i03_2": {
+      "cgId": "72_i03_2",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i05": {
+      "cgId": "72_i05",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i04_1": {
+      "cgId": "72_i04_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i06_1": {
+      "cgId": "72_i06_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i07": {
+      "cgId": "72_i07",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_1": {
+      "cgId": "72_i08_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_2": {
+      "cgId": "72_i08_2",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i09": {
+      "cgId": "72_i09",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_3": {
+      "cgId": "72_i08_3",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i08_4": {
+      "cgId": "72_i08_4",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i10_1": {
+      "cgId": "72_i10_1",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i10_2": {
+      "cgId": "72_i10_2",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i11": {
+      "cgId": "72_i11",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i16": {
+      "cgId": "72_i16",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i12": {
+      "cgId": "72_i12",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i13": {
+      "cgId": "72_i13",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i14": {
+      "cgId": "72_i14",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_2": {
+      "cgId": "72_i15_2",
+      "sortId": 0,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_3": {
+      "cgId": "72_i15_3",
+      "sortId": 1,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
+    },
+    "72_i15_4": {
+      "cgId": "72_i15_4",
+      "sortId": 2,
+      "compositeType": "NONE",
+      "compositeList": [],
+      "storySetId": "setId_ssLine_act51side"
     },
     "26_i07": {
       "cgId": "26_i07",
