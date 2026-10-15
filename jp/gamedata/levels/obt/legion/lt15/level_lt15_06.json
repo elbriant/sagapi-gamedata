@@ -2870,7 +2870,7 @@
         },
         "description": {
           "defined": false,
-          "value": "内部文本，不用翻译"
+          "value": "UNUSED"
         },
         "prefabKey": {
           "defined": false,

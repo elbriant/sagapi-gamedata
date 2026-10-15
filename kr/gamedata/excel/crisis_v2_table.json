@@ -5825,7 +5825,7 @@
                   "id": "enemy_global_a",
                   "points": 0.0,
                   "mutexGroupKey": "enemy_global",
-                  "description": "모든 적의 마법 저항 <@recalrune.nag>+30</>, 모든 정예 적이 <@recalrune.nag>굴절</> 및 <@recalrune.nag>침묵 저항</> 효과 획득",
+                  "description": "모든 적의 마법 저항 <@recalrune.nag>+30</>, 모든 정예 적이 <@recalrune.nag>굴절</> 및 <@recalrune.nag>침묵 내성</> 효과 획득",
                   "runes": [
                     {
                       "key": "enemy_dynamic_ability_new",
