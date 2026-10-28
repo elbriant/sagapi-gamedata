@@ -154,169 +154,174 @@
           "sortId": 0
         },
         {
-          "stageId": "camp_r_29",
+          "stageId": "camp_r_17",
           "occPer": "ALWAYS",
           "sortId": 1
         },
         {
-          "stageId": "camp_r_28",
+          "stageId": "camp_r_18",
           "occPer": "ALWAYS",
           "sortId": 2
         },
         {
-          "stageId": "camp_r_27",
+          "stageId": "camp_r_19",
           "occPer": "ALWAYS",
           "sortId": 3
         },
         {
-          "stageId": "camp_r_26",
+          "stageId": "camp_r_20",
           "occPer": "ALWAYS",
           "sortId": 4
         },
         {
-          "stageId": "camp_r_25",
+          "stageId": "camp_r_21",
           "occPer": "ALWAYS",
           "sortId": 5
         },
         {
-          "stageId": "camp_r_24",
+          "stageId": "camp_r_22",
           "occPer": "ALWAYS",
           "sortId": 6
         },
         {
-          "stageId": "camp_r_23",
+          "stageId": "camp_r_16",
           "occPer": "ALWAYS",
           "sortId": 7
         },
         {
-          "stageId": "camp_r_22",
+          "stageId": "camp_r_23",
           "occPer": "ALWAYS",
           "sortId": 8
         },
         {
-          "stageId": "camp_r_21",
+          "stageId": "camp_r_25",
           "occPer": "ALWAYS",
           "sortId": 9
         },
         {
-          "stageId": "camp_r_20",
+          "stageId": "camp_r_26",
           "occPer": "ALWAYS",
           "sortId": 10
         },
         {
-          "stageId": "camp_r_19",
+          "stageId": "camp_r_27",
           "occPer": "ALWAYS",
           "sortId": 11
         },
         {
-          "stageId": "camp_r_18",
+          "stageId": "camp_r_28",
           "occPer": "ALWAYS",
           "sortId": 12
         },
         {
-          "stageId": "camp_r_17",
+          "stageId": "camp_r_29",
           "occPer": "ALWAYS",
           "sortId": 13
         },
         {
-          "stageId": "camp_r_16",
+          "stageId": "camp_r_30",
           "occPer": "ALWAYS",
           "sortId": 14
         },
         {
-          "stageId": "camp_r_15",
+          "stageId": "camp_r_24",
           "occPer": "ALWAYS",
           "sortId": 15
         },
         {
-          "stageId": "camp_r_14",
+          "stageId": "camp_r_31",
           "occPer": "ALWAYS",
           "sortId": 16
         },
         {
-          "stageId": "camp_r_13",
+          "stageId": "camp_r_15",
           "occPer": "ALWAYS",
           "sortId": 17
         },
         {
-          "stageId": "camp_02",
+          "stageId": "camp_r_13",
           "occPer": "ALWAYS",
           "sortId": 18
         },
         {
-          "stageId": "camp_03",
+          "stageId": "camp_02",
           "occPer": "ALWAYS",
           "sortId": 19
         },
         {
-          "stageId": "camp_r_01",
+          "stageId": "camp_03",
           "occPer": "ALWAYS",
           "sortId": 20
         },
         {
-          "stageId": "camp_r_02",
+          "stageId": "camp_r_01",
           "occPer": "ALWAYS",
           "sortId": 21
         },
         {
-          "stageId": "camp_r_03",
+          "stageId": "camp_r_02",
           "occPer": "ALWAYS",
           "sortId": 22
         },
         {
-          "stageId": "camp_r_04",
+          "stageId": "camp_r_03",
           "occPer": "ALWAYS",
           "sortId": 23
         },
         {
-          "stageId": "camp_r_30",
+          "stageId": "camp_r_04",
           "occPer": "ALWAYS",
           "sortId": 24
         },
         {
-          "stageId": "camp_r_05",
+          "stageId": "camp_r_14",
           "occPer": "ALWAYS",
           "sortId": 25
         },
         {
-          "stageId": "camp_r_07",
+          "stageId": "camp_r_05",
           "occPer": "ALWAYS",
           "sortId": 26
         },
         {
-          "stageId": "camp_r_08",
+          "stageId": "camp_r_07",
           "occPer": "ALWAYS",
           "sortId": 27
         },
         {
-          "stageId": "camp_r_09",
+          "stageId": "camp_r_08",
           "occPer": "ALWAYS",
           "sortId": 28
         },
         {
-          "stageId": "camp_r_10",
+          "stageId": "camp_r_09",
           "occPer": "ALWAYS",
           "sortId": 29
         },
         {
-          "stageId": "camp_r_11",
+          "stageId": "camp_r_10",
           "occPer": "ALWAYS",
           "sortId": 30
         },
         {
-          "stageId": "camp_r_12",
+          "stageId": "camp_r_11",
           "occPer": "ALWAYS",
           "sortId": 31
         },
         {
-          "stageId": "camp_r_06",
+          "stageId": "camp_r_12",
           "occPer": "ALWAYS",
           "sortId": 32
         },
         {
-          "stageId": "camp_r_31",
+          "stageId": "camp_r_06",
           "occPer": "ALWAYS",
           "sortId": 33
+        },
+        {
+          "stageId": "camp_r_32",
+          "occPer": "ALWAYS",
+          "sortId": 34
         }
       ],
       "buildingProductList": [],
@@ -8686,197 +8691,197 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_01",
+          "stageId": "act42side_01",
           "occPer": "OFTEN",
           "sortId": 0
         },
         {
-          "stageId": "act51side_02",
+          "stageId": "act42side_03",
           "occPer": "OFTEN",
           "sortId": 1
         },
         {
-          "stageId": "act41side_01",
+          "stageId": "act42side_02",
           "occPer": "OFTEN",
           "sortId": 2
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act51side_02",
           "occPer": "OFTEN",
           "sortId": 3
         },
         {
-          "stageId": "act20mini_01",
+          "stageId": "act51side_01",
           "occPer": "OFTEN",
           "sortId": 4
         },
         {
-          "stageId": "act20mini_02",
+          "stageId": "act41side_01",
           "occPer": "OFTEN",
           "sortId": 5
         },
         {
-          "stageId": "act20mini_03",
+          "stageId": "act41side_02",
           "occPer": "OFTEN",
           "sortId": 6
         },
         {
-          "stageId": "act20mini_04",
+          "stageId": "act20mini_01",
           "occPer": "OFTEN",
           "sortId": 7
         },
         {
-          "stageId": "act49side_02",
+          "stageId": "act20mini_02",
           "occPer": "OFTEN",
           "sortId": 8
         },
         {
-          "stageId": "act49side_03",
+          "stageId": "act20mini_03",
           "occPer": "OFTEN",
           "sortId": 9
         },
         {
-          "stageId": "act49side_01",
+          "stageId": "act20mini_04",
           "occPer": "OFTEN",
           "sortId": 10
         },
         {
-          "stageId": "act40side_01",
+          "stageId": "act49side_01",
           "occPer": "OFTEN",
           "sortId": 11
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act49side_02",
           "occPer": "OFTEN",
           "sortId": 12
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act49side_03",
           "occPer": "OFTEN",
           "sortId": 13
         },
         {
-          "stageId": "act48side_01",
+          "stageId": "act40side_01",
           "occPer": "OFTEN",
           "sortId": 14
         },
         {
-          "stageId": "act48side_02",
+          "stageId": "act40side_02",
           "occPer": "OFTEN",
           "sortId": 15
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act40side_03",
           "occPer": "OFTEN",
           "sortId": 16
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act48side_01",
           "occPer": "OFTEN",
           "sortId": 17
         },
         {
-          "stageId": "act47side_01",
+          "stageId": "act48side_02",
           "occPer": "OFTEN",
           "sortId": 18
         },
         {
-          "stageId": "act47side_02",
+          "stageId": "act39side_01",
           "occPer": "OFTEN",
           "sortId": 19
         },
         {
-          "stageId": "act38side_03",
+          "stageId": "act39side_02",
           "occPer": "OFTEN",
           "sortId": 20
         },
         {
-          "stageId": "act38side_02",
+          "stageId": "act47side_02",
           "occPer": "OFTEN",
           "sortId": 21
         },
         {
-          "stageId": "act38side_01",
+          "stageId": "act47side_01",
           "occPer": "OFTEN",
           "sortId": 22
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act38side_03",
           "occPer": "OFTEN",
           "sortId": 23
         },
         {
-          "stageId": "act46side_02",
+          "stageId": "act38side_02",
           "occPer": "OFTEN",
           "sortId": 24
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act38side_01",
           "occPer": "OFTEN",
           "sortId": 25
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act46side_01",
           "occPer": "OFTEN",
           "sortId": 26
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act46side_02",
           "occPer": "OFTEN",
           "sortId": 27
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act46side_03",
           "occPer": "OFTEN",
           "sortId": 28
         },
         {
-          "stageId": "act45side_02",
+          "stageId": "act37side_01",
           "occPer": "OFTEN",
           "sortId": 29
         },
         {
-          "stageId": "act45side_01",
+          "stageId": "act37side_02",
           "occPer": "OFTEN",
           "sortId": 30
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act37side_03",
           "occPer": "OFTEN",
           "sortId": 31
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act45side_01",
           "occPer": "OFTEN",
           "sortId": 32
         },
         {
-          "stageId": "act35side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN",
           "sortId": 33
         },
         {
-          "stageId": "act35side_03",
+          "stageId": "act44side_02",
           "occPer": "OFTEN",
           "sortId": 34
         },
         {
-          "stageId": "act35side_02",
+          "stageId": "act44side_01",
           "occPer": "OFTEN",
           "sortId": 35
         },
         {
-          "stageId": "act19mini_04",
+          "stageId": "act35side_03",
           "occPer": "OFTEN",
           "sortId": 36
         },
         {
-          "stageId": "act19mini_03",
+          "stageId": "act35side_01",
           "occPer": "OFTEN",
           "sortId": 37
         },
         {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_02",
           "occPer": "OFTEN",
           "sortId": 38
         },
@@ -8886,37 +8891,37 @@
           "sortId": 39
         },
         {
-          "stageId": "act34side_02",
+          "stageId": "act19mini_02",
           "occPer": "OFTEN",
           "sortId": 40
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act19mini_03",
           "occPer": "OFTEN",
           "sortId": 41
         },
         {
-          "stageId": "act43side_02",
+          "stageId": "act19mini_04",
           "occPer": "OFTEN",
           "sortId": 42
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_02",
           "occPer": "OFTEN",
           "sortId": 43
         },
         {
-          "stageId": "act42side_01",
+          "stageId": "act34side_01",
           "occPer": "OFTEN",
           "sortId": 44
         },
         {
-          "stageId": "act42side_03",
+          "stageId": "act43side_02",
           "occPer": "OFTEN",
           "sortId": 45
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act43side_01",
           "occPer": "OFTEN",
           "sortId": 46
         },
@@ -9432,93 +9437,93 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act42side_04",
+          "occPer": "ALMOST",
+          "sortId": 0
+        },
+        {
           "stageId": "act51side_04",
           "occPer": "OFTEN",
-          "sortId": 0
+          "sortId": 1
         },
         {
           "stageId": "act51side_05",
           "occPer": "ALMOST",
-          "sortId": 1
+          "sortId": 2
         },
         {
           "stageId": "act41side_04",
           "occPer": "OFTEN",
-          "sortId": 2
+          "sortId": 3
         },
         {
           "stageId": "act49side_06",
           "occPer": "OFTEN",
-          "sortId": 3
+          "sortId": 4
         },
         {
           "stageId": "act40side_05",
           "occPer": "OFTEN",
-          "sortId": 4
+          "sortId": 5
         },
         {
           "stageId": "act39side_03",
           "occPer": "ALMOST",
-          "sortId": 5
+          "sortId": 6
         },
         {
           "stageId": "act47side_04",
           "occPer": "OFTEN",
-          "sortId": 6
+          "sortId": 7
         },
         {
           "stageId": "act47side_03",
           "occPer": "OFTEN",
-          "sortId": 7
+          "sortId": 8
         },
         {
           "stageId": "act38side_07",
           "occPer": "USUAL",
-          "sortId": 8
+          "sortId": 9
         },
         {
           "stageId": "act46side_06",
           "occPer": "ALMOST",
-          "sortId": 9
+          "sortId": 10
         },
         {
           "stageId": "act37side_06",
           "occPer": "ALMOST",
-          "sortId": 10
+          "sortId": 11
         },
         {
           "stageId": "act45side_05",
           "occPer": "ALMOST",
-          "sortId": 11
+          "sortId": 12
         },
         {
           "stageId": "act44side_03",
           "occPer": "ALMOST",
-          "sortId": 12
+          "sortId": 13
         },
         {
           "stageId": "act35side_05",
           "occPer": "OFTEN",
-          "sortId": 13
+          "sortId": 14
         },
         {
           "stageId": "act19mini_06",
           "occPer": "ALWAYS",
-          "sortId": 14
+          "sortId": 15
         },
         {
           "stageId": "act34side_03",
           "occPer": "OFTEN",
-          "sortId": 15
+          "sortId": 16
         },
         {
           "stageId": "act43side_04",
           "occPer": "OFTEN",
-          "sortId": 16
-        },
-        {
-          "stageId": "act42side_04",
-          "occPer": "ALMOST",
           "sortId": 17
         },
         {
@@ -9743,22 +9748,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_07",
+          "stageId": "act42side_08",
           "occPer": "USUAL",
           "sortId": 0
         },
         {
-          "stageId": "act39side_07",
+          "stageId": "act51side_07",
           "occPer": "USUAL",
           "sortId": 1
         },
         {
-          "stageId": "act44side_07",
+          "stageId": "act39side_07",
           "occPer": "USUAL",
           "sortId": 2
         },
         {
-          "stageId": "act42side_08",
+          "stageId": "act44side_07",
           "occPer": "USUAL",
           "sortId": 3
         },
@@ -10108,197 +10113,197 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_01",
+          "stageId": "act42side_01",
           "occPer": "OFTEN",
           "sortId": 0
         },
         {
-          "stageId": "act51side_02",
+          "stageId": "act42side_03",
           "occPer": "OFTEN",
           "sortId": 1
         },
         {
-          "stageId": "act41side_01",
+          "stageId": "act42side_02",
           "occPer": "OFTEN",
           "sortId": 2
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act51side_02",
           "occPer": "OFTEN",
           "sortId": 3
         },
         {
-          "stageId": "act20mini_01",
+          "stageId": "act51side_01",
           "occPer": "OFTEN",
           "sortId": 4
         },
         {
-          "stageId": "act20mini_02",
+          "stageId": "act41side_01",
           "occPer": "OFTEN",
           "sortId": 5
         },
         {
-          "stageId": "act20mini_03",
+          "stageId": "act41side_02",
           "occPer": "OFTEN",
           "sortId": 6
         },
         {
-          "stageId": "act20mini_04",
+          "stageId": "act20mini_01",
           "occPer": "OFTEN",
           "sortId": 7
         },
         {
-          "stageId": "act49side_02",
+          "stageId": "act20mini_02",
           "occPer": "OFTEN",
           "sortId": 8
         },
         {
-          "stageId": "act49side_03",
+          "stageId": "act20mini_03",
           "occPer": "OFTEN",
           "sortId": 9
         },
         {
-          "stageId": "act49side_01",
+          "stageId": "act20mini_04",
           "occPer": "OFTEN",
           "sortId": 10
         },
         {
-          "stageId": "act40side_01",
+          "stageId": "act49side_01",
           "occPer": "OFTEN",
           "sortId": 11
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act49side_02",
           "occPer": "OFTEN",
           "sortId": 12
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act49side_03",
           "occPer": "OFTEN",
           "sortId": 13
         },
         {
-          "stageId": "act48side_01",
+          "stageId": "act40side_01",
           "occPer": "OFTEN",
           "sortId": 14
         },
         {
-          "stageId": "act48side_02",
+          "stageId": "act40side_02",
           "occPer": "OFTEN",
           "sortId": 15
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act40side_03",
           "occPer": "OFTEN",
           "sortId": 16
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act48side_01",
           "occPer": "OFTEN",
           "sortId": 17
         },
         {
-          "stageId": "act47side_01",
+          "stageId": "act48side_02",
           "occPer": "OFTEN",
           "sortId": 18
         },
         {
-          "stageId": "act47side_02",
+          "stageId": "act39side_01",
           "occPer": "OFTEN",
           "sortId": 19
         },
         {
-          "stageId": "act38side_03",
+          "stageId": "act39side_02",
           "occPer": "OFTEN",
           "sortId": 20
         },
         {
-          "stageId": "act38side_02",
+          "stageId": "act47side_02",
           "occPer": "OFTEN",
           "sortId": 21
         },
         {
-          "stageId": "act38side_01",
+          "stageId": "act47side_01",
           "occPer": "OFTEN",
           "sortId": 22
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act38side_03",
           "occPer": "OFTEN",
           "sortId": 23
         },
         {
-          "stageId": "act46side_02",
+          "stageId": "act38side_02",
           "occPer": "OFTEN",
           "sortId": 24
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act38side_01",
           "occPer": "OFTEN",
           "sortId": 25
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act46side_01",
           "occPer": "OFTEN",
           "sortId": 26
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act46side_02",
           "occPer": "OFTEN",
           "sortId": 27
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act46side_03",
           "occPer": "OFTEN",
           "sortId": 28
         },
         {
-          "stageId": "act45side_02",
+          "stageId": "act37side_01",
           "occPer": "OFTEN",
           "sortId": 29
         },
         {
-          "stageId": "act45side_01",
+          "stageId": "act37side_02",
           "occPer": "OFTEN",
           "sortId": 30
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act37side_03",
           "occPer": "OFTEN",
           "sortId": 31
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act45side_01",
           "occPer": "OFTEN",
           "sortId": 32
         },
         {
-          "stageId": "act35side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN",
           "sortId": 33
         },
         {
-          "stageId": "act35side_03",
+          "stageId": "act44side_02",
           "occPer": "OFTEN",
           "sortId": 34
         },
         {
-          "stageId": "act35side_02",
+          "stageId": "act44side_01",
           "occPer": "OFTEN",
           "sortId": 35
         },
         {
-          "stageId": "act19mini_04",
+          "stageId": "act35side_03",
           "occPer": "OFTEN",
           "sortId": 36
         },
         {
-          "stageId": "act19mini_03",
+          "stageId": "act35side_01",
           "occPer": "OFTEN",
           "sortId": 37
         },
         {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_02",
           "occPer": "OFTEN",
           "sortId": 38
         },
@@ -10308,37 +10313,37 @@
           "sortId": 39
         },
         {
-          "stageId": "act34side_02",
+          "stageId": "act19mini_02",
           "occPer": "OFTEN",
           "sortId": 40
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act19mini_03",
           "occPer": "OFTEN",
           "sortId": 41
         },
         {
-          "stageId": "act43side_02",
+          "stageId": "act19mini_04",
           "occPer": "OFTEN",
           "sortId": 42
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_02",
           "occPer": "OFTEN",
           "sortId": 43
         },
         {
-          "stageId": "act42side_01",
+          "stageId": "act34side_01",
           "occPer": "OFTEN",
           "sortId": 44
         },
         {
-          "stageId": "act42side_03",
+          "stageId": "act43side_02",
           "occPer": "OFTEN",
           "sortId": 45
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act43side_01",
           "occPer": "OFTEN",
           "sortId": 46
         },
@@ -10859,83 +10864,83 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_03",
-          "occPer": "OFTEN",
+          "stageId": "act42side_06",
+          "occPer": "USUAL",
           "sortId": 0
         },
         {
-          "stageId": "act51side_05",
+          "stageId": "act51side_03",
           "occPer": "OFTEN",
           "sortId": 1
         },
         {
-          "stageId": "act41side_05",
+          "stageId": "act51side_05",
           "occPer": "OFTEN",
           "sortId": 2
         },
         {
-          "stageId": "act41side_04",
-          "occPer": "ALMOST",
+          "stageId": "act41side_05",
+          "occPer": "OFTEN",
           "sortId": 3
         },
         {
-          "stageId": "act49side_04",
+          "stageId": "act41side_04",
           "occPer": "ALMOST",
           "sortId": 4
         },
         {
-          "stageId": "act40side_04",
+          "stageId": "act49side_04",
           "occPer": "ALMOST",
           "sortId": 5
         },
         {
+          "stageId": "act40side_04",
+          "occPer": "ALMOST",
+          "sortId": 6
+        },
+        {
           "stageId": "act48side_04",
           "occPer": "OFTEN",
-          "sortId": 6
+          "sortId": 7
         },
         {
           "stageId": "act38side_07",
           "occPer": "ALWAYS",
-          "sortId": 7
+          "sortId": 8
         },
         {
           "stageId": "act38side_04",
           "occPer": "ALMOST",
-          "sortId": 8
+          "sortId": 9
         },
         {
           "stageId": "act46side_04",
           "occPer": "OFTEN",
-          "sortId": 9
+          "sortId": 10
         },
         {
           "stageId": "act37side_05",
           "occPer": "ALMOST",
-          "sortId": 10
+          "sortId": 11
         },
         {
           "stageId": "act45side_04",
           "occPer": "ALMOST",
-          "sortId": 11
+          "sortId": 12
         },
         {
           "stageId": "act44side_05",
           "occPer": "OFTEN",
-          "sortId": 12
+          "sortId": 13
         },
         {
           "stageId": "act35side_05",
           "occPer": "ALMOST",
-          "sortId": 13
+          "sortId": 14
         },
         {
           "stageId": "act34side_03",
           "occPer": "ALMOST",
-          "sortId": 14
-        },
-        {
-          "stageId": "act42side_06",
-          "occPer": "USUAL",
           "sortId": 15
         },
         {
@@ -10979,13 +10984,13 @@
           "sortId": 23
         },
         {
-          "stageId": "act25side_05",
-          "occPer": "ALMOST",
+          "stageId": "act25side_07",
+          "occPer": "ALWAYS",
           "sortId": 24
         },
         {
-          "stageId": "act25side_07",
-          "occPer": "ALWAYS",
+          "stageId": "act25side_05",
+          "occPer": "ALMOST",
           "sortId": 25
         },
         {
@@ -11505,237 +11510,237 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_01",
+          "stageId": "act42side_03",
           "occPer": "OFTEN",
           "sortId": 0
         },
         {
-          "stageId": "act51side_02",
+          "stageId": "act42side_01",
           "occPer": "OFTEN",
           "sortId": 1
         },
         {
-          "stageId": "act41side_01",
+          "stageId": "act42side_02",
           "occPer": "OFTEN",
           "sortId": 2
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act51side_02",
           "occPer": "OFTEN",
           "sortId": 3
         },
         {
-          "stageId": "act20mini_01",
+          "stageId": "act51side_01",
           "occPer": "OFTEN",
           "sortId": 4
         },
         {
-          "stageId": "act20mini_02",
+          "stageId": "act41side_01",
           "occPer": "OFTEN",
           "sortId": 5
         },
         {
-          "stageId": "act20mini_03",
-          "occPer": "USUAL",
+          "stageId": "act41side_02",
+          "occPer": "OFTEN",
           "sortId": 6
         },
         {
-          "stageId": "act20mini_04",
-          "occPer": "USUAL",
+          "stageId": "act20mini_01",
+          "occPer": "OFTEN",
           "sortId": 7
         },
         {
-          "stageId": "act49side_01",
+          "stageId": "act20mini_02",
           "occPer": "OFTEN",
           "sortId": 8
         },
         {
-          "stageId": "act49side_02",
-          "occPer": "OFTEN",
+          "stageId": "act20mini_03",
+          "occPer": "USUAL",
           "sortId": 9
         },
         {
-          "stageId": "act49side_03",
-          "occPer": "OFTEN",
+          "stageId": "act20mini_04",
+          "occPer": "USUAL",
           "sortId": 10
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act49side_01",
           "occPer": "OFTEN",
           "sortId": 11
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act49side_02",
           "occPer": "OFTEN",
           "sortId": 12
         },
         {
-          "stageId": "act40side_01",
+          "stageId": "act49side_03",
           "occPer": "OFTEN",
           "sortId": 13
         },
         {
-          "stageId": "act48side_01",
+          "stageId": "act40side_03",
           "occPer": "OFTEN",
           "sortId": 14
         },
         {
-          "stageId": "act48side_02",
+          "stageId": "act40side_02",
           "occPer": "OFTEN",
           "sortId": 15
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act40side_01",
           "occPer": "OFTEN",
           "sortId": 16
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act48side_01",
           "occPer": "OFTEN",
           "sortId": 17
         },
         {
-          "stageId": "act47side_01",
+          "stageId": "act48side_02",
           "occPer": "OFTEN",
           "sortId": 18
         },
         {
-          "stageId": "act47side_02",
+          "stageId": "act39side_01",
           "occPer": "OFTEN",
           "sortId": 19
         },
         {
-          "stageId": "act38side_01",
+          "stageId": "act39side_02",
           "occPer": "OFTEN",
           "sortId": 20
         },
         {
-          "stageId": "act38side_03",
+          "stageId": "act47side_02",
           "occPer": "OFTEN",
           "sortId": 21
         },
         {
-          "stageId": "act38side_02",
+          "stageId": "act47side_01",
           "occPer": "OFTEN",
           "sortId": 22
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act38side_02",
           "occPer": "OFTEN",
           "sortId": 23
         },
         {
-          "stageId": "act46side_02",
+          "stageId": "act38side_03",
           "occPer": "OFTEN",
           "sortId": 24
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act38side_01",
           "occPer": "OFTEN",
           "sortId": 25
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act46side_03",
           "occPer": "OFTEN",
           "sortId": 26
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act46side_01",
           "occPer": "OFTEN",
           "sortId": 27
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act46side_02",
           "occPer": "OFTEN",
           "sortId": 28
         },
         {
-          "stageId": "act45side_02",
+          "stageId": "act37side_03",
           "occPer": "OFTEN",
           "sortId": 29
         },
         {
-          "stageId": "act45side_01",
+          "stageId": "act37side_02",
           "occPer": "OFTEN",
           "sortId": 30
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act37side_01",
           "occPer": "OFTEN",
           "sortId": 31
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN",
           "sortId": 32
         },
         {
-          "stageId": "act35side_01",
+          "stageId": "act45side_01",
           "occPer": "OFTEN",
           "sortId": 33
         },
         {
-          "stageId": "act35side_02",
+          "stageId": "act44side_02",
           "occPer": "OFTEN",
           "sortId": 34
         },
         {
-          "stageId": "act35side_03",
+          "stageId": "act44side_01",
           "occPer": "OFTEN",
           "sortId": 35
         },
         {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_03",
           "occPer": "OFTEN",
           "sortId": 36
         },
         {
+          "stageId": "act35side_02",
+          "occPer": "OFTEN",
+          "sortId": 37
+        },
+        {
+          "stageId": "act35side_01",
+          "occPer": "OFTEN",
+          "sortId": 38
+        },
+        {
           "stageId": "act19mini_04",
           "occPer": "USUAL",
-          "sortId": 37
+          "sortId": 39
         },
         {
           "stageId": "act19mini_03",
           "occPer": "USUAL",
-          "sortId": 38
+          "sortId": 40
         },
         {
           "stageId": "act19mini_01",
           "occPer": "OFTEN",
-          "sortId": 39
-        },
-        {
-          "stageId": "act34side_02",
-          "occPer": "OFTEN",
-          "sortId": 40
-        },
-        {
-          "stageId": "act34side_01",
-          "occPer": "OFTEN",
           "sortId": 41
         },
         {
-          "stageId": "act43side_02",
+          "stageId": "act19mini_02",
           "occPer": "OFTEN",
           "sortId": 42
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_02",
           "occPer": "OFTEN",
           "sortId": 43
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act34side_01",
           "occPer": "OFTEN",
           "sortId": 44
         },
         {
-          "stageId": "act42side_01",
+          "stageId": "act43side_02",
           "occPer": "OFTEN",
           "sortId": 45
         },
         {
-          "stageId": "act42side_03",
+          "stageId": "act43side_01",
           "occPer": "OFTEN",
           "sortId": 46
         },
@@ -12276,93 +12281,93 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_03",
+          "stageId": "act42side_07",
           "occPer": "ALWAYS",
           "sortId": 0
         },
         {
-          "stageId": "act41side_05",
-          "occPer": "ALWAYS",
+          "stageId": "act42side_05",
+          "occPer": "USUAL",
           "sortId": 1
         },
         {
-          "stageId": "act41side_03",
-          "occPer": "USUAL",
+          "stageId": "act51side_03",
+          "occPer": "ALWAYS",
           "sortId": 2
         },
         {
-          "stageId": "act49side_05",
+          "stageId": "act41side_05",
           "occPer": "ALWAYS",
           "sortId": 3
         },
         {
-          "stageId": "act40side_06",
+          "stageId": "act41side_03",
           "occPer": "USUAL",
           "sortId": 4
         },
         {
-          "stageId": "act48side_03",
+          "stageId": "act49side_05",
           "occPer": "ALWAYS",
           "sortId": 5
         },
         {
-          "stageId": "act39side_05",
-          "occPer": "ALWAYS",
+          "stageId": "act40side_06",
+          "occPer": "USUAL",
           "sortId": 6
         },
         {
-          "stageId": "act39side_03",
-          "occPer": "USUAL",
+          "stageId": "act48side_03",
+          "occPer": "ALWAYS",
           "sortId": 7
         },
         {
-          "stageId": "act47side_03",
+          "stageId": "act39side_05",
           "occPer": "ALWAYS",
           "sortId": 8
         },
         {
-          "stageId": "act47side_05",
+          "stageId": "act39side_03",
           "occPer": "USUAL",
           "sortId": 9
         },
         {
-          "stageId": "act38side_05",
+          "stageId": "act47side_03",
           "occPer": "ALWAYS",
           "sortId": 10
         },
         {
+          "stageId": "act47side_05",
+          "occPer": "USUAL",
+          "sortId": 11
+        },
+        {
+          "stageId": "act38side_05",
+          "occPer": "ALWAYS",
+          "sortId": 12
+        },
+        {
           "stageId": "act46side_05",
           "occPer": "ALWAYS",
-          "sortId": 11
+          "sortId": 13
         },
         {
           "stageId": "act37side_06",
           "occPer": "USUAL",
-          "sortId": 12
+          "sortId": 14
         },
         {
           "stageId": "act45side_04",
           "occPer": "USUAL",
-          "sortId": 13
+          "sortId": 15
         },
         {
           "stageId": "act44side_03",
           "occPer": "USUAL",
-          "sortId": 14
+          "sortId": 16
         },
         {
           "stageId": "act35side_06",
           "occPer": "ALWAYS",
-          "sortId": 15
-        },
-        {
-          "stageId": "act42side_07",
-          "occPer": "ALWAYS",
-          "sortId": 16
-        },
-        {
-          "stageId": "act42side_05",
-          "occPer": "USUAL",
           "sortId": 17
         },
         {
@@ -12406,13 +12411,13 @@
           "sortId": 25
         },
         {
-          "stageId": "act17d0_05",
-          "occPer": "USUAL",
+          "stageId": "act17d0_03",
+          "occPer": "ALWAYS",
           "sortId": 26
         },
         {
-          "stageId": "act17d0_03",
-          "occPer": "ALWAYS",
+          "stageId": "act17d0_05",
+          "occPer": "USUAL",
           "sortId": 27
         },
         {
@@ -12922,197 +12927,197 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_01",
+          "stageId": "act42side_01",
           "occPer": "OFTEN",
           "sortId": 0
         },
         {
-          "stageId": "act51side_02",
+          "stageId": "act42side_03",
           "occPer": "OFTEN",
           "sortId": 1
         },
         {
-          "stageId": "act41side_01",
+          "stageId": "act42side_02",
           "occPer": "OFTEN",
           "sortId": 2
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act51side_02",
           "occPer": "OFTEN",
           "sortId": 3
         },
         {
-          "stageId": "act20mini_01",
+          "stageId": "act51side_01",
           "occPer": "OFTEN",
           "sortId": 4
         },
         {
-          "stageId": "act20mini_02",
+          "stageId": "act41side_01",
           "occPer": "OFTEN",
           "sortId": 5
         },
         {
-          "stageId": "act20mini_03",
-          "occPer": "USUAL",
+          "stageId": "act41side_02",
+          "occPer": "OFTEN",
           "sortId": 6
         },
         {
-          "stageId": "act20mini_04",
-          "occPer": "USUAL",
+          "stageId": "act20mini_01",
+          "occPer": "OFTEN",
           "sortId": 7
         },
         {
-          "stageId": "act49side_02",
+          "stageId": "act20mini_02",
           "occPer": "OFTEN",
           "sortId": 8
         },
         {
-          "stageId": "act49side_03",
-          "occPer": "OFTEN",
+          "stageId": "act20mini_03",
+          "occPer": "USUAL",
           "sortId": 9
+        },
+        {
+          "stageId": "act20mini_04",
+          "occPer": "USUAL",
+          "sortId": 10
         },
         {
           "stageId": "act49side_01",
           "occPer": "OFTEN",
-          "sortId": 10
-        },
-        {
-          "stageId": "act40side_01",
-          "occPer": "OFTEN",
           "sortId": 11
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act49side_02",
           "occPer": "OFTEN",
           "sortId": 12
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act49side_03",
           "occPer": "OFTEN",
           "sortId": 13
         },
         {
-          "stageId": "act48side_01",
+          "stageId": "act40side_01",
           "occPer": "OFTEN",
           "sortId": 14
         },
         {
-          "stageId": "act48side_02",
+          "stageId": "act40side_02",
           "occPer": "OFTEN",
           "sortId": 15
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act40side_03",
           "occPer": "OFTEN",
           "sortId": 16
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act48side_01",
           "occPer": "OFTEN",
           "sortId": 17
         },
         {
-          "stageId": "act47side_01",
+          "stageId": "act48side_02",
           "occPer": "OFTEN",
           "sortId": 18
         },
         {
-          "stageId": "act47side_02",
+          "stageId": "act39side_01",
           "occPer": "OFTEN",
           "sortId": 19
         },
         {
-          "stageId": "act38side_03",
+          "stageId": "act39side_02",
           "occPer": "OFTEN",
           "sortId": 20
         },
         {
-          "stageId": "act38side_02",
+          "stageId": "act47side_02",
           "occPer": "OFTEN",
           "sortId": 21
         },
         {
-          "stageId": "act38side_01",
+          "stageId": "act47side_01",
           "occPer": "OFTEN",
           "sortId": 22
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act38side_03",
           "occPer": "OFTEN",
           "sortId": 23
         },
         {
-          "stageId": "act46side_02",
+          "stageId": "act38side_02",
           "occPer": "OFTEN",
           "sortId": 24
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act38side_01",
           "occPer": "OFTEN",
           "sortId": 25
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act46side_01",
           "occPer": "OFTEN",
           "sortId": 26
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act46side_02",
           "occPer": "OFTEN",
           "sortId": 27
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act46side_03",
           "occPer": "OFTEN",
           "sortId": 28
         },
         {
-          "stageId": "act45side_02",
+          "stageId": "act37side_01",
           "occPer": "OFTEN",
           "sortId": 29
         },
         {
-          "stageId": "act45side_01",
+          "stageId": "act37side_02",
           "occPer": "OFTEN",
           "sortId": 30
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act37side_03",
           "occPer": "OFTEN",
           "sortId": 31
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act45side_01",
           "occPer": "OFTEN",
           "sortId": 32
         },
         {
-          "stageId": "act35side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN",
           "sortId": 33
         },
         {
-          "stageId": "act35side_03",
+          "stageId": "act44side_02",
           "occPer": "OFTEN",
           "sortId": 34
         },
         {
-          "stageId": "act35side_02",
+          "stageId": "act44side_01",
           "occPer": "OFTEN",
           "sortId": 35
         },
         {
-          "stageId": "act19mini_04",
-          "occPer": "USUAL",
+          "stageId": "act35side_03",
+          "occPer": "OFTEN",
           "sortId": 36
         },
         {
-          "stageId": "act19mini_03",
-          "occPer": "USUAL",
+          "stageId": "act35side_01",
+          "occPer": "OFTEN",
           "sortId": 37
         },
         {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_02",
           "occPer": "OFTEN",
           "sortId": 38
         },
@@ -13122,37 +13127,37 @@
           "sortId": 39
         },
         {
-          "stageId": "act34side_02",
+          "stageId": "act19mini_02",
           "occPer": "OFTEN",
           "sortId": 40
         },
         {
-          "stageId": "act34side_01",
-          "occPer": "OFTEN",
+          "stageId": "act19mini_03",
+          "occPer": "USUAL",
           "sortId": 41
         },
         {
-          "stageId": "act43side_02",
-          "occPer": "OFTEN",
+          "stageId": "act19mini_04",
+          "occPer": "USUAL",
           "sortId": 42
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_02",
           "occPer": "OFTEN",
           "sortId": 43
         },
         {
-          "stageId": "act42side_01",
+          "stageId": "act34side_01",
           "occPer": "OFTEN",
           "sortId": 44
         },
         {
-          "stageId": "act42side_03",
+          "stageId": "act43side_02",
           "occPer": "OFTEN",
           "sortId": 45
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act43side_01",
           "occPer": "OFTEN",
           "sortId": 46
         },
@@ -13678,87 +13683,87 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_04",
-          "occPer": "ALWAYS",
+          "stageId": "act42side_07",
+          "occPer": "USUAL",
           "sortId": 0
         },
         {
-          "stageId": "act20mini_05",
+          "stageId": "act51side_04",
           "occPer": "ALWAYS",
           "sortId": 1
         },
         {
-          "stageId": "act49side_06",
+          "stageId": "act20mini_05",
           "occPer": "ALWAYS",
           "sortId": 2
         },
         {
-          "stageId": "act40side_06",
+          "stageId": "act49side_06",
           "occPer": "ALWAYS",
           "sortId": 3
         },
         {
-          "stageId": "act48side_04",
+          "stageId": "act40side_06",
           "occPer": "ALWAYS",
           "sortId": 4
         },
         {
-          "stageId": "act48side_05",
-          "occPer": "USUAL",
+          "stageId": "act48side_04",
+          "occPer": "ALWAYS",
           "sortId": 5
         },
         {
-          "stageId": "act39side_04",
+          "stageId": "act48side_05",
           "occPer": "USUAL",
           "sortId": 6
         },
         {
+          "stageId": "act39side_04",
+          "occPer": "USUAL",
+          "sortId": 7
+        },
+        {
           "stageId": "act38side_06",
           "occPer": "ALWAYS",
-          "sortId": 7
+          "sortId": 8
         },
         {
           "stageId": "act46side_05",
           "occPer": "USUAL",
-          "sortId": 8
+          "sortId": 9
         },
         {
           "stageId": "act37side_04",
           "occPer": "USUAL",
-          "sortId": 9
+          "sortId": 10
         },
         {
           "stageId": "act45side_03",
           "occPer": "ALWAYS",
-          "sortId": 10
+          "sortId": 11
         },
         {
           "stageId": "act44side_05",
           "occPer": "ALWAYS",
-          "sortId": 11
+          "sortId": 12
         },
         {
           "stageId": "act35side_04",
           "occPer": "ALWAYS",
-          "sortId": 12
+          "sortId": 13
         },
         {
           "stageId": "act34side_04",
           "occPer": "USUAL",
-          "sortId": 13
+          "sortId": 14
         },
         {
           "stageId": "act43side_04",
           "occPer": "ALWAYS",
-          "sortId": 14
-        },
-        {
-          "stageId": "act43side_05",
-          "occPer": "USUAL",
           "sortId": 15
         },
         {
-          "stageId": "act42side_07",
+          "stageId": "act43side_05",
           "occPer": "USUAL",
           "sortId": 16
         },
@@ -14329,237 +14334,237 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_01",
+          "stageId": "act42side_03",
           "occPer": "OFTEN",
           "sortId": 0
         },
         {
-          "stageId": "act51side_02",
+          "stageId": "act42side_01",
           "occPer": "OFTEN",
           "sortId": 1
         },
         {
-          "stageId": "act41side_01",
+          "stageId": "act42side_02",
           "occPer": "OFTEN",
           "sortId": 2
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act51side_02",
           "occPer": "OFTEN",
           "sortId": 3
         },
         {
-          "stageId": "act20mini_01",
+          "stageId": "act51side_01",
           "occPer": "OFTEN",
           "sortId": 4
         },
         {
-          "stageId": "act20mini_02",
+          "stageId": "act41side_01",
           "occPer": "OFTEN",
           "sortId": 5
         },
         {
-          "stageId": "act20mini_03",
+          "stageId": "act41side_02",
           "occPer": "OFTEN",
           "sortId": 6
         },
         {
-          "stageId": "act20mini_04",
+          "stageId": "act20mini_01",
           "occPer": "OFTEN",
           "sortId": 7
         },
         {
-          "stageId": "act49side_01",
+          "stageId": "act20mini_02",
           "occPer": "OFTEN",
           "sortId": 8
         },
         {
-          "stageId": "act49side_02",
+          "stageId": "act20mini_03",
           "occPer": "OFTEN",
           "sortId": 9
         },
         {
-          "stageId": "act49side_03",
+          "stageId": "act20mini_04",
           "occPer": "OFTEN",
           "sortId": 10
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act49side_01",
           "occPer": "OFTEN",
           "sortId": 11
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act49side_02",
           "occPer": "OFTEN",
           "sortId": 12
         },
         {
-          "stageId": "act40side_01",
+          "stageId": "act49side_03",
           "occPer": "OFTEN",
           "sortId": 13
         },
         {
-          "stageId": "act48side_01",
+          "stageId": "act40side_03",
           "occPer": "OFTEN",
           "sortId": 14
         },
         {
-          "stageId": "act48side_02",
+          "stageId": "act40side_02",
           "occPer": "OFTEN",
           "sortId": 15
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act40side_01",
           "occPer": "OFTEN",
           "sortId": 16
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act48side_01",
           "occPer": "OFTEN",
           "sortId": 17
         },
         {
-          "stageId": "act47side_01",
+          "stageId": "act48side_02",
           "occPer": "OFTEN",
           "sortId": 18
         },
         {
-          "stageId": "act47side_02",
+          "stageId": "act39side_01",
           "occPer": "OFTEN",
           "sortId": 19
         },
         {
-          "stageId": "act38side_01",
+          "stageId": "act39side_02",
           "occPer": "OFTEN",
           "sortId": 20
         },
         {
-          "stageId": "act38side_03",
+          "stageId": "act47side_02",
           "occPer": "OFTEN",
           "sortId": 21
         },
         {
-          "stageId": "act38side_02",
+          "stageId": "act47side_01",
           "occPer": "OFTEN",
           "sortId": 22
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act38side_02",
           "occPer": "OFTEN",
           "sortId": 23
         },
         {
-          "stageId": "act46side_02",
+          "stageId": "act38side_03",
           "occPer": "OFTEN",
           "sortId": 24
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act38side_01",
           "occPer": "OFTEN",
           "sortId": 25
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act46side_03",
           "occPer": "OFTEN",
           "sortId": 26
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act46side_01",
           "occPer": "OFTEN",
           "sortId": 27
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act46side_02",
           "occPer": "OFTEN",
           "sortId": 28
         },
         {
-          "stageId": "act45side_02",
+          "stageId": "act37side_03",
           "occPer": "OFTEN",
           "sortId": 29
         },
         {
-          "stageId": "act45side_01",
+          "stageId": "act37side_02",
           "occPer": "OFTEN",
           "sortId": 30
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act37side_01",
           "occPer": "OFTEN",
           "sortId": 31
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN",
           "sortId": 32
         },
         {
-          "stageId": "act35side_01",
+          "stageId": "act45side_01",
           "occPer": "OFTEN",
           "sortId": 33
         },
         {
-          "stageId": "act35side_02",
+          "stageId": "act44side_02",
           "occPer": "OFTEN",
           "sortId": 34
         },
         {
-          "stageId": "act35side_03",
+          "stageId": "act44side_01",
           "occPer": "OFTEN",
           "sortId": 35
         },
         {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_03",
           "occPer": "OFTEN",
           "sortId": 36
         },
         {
-          "stageId": "act19mini_04",
+          "stageId": "act35side_02",
           "occPer": "OFTEN",
           "sortId": 37
         },
         {
-          "stageId": "act19mini_03",
+          "stageId": "act35side_01",
           "occPer": "OFTEN",
           "sortId": 38
         },
         {
-          "stageId": "act19mini_01",
+          "stageId": "act19mini_04",
           "occPer": "OFTEN",
           "sortId": 39
         },
         {
-          "stageId": "act34side_02",
+          "stageId": "act19mini_03",
           "occPer": "OFTEN",
           "sortId": 40
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act19mini_01",
           "occPer": "OFTEN",
           "sortId": 41
         },
         {
-          "stageId": "act43side_02",
+          "stageId": "act19mini_02",
           "occPer": "OFTEN",
           "sortId": 42
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_02",
           "occPer": "OFTEN",
           "sortId": 43
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act34side_01",
           "occPer": "OFTEN",
           "sortId": 44
         },
         {
-          "stageId": "act42side_01",
+          "stageId": "act43side_02",
           "occPer": "OFTEN",
           "sortId": 45
         },
         {
-          "stageId": "act42side_03",
+          "stageId": "act43side_01",
           "occPer": "OFTEN",
           "sortId": 46
         },
@@ -15100,78 +15105,78 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act42side_05",
+          "occPer": "USUAL",
+          "sortId": 0
+        },
+        {
           "stageId": "act20mini_06",
           "occPer": "ALMOST",
-          "sortId": 0
+          "sortId": 1
         },
         {
           "stageId": "act49side_04",
           "occPer": "OFTEN",
-          "sortId": 1
+          "sortId": 2
         },
         {
           "stageId": "act40side_05",
           "occPer": "USUAL",
-          "sortId": 2
+          "sortId": 3
         },
         {
           "stageId": "act48side_05",
           "occPer": "USUAL",
-          "sortId": 3
+          "sortId": 4
         },
         {
           "stageId": "act48side_03",
           "occPer": "OFTEN",
-          "sortId": 4
+          "sortId": 5
         },
         {
           "stageId": "act47side_04",
           "occPer": "USUAL",
-          "sortId": 5
+          "sortId": 6
         },
         {
           "stageId": "act38side_06",
           "occPer": "OFTEN",
-          "sortId": 6
+          "sortId": 7
         },
         {
           "stageId": "act38side_04",
           "occPer": "OFTEN",
-          "sortId": 7
+          "sortId": 8
         },
         {
           "stageId": "act46side_06",
           "occPer": "OFTEN",
-          "sortId": 8
+          "sortId": 9
         },
         {
           "stageId": "act37side_05",
           "occPer": "OFTEN",
-          "sortId": 9
+          "sortId": 10
         },
         {
           "stageId": "act45side_03",
           "occPer": "OFTEN",
-          "sortId": 10
+          "sortId": 11
         },
         {
           "stageId": "act44side_04",
           "occPer": "USUAL",
-          "sortId": 11
+          "sortId": 12
         },
         {
           "stageId": "act35side_04",
           "occPer": "OFTEN",
-          "sortId": 12
+          "sortId": 13
         },
         {
           "stageId": "act19mini_05",
           "occPer": "ALMOST",
-          "sortId": 13
-        },
-        {
-          "stageId": "act43side_03",
-          "occPer": "OFTEN",
           "sortId": 14
         },
         {
@@ -15180,8 +15185,8 @@
           "sortId": 15
         },
         {
-          "stageId": "act42side_05",
-          "occPer": "USUAL",
+          "stageId": "act43side_03",
+          "occPer": "OFTEN",
           "sortId": 16
         },
         {
@@ -15711,237 +15716,237 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act51side_01",
+          "stageId": "act42side_03",
           "occPer": "USUAL",
           "sortId": 0
         },
         {
-          "stageId": "act51side_02",
+          "stageId": "act42side_01",
           "occPer": "USUAL",
           "sortId": 1
         },
         {
-          "stageId": "act41side_01",
+          "stageId": "act42side_02",
           "occPer": "USUAL",
           "sortId": 2
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act51side_02",
           "occPer": "USUAL",
           "sortId": 3
         },
         {
-          "stageId": "act20mini_01",
+          "stageId": "act51side_01",
           "occPer": "USUAL",
           "sortId": 4
         },
         {
-          "stageId": "act20mini_02",
+          "stageId": "act41side_01",
           "occPer": "USUAL",
           "sortId": 5
         },
         {
-          "stageId": "act20mini_03",
-          "occPer": "ALMOST",
+          "stageId": "act41side_02",
+          "occPer": "USUAL",
           "sortId": 6
         },
         {
-          "stageId": "act20mini_04",
-          "occPer": "ALMOST",
+          "stageId": "act20mini_01",
+          "occPer": "USUAL",
           "sortId": 7
         },
         {
-          "stageId": "act49side_01",
+          "stageId": "act20mini_02",
           "occPer": "USUAL",
           "sortId": 8
         },
         {
-          "stageId": "act49side_02",
-          "occPer": "USUAL",
+          "stageId": "act20mini_03",
+          "occPer": "ALMOST",
           "sortId": 9
         },
         {
-          "stageId": "act49side_03",
-          "occPer": "USUAL",
+          "stageId": "act20mini_04",
+          "occPer": "ALMOST",
           "sortId": 10
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act49side_01",
           "occPer": "USUAL",
           "sortId": 11
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act49side_02",
           "occPer": "USUAL",
           "sortId": 12
         },
         {
-          "stageId": "act40side_01",
+          "stageId": "act49side_03",
           "occPer": "USUAL",
           "sortId": 13
         },
         {
-          "stageId": "act48side_01",
+          "stageId": "act40side_03",
           "occPer": "USUAL",
           "sortId": 14
         },
         {
-          "stageId": "act48side_02",
+          "stageId": "act40side_02",
           "occPer": "USUAL",
           "sortId": 15
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act40side_01",
           "occPer": "USUAL",
           "sortId": 16
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act48side_01",
           "occPer": "USUAL",
           "sortId": 17
         },
         {
-          "stageId": "act47side_01",
+          "stageId": "act48side_02",
           "occPer": "USUAL",
           "sortId": 18
         },
         {
-          "stageId": "act47side_02",
+          "stageId": "act39side_01",
           "occPer": "USUAL",
           "sortId": 19
         },
         {
-          "stageId": "act38side_01",
+          "stageId": "act39side_02",
           "occPer": "USUAL",
           "sortId": 20
         },
         {
-          "stageId": "act38side_03",
+          "stageId": "act47side_02",
           "occPer": "USUAL",
           "sortId": 21
         },
         {
-          "stageId": "act38side_02",
+          "stageId": "act47side_01",
           "occPer": "USUAL",
           "sortId": 22
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act38side_02",
           "occPer": "USUAL",
           "sortId": 23
         },
         {
-          "stageId": "act46side_02",
+          "stageId": "act38side_03",
           "occPer": "USUAL",
           "sortId": 24
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act38side_01",
           "occPer": "USUAL",
           "sortId": 25
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act46side_03",
           "occPer": "USUAL",
           "sortId": 26
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act46side_01",
           "occPer": "USUAL",
           "sortId": 27
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act46side_02",
           "occPer": "USUAL",
           "sortId": 28
         },
         {
-          "stageId": "act45side_02",
+          "stageId": "act37side_03",
           "occPer": "USUAL",
           "sortId": 29
         },
         {
-          "stageId": "act45side_01",
+          "stageId": "act37side_02",
           "occPer": "USUAL",
           "sortId": 30
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act37side_01",
           "occPer": "USUAL",
           "sortId": 31
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act45side_02",
           "occPer": "USUAL",
           "sortId": 32
         },
         {
-          "stageId": "act35side_01",
+          "stageId": "act45side_01",
           "occPer": "USUAL",
           "sortId": 33
         },
         {
-          "stageId": "act35side_02",
+          "stageId": "act44side_02",
           "occPer": "USUAL",
           "sortId": 34
         },
         {
-          "stageId": "act35side_03",
+          "stageId": "act44side_01",
           "occPer": "USUAL",
           "sortId": 35
         },
         {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_03",
           "occPer": "USUAL",
           "sortId": 36
         },
         {
+          "stageId": "act35side_02",
+          "occPer": "USUAL",
+          "sortId": 37
+        },
+        {
+          "stageId": "act35side_01",
+          "occPer": "USUAL",
+          "sortId": 38
+        },
+        {
           "stageId": "act19mini_04",
           "occPer": "ALMOST",
-          "sortId": 37
+          "sortId": 39
         },
         {
           "stageId": "act19mini_03",
           "occPer": "ALMOST",
-          "sortId": 38
+          "sortId": 40
         },
         {
           "stageId": "act19mini_01",
           "occPer": "USUAL",
-          "sortId": 39
-        },
-        {
-          "stageId": "act34side_02",
-          "occPer": "USUAL",
-          "sortId": 40
-        },
-        {
-          "stageId": "act34side_01",
-          "occPer": "USUAL",
           "sortId": 41
         },
         {
-          "stageId": "act43side_02",
+          "stageId": "act19mini_02",
           "occPer": "USUAL",
           "sortId": 42
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_02",
           "occPer": "USUAL",
           "sortId": 43
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act34side_01",
           "occPer": "USUAL",
           "sortId": 44
         },
         {
-          "stageId": "act42side_01",
+          "stageId": "act43side_02",
           "occPer": "USUAL",
           "sortId": 45
         },
         {
-          "stageId": "act42side_03",
+          "stageId": "act43side_01",
           "occPer": "USUAL",
           "sortId": 46
         },
@@ -16487,82 +16492,82 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act41side_03",
+          "stageId": "act42side_06",
           "occPer": "ALWAYS",
           "sortId": 0
         },
         {
-          "stageId": "act49side_05",
+          "stageId": "act42side_04",
           "occPer": "ALMOST",
           "sortId": 1
         },
         {
-          "stageId": "act40side_04",
-          "occPer": "ALMOST",
+          "stageId": "act41side_03",
+          "occPer": "ALWAYS",
           "sortId": 2
         },
         {
-          "stageId": "act39side_04",
-          "occPer": "ALWAYS",
+          "stageId": "act49side_05",
+          "occPer": "ALMOST",
           "sortId": 3
         },
         {
-          "stageId": "act39side_05",
+          "stageId": "act40side_04",
           "occPer": "ALMOST",
           "sortId": 4
         },
         {
-          "stageId": "act47side_05",
+          "stageId": "act39side_04",
           "occPer": "ALWAYS",
           "sortId": 5
         },
         {
-          "stageId": "act38side_05",
+          "stageId": "act39side_05",
           "occPer": "ALMOST",
           "sortId": 6
         },
         {
-          "stageId": "act46side_04",
+          "stageId": "act47side_05",
           "occPer": "ALWAYS",
           "sortId": 7
         },
         {
+          "stageId": "act38side_05",
+          "occPer": "ALMOST",
+          "sortId": 8
+        },
+        {
+          "stageId": "act46side_04",
+          "occPer": "ALWAYS",
+          "sortId": 9
+        },
+        {
           "stageId": "act37side_04",
           "occPer": "ALWAYS",
-          "sortId": 8
+          "sortId": 10
         },
         {
           "stageId": "act45side_05",
           "occPer": "ALMOST",
-          "sortId": 9
+          "sortId": 11
         },
         {
           "stageId": "act44side_04",
           "occPer": "ALMOST",
-          "sortId": 10
+          "sortId": 12
         },
         {
           "stageId": "act35side_06",
           "occPer": "ALMOST",
-          "sortId": 11
+          "sortId": 13
         },
         {
           "stageId": "act34side_04",
           "occPer": "ALWAYS",
-          "sortId": 12
-        },
-        {
-          "stageId": "act43side_03",
-          "occPer": "ALWAYS",
-          "sortId": 13
-        },
-        {
-          "stageId": "act42side_04",
-          "occPer": "ALMOST",
           "sortId": 14
         },
         {
-          "stageId": "act42side_06",
+          "stageId": "act43side_03",
           "occPer": "ALWAYS",
           "sortId": 15
         },
@@ -17418,22 +17423,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act41side_06",
+          "stageId": "act42side_09",
           "occPer": "USUAL",
           "sortId": 0
         },
         {
-          "stageId": "act39side_08",
+          "stageId": "act41side_06",
           "occPer": "USUAL",
           "sortId": 1
         },
         {
-          "stageId": "act35side_08",
+          "stageId": "act39side_08",
           "occPer": "USUAL",
           "sortId": 2
         },
         {
-          "stageId": "act42side_09",
+          "stageId": "act35side_08",
           "occPer": "USUAL",
           "sortId": 3
         },
@@ -19398,22 +19403,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act42side_10",
+          "occPer": "USUAL",
+          "sortId": 0
+        },
+        {
           "stageId": "act20mini_08",
           "occPer": "OFTEN",
-          "sortId": 0
+          "sortId": 1
         },
         {
           "stageId": "act38side_10",
           "occPer": "USUAL",
-          "sortId": 1
-        },
-        {
-          "stageId": "act46side_09",
-          "occPer": "USUAL",
           "sortId": 2
         },
         {
-          "stageId": "act42side_10",
+          "stageId": "act46side_09",
           "occPer": "USUAL",
           "sortId": 3
         },
@@ -42607,58 +42612,7 @@
       "hideInItemGet": false,
       "classifyType": "NONE",
       "itemType": "ACTIVITY_ITEM",
-      "stageDropList": [
-        {
-          "stageId": "act42side_01",
-          "occPer": "ALWAYS",
-          "sortId": 0
-        },
-        {
-          "stageId": "act42side_02",
-          "occPer": "ALWAYS",
-          "sortId": 1
-        },
-        {
-          "stageId": "act42side_03",
-          "occPer": "ALWAYS",
-          "sortId": 2
-        },
-        {
-          "stageId": "act42side_04",
-          "occPer": "ALWAYS",
-          "sortId": 3
-        },
-        {
-          "stageId": "act42side_05",
-          "occPer": "ALWAYS",
-          "sortId": 4
-        },
-        {
-          "stageId": "act42side_06",
-          "occPer": "ALWAYS",
-          "sortId": 5
-        },
-        {
-          "stageId": "act42side_07",
-          "occPer": "ALWAYS",
-          "sortId": 6
-        },
-        {
-          "stageId": "act42side_08",
-          "occPer": "ALWAYS",
-          "sortId": 7
-        },
-        {
-          "stageId": "act42side_09",
-          "occPer": "ALWAYS",
-          "sortId": 8
-        },
-        {
-          "stageId": "act42side_10",
-          "occPer": "ALWAYS",
-          "sortId": 9
-        }
-      ],
+      "stageDropList": [],
       "buildingProductList": [],
       "voucherRelateList": [],
       "shopRelateInfoList": []
@@ -44828,6 +44782,25 @@
       "voucherRelateList": [],
       "shopRelateInfoList": []
     },
+    "sandbox_2_tokencoin": {
+      "itemId": "sandbox_2_tokencoin",
+      "name": "作業検収書",
+      "description": "新本部の建設作業を完了すると、こうした検収書がもらえる。これは、クロージャが今一番好きなものだ。",
+      "rarity": "TIER_5",
+      "iconId": "sandbox_2_tokencoin",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "「ロドス購買部出張所」で報酬と交換できる。",
+      "obtainApproach": "生息演算報酬",
+      "hideInItemGet": false,
+      "classifyType": "NONE",
+      "itemType": "SANDBOX_TOKEN",
+      "stageDropList": [],
+      "buildingProductList": [],
+      "voucherRelateList": [],
+      "shopRelateInfoList": []
+    },
     "SINGLE_72_0_1_GACHA": {
       "itemId": "SINGLE_72_0_1_GACHA",
       "name": "イベントスカウト券",
@@ -44922,6 +44895,25 @@
           "sortId": 7
         }
       ],
+      "buildingProductList": [],
+      "voucherRelateList": [],
+      "shopRelateInfoList": []
+    },
+    "itempack_stickers_sand2": {
+      "itemId": "itempack_stickers_sand2",
+      "name": "シールパック/新たな礎",
+      "description": "新たな航路へと向かう準備を整えよう。",
+      "rarity": "TIER_5",
+      "iconId": "itempack_stickers_sand2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "コーデ特集専用のシール。表紙編集に使うことができる。",
+      "obtainApproach": "新たな礎テーマセットを集めて獲得",
+      "hideInItemGet": false,
+      "classifyType": "NONE",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
       "buildingProductList": [],
       "voucherRelateList": [],
       "shopRelateInfoList": []
@@ -46875,7 +46867,6 @@
     "furni_POPUCOM_stack_01": 1,
     "furni_act68d4_mailbox_01": 1,
     "furni_SF2026_shadowPuppetry_01": 1,
-    "furni_foolsDay_photowall_01": 1,
     "furni_enemyduel_diceAll_01": 1,
     "furni_act73d0_rabbits_01": 1,
     "furni_terratimes_AbyssalHunters_01": 1,
@@ -47037,6 +47028,7 @@
     "furni_annihilation_s29_01": 1,
     "furni_annihilation_s30_01": 1,
     "furni_annihilation_s31_01": 1,
+    "furni_annihilation_s32_01": 1,
     "furni_team001_blackSteel_target_01": 1,
     "furni_team001_followers_ceilingLight_01": 1,
     "furni_team001_ursus_baseballStand_01": 1,
@@ -47122,6 +47114,7 @@
     "furni_act67d0_frostEffigy_01": 1,
     "furni_act68d4_woodenHorse_01": 1,
     "furni_act72d6_audioPlayer_01": 1,
+    "furni_act73d4_projectionModel_01": 1,
     "char_002_amiya@winter#1": 1,
     "char_181_flower@daily#1": 1,
     "char_002_amiya@epoque#4": 1,
@@ -47365,6 +47358,7 @@
     "char_491_humus@marthe#10": 1,
     "char_381_bubble@marthe#11": 1,
     "char_185_frncat@marthe#12": 1,
+    "char_264_f12yin@marthe#13": 1,
     "char_179_cgbird@witch#1": 1,
     "char_171_bldsk@witch#1": 1,
     "char_236_rope@witch#1": 1,
@@ -51261,6 +51255,21 @@
         },
         {
           "id": "sticker_sand_1_5",
+          "count": 1,
+          "type": "STICKER"
+        }
+      ]
+    },
+    "itempack_stickers_sand2": {
+      "packId": "itempack_stickers_sand2",
+      "content": [
+        {
+          "id": "sticker_sand_2_1",
+          "count": 1,
+          "type": "STICKER"
+        },
+        {
+          "id": "sticker_sand_2_2",
           "count": 1,
           "type": "STICKER"
         }
