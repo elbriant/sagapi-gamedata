@@ -703,6 +703,50 @@
       "picType": "NONE",
       "logoId": null,
       "color": null
+    },
+    {
+      "picId": "pic73_a_1",
+      "groupId": 18,
+      "sortId": 2,
+      "startTime": 1793599200,
+      "endTime": 1794772799,
+      "textList": [],
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic73_s_1",
+      "groupId": 18,
+      "sortId": 3,
+      "startTime": 1793599200,
+      "endTime": 1795982399,
+      "textList": [],
+      "picType": "SKIN",
+      "logoId": "iteration_boc",
+      "color": null
+    },
+    {
+      "picId": "pic73_a_2",
+      "groupId": 18,
+      "sortId": 1,
+      "startTime": 1794816000,
+      "endTime": 1795982399,
+      "textList": [],
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic74_s_2",
+      "groupId": 19,
+      "sortId": 7,
+      "startTime": 1795420800,
+      "endTime": 1797191999,
+      "textList": [],
+      "picType": "SKIN",
+      "logoId": "littlePony",
+      "color": null
     }
   ],
   "movieInfo": null

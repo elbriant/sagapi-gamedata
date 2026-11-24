@@ -5472,5 +5472,117 @@
     "stripBlackboardParamsWithBuffKey": false,
     "blackboard": [],
     "enableInitDirectionFromSource": false
+  },
+  "block_radius_scaler[limit]": {
+    "attributes": {
+      "abnormalFlags": [],
+      "abnormalImmunes": [],
+      "abnormalAntis": [],
+      "abnormalCombos": [],
+      "abnormalComboImmunes": [],
+      "attributeModifiers": [
+        {
+          "attributeType": "BLOCK_RADIUS_SCALE",
+          "formulaItem": "ADDITION",
+          "value": 0.0,
+          "loadFromBlackboard": true,
+          "fetchBaseValueFromSourceEntity": false
+        }
+      ]
+    },
+    "buffKey": "block_radius_scaler[limit]",
+    "loadFromDB": false,
+    "isDurableBuff": false,
+    "isDamageMissable": false,
+    "isSilenceable": false,
+    "isStunnable": false,
+    "isFreezable": false,
+    "isLevitatable": false,
+    "statusResistable": "AUTOMATIC",
+    "templateKey": "empty",
+    "disableOverride": false,
+    "overrideKey": "block_radius_scaler",
+    "overrideType": "DEFAULT",
+    "maxStackCnt": 1,
+    "refreshRemainingTimeWhenStackMax": false,
+    "clearAllStackCntWhenTimeUp": false,
+    "maxValidStackCnt": -1,
+    "independentCharacterSource": false,
+    "overrideEffectKey": null,
+    "overrideOnEventPriority": false,
+    "onEventPriority": "DEFAULT",
+    "audioSignal": null,
+    "lifeTimeType": "LIMITED",
+    "takeSnapshotWhenExtend": false,
+    "durationKey": "duration",
+    "lifeTime": 0.0,
+    "triggerLifeType": "IMMEDIATELY",
+    "triggerCnt": 0,
+    "triggerInterval": -1.0,
+    "waitFirstTriggerInterval": true,
+    "firstTriggerInterval": -1.0,
+    "priority": -1,
+    "priorityBBKeys": [
+      "block_radius_scale"
+    ],
+    "stripBlackboardParamsWithBuffKey": false,
+    "blackboard": [],
+    "enableInitDirectionFromSource": false
+  },
+  "block_radius_scaler[inf]": {
+    "attributes": {
+      "abnormalFlags": [],
+      "abnormalImmunes": [],
+      "abnormalAntis": [],
+      "abnormalCombos": [],
+      "abnormalComboImmunes": [],
+      "attributeModifiers": [
+        {
+          "attributeType": "BLOCK_RADIUS_SCALE",
+          "formulaItem": "ADDITION",
+          "value": 0.0,
+          "loadFromBlackboard": true,
+          "fetchBaseValueFromSourceEntity": false
+        }
+      ]
+    },
+    "buffKey": "block_radius_scaler[inf]",
+    "loadFromDB": false,
+    "isDurableBuff": false,
+    "isDamageMissable": false,
+    "isSilenceable": false,
+    "isStunnable": false,
+    "isFreezable": false,
+    "isLevitatable": false,
+    "statusResistable": "AUTOMATIC",
+    "templateKey": "empty",
+    "disableOverride": false,
+    "overrideKey": "block_radius_scaler",
+    "overrideType": "DEFAULT",
+    "maxStackCnt": 1,
+    "refreshRemainingTimeWhenStackMax": false,
+    "clearAllStackCntWhenTimeUp": false,
+    "maxValidStackCnt": -1,
+    "independentCharacterSource": false,
+    "overrideEffectKey": null,
+    "overrideOnEventPriority": false,
+    "onEventPriority": "DEFAULT",
+    "audioSignal": null,
+    "lifeTimeType": "INFINITY",
+    "takeSnapshotWhenExtend": false,
+    "durationKey": "duration",
+    "lifeTime": 0.0,
+    "triggerLifeType": "IMMEDIATELY",
+    "triggerCnt": 0,
+    "triggerInterval": -1.0,
+    "waitFirstTriggerInterval": true,
+    "firstTriggerInterval": -1.0,
+    "priority": -1,
+    "priorityBBKeys": [
+      "block_radius_scale"
+    ],
+    "stripBlackboardParamsWithBuffKey": false,
+    "blackboard": [],
+    "enableInitDirectionFromSource": false
   }
 }

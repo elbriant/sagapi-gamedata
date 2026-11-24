@@ -284,7 +284,7 @@
         "avatarIdSort": 20,
         "avatarIdDesc": "購買禮包獲得\n“蝴蝶結交流會”",
         "avatarItemName": "“蝴蝶結交流會”",
-        "avatarItemDesc": "澄閃與Hello Kitty合拍的大頭貼。趁頭髮還沒有炸開，\n試試新的蝴蝶結！",
+        "avatarItemDesc": "澄閃與Hello Kitty合拍的大頭貼。趁頭髮還沒有炸開，試試新的蝴蝶結！",
         "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
         "obtainApproach": "特殊方式獲得",
         "dynAvatarId": null,
@@ -1029,6 +1029,182 @@
             "avatarId": "avatar_special_92",
             "descShowTs": 1777608000,
             "descHideTs": 1780613999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_84",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 76,
+        "avatarIdDesc": "購買禮包獲得\n“堅忍瑪恩納”",
+        "avatarItemName": "“堅忍瑪恩納”",
+        "avatarItemDesc": "堅忍瑪恩納。他默默背負了所有，工作的重擔、所行之事的後果、臨光家。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_84",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_85",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 77,
+        "avatarIdDesc": "購買禮包獲得\n“灼灼臨光”",
+        "avatarItemName": "“灼灼臨光”",
+        "avatarItemDesc": "灼灼臨光。她一直堅守著她的正義，她正是騎士精神的化身。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_85",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_86",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 78,
+        "avatarIdDesc": "購買禮包獲得\n“瑕光點點”",
+        "avatarItemName": "“瑕光點點”",
+        "avatarItemDesc": "瑕光點點。天真開朗的她向來都是臨光家快樂的源泉。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_86",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_87",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 79,
+        "avatarIdDesc": "購買禮包獲得\n“鞭刃佐菲婭”",
+        "avatarItemName": "“鞭刃佐菲婭”",
+        "avatarItemDesc": "鞭刃佐菲婭。臨光家優雅又溫柔的教官。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_87",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_88",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 80,
+        "avatarIdDesc": "購買禮包獲得\n“赤沙娜仁圖亞”",
+        "avatarItemName": "“赤沙娜仁圖亞”",
+        "avatarItemDesc": "赤沙娜仁圖亞。要不你從她要走的路上讓開，要不就是她幫你讓開。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_88",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_89",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 81,
+        "avatarIdDesc": "購買禮包獲得\n“不言棄的格拉尼”",
+        "avatarItemName": "“不言棄的格拉尼”",
+        "avatarItemDesc": "不言棄的格拉尼。守護著城市和平的騎警，不懼艱險，笑臉和勇氣就是她最好的武器。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_89",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_90",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 82,
+        "avatarIdDesc": "購買禮包獲得\n“林間流星”",
+        "avatarItemName": "“林間流星”",
+        "avatarItemDesc": "林間流星。山間林中，時刻提防外來威脅、盡職盡責的守護者。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_90",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_91",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "購買禮包獲得",
+        "isSecret": true,
+        "avatarStartTs": 1795420800,
+        "avatarLimit": true,
+        "avatarIdSort": 83,
+        "avatarIdDesc": "購買禮包獲得\n“空中大爆破”",
+        "avatarItemName": "“空中大爆破”",
+        "avatarItemDesc": "空中大爆破。她來了！砰！砰！乓！",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_91",
+            "descShowTs": 1795420800,
+            "descHideTs": 1797191999
           }
         ]
       },
@@ -2337,6 +2513,22 @@
         ]
       },
       {
+        "avatarId": "avatar_activity_XB2_1",
+        "avatarType": "ACTIVITY",
+        "avatarDesc": "【重啟錨點】羅德島採購平台",
+        "isSecret": false,
+        "avatarStartTs": 1794816000,
+        "avatarLimit": false,
+        "avatarIdSort": 82,
+        "avatarIdDesc": "【重啟錨點】羅德島採購平台\n“不變生息”",
+        "avatarItemName": "“不變生息”",
+        "avatarItemDesc": "在全新的紀念碑上，刻下我們未曾改變的生息之證。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "在生息演算模式中獲得",
+        "dynAvatarId": null,
+        "limitDatas": []
+      },
+      {
         "avatarId": "avatar_dyn_01",
         "avatarType": "DYNAMIC",
         "avatarDesc": "【累計簽到】獎勵",
@@ -2725,7 +2917,15 @@
           "avatar_special_82",
           "avatar_special_83",
           "avatar_special_74",
-          "avatar_special_92"
+          "avatar_special_92",
+          "avatar_special_84",
+          "avatar_special_85",
+          "avatar_special_86",
+          "avatar_special_87",
+          "avatar_special_88",
+          "avatar_special_89",
+          "avatar_special_90",
+          "avatar_special_91"
         ]
       },
       "ACTIVITY": {
@@ -2812,7 +3012,8 @@
           "avatar_activity_RL5_2",
           "avatar_activity_AC_2",
           "avatar_activity_BB",
-          "avatar_activity_ED3"
+          "avatar_activity_ED3",
+          "avatar_activity_XB2_1"
         ]
       },
       "DEFAULT": {
@@ -3159,7 +3360,7 @@
       {
         "bgId": "bg_rainbowsix_1",
         "bgType": "BASE",
-        "bgSortId": 14,
+        "bgSortId": 16,
         "bgStartTime": 1734501600,
         "isSecret": true,
         "bgName": "顯揚",
@@ -3183,7 +3384,7 @@
       {
         "bgId": "bg_rogue_3",
         "bgType": "BASE",
-        "bgSortId": 13,
+        "bgSortId": 15,
         "bgStartTime": 1735675200,
         "isSecret": false,
         "bgName": "始發",
@@ -3207,7 +3408,7 @@
       {
         "bgId": "bg_rhodes_flower_1",
         "bgType": "BASE",
-        "bgSortId": 15,
+        "bgSortId": 17,
         "bgStartTime": 1741248000,
         "isSecret": true,
         "bgName": "花圃",
@@ -3477,6 +3678,78 @@
           "[集成戰略]歲的界園志異獎勵"
         ],
         "multiPicId": null
+      },
+      {
+        "bgId": "bg_elitelounge_1",
+        "bgType": "BASE",
+        "bgSortId": 28,
+        "bgStartTime": 1793599200,
+        "isSecret": false,
+        "bgName": "執著",
+        "bgDes": "正因歷經無數磨練，回望來時路的那一刻才更令人感慨萬千。",
+        "bgUsage": "一張照片，一段回憶，凝聚了泰拉大地的某個瞬間。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormBgId": "bg_elitelounge_1",
+            "sortId": 0,
+            "bgMusicId": "music_elitelounge_1"
+          }
+        ],
+        "obtainApproach": "累計簽到獲得",
+        "unlockDesList": [
+          "累計簽到1500天獲得"
+        ],
+        "multiPicId": null
+      },
+      {
+        "bgId": "bg_sandboxv3_1",
+        "bgType": "BASE",
+        "bgSortId": 29,
+        "bgStartTime": 1794816000,
+        "isSecret": false,
+        "bgName": "再啟",
+        "bgDes": "一時的困境無法阻攔充滿希望的腳步，鼓起勇氣，再次出發。",
+        "bgUsage": "一張照片，一段回憶，凝聚了泰拉大地的某個瞬間。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormBgId": "bg_sandboxv3_1",
+            "sortId": 0,
+            "bgMusicId": "music_sandboxv3_1"
+          }
+        ],
+        "obtainApproach": "生息演算獎勵",
+        "unlockDesList": [
+          "[生息演算]重啟錨點獎勵"
+        ],
+        "multiPicId": null
+      },
+      {
+        "bgId": "bg_little_pony_1",
+        "bgType": "BASE",
+        "bgSortId": 31,
+        "bgStartTime": 1795420800,
+        "isSecret": true,
+        "bgName": "金橡樹圖書館",
+        "bgDes": "永遠的小馬鎮，永遠的家。",
+        "bgUsage": "一張照片，一段回憶，凝聚了泰拉大地的某個瞬間。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormBgId": "bg_little_pony_1",
+            "sortId": 0,
+            "bgMusicId": "music_bg_little_pony"
+          }
+        ],
+        "obtainApproach": "禮包購買",
+        "unlockDesList": [
+          "[採購中心]中購買真摯友誼組合包獲得"
+        ],
+        "multiPicId": null
       }
     ],
     "backgroundGroupDatas": [
@@ -3570,17 +3843,17 @@
           {
             "id": "bg_rogue_3",
             "groupType": "BASE",
-            "sortId": 13
+            "sortId": 15
           },
           {
             "id": "bg_rainbowsix_1",
             "groupType": "BASE",
-            "sortId": 14
+            "sortId": 16
           },
           {
             "id": "bg_rhodes_flower_1",
             "groupType": "BASE",
-            "sortId": 15
+            "sortId": 17
           },
           {
             "id": "bg_sanrio_1",
@@ -3621,6 +3894,21 @@
             "id": "bg_rogue_5",
             "groupType": "BASE",
             "sortId": 27
+          },
+          {
+            "id": "bg_elitelounge_1",
+            "groupType": "BASE",
+            "sortId": 28
+          },
+          {
+            "id": "bg_sandboxv3_1",
+            "groupType": "BASE",
+            "sortId": 29
+          },
+          {
+            "id": "bg_little_pony_1",
+            "groupType": "BASE",
+            "sortId": 31
           }
         ]
       }
@@ -3995,6 +4283,32 @@
         "hideWhenLimit": true,
         "rarity": "TIER_6",
         "multiPicId": "tm_lonetrail_1_all"
+      },
+      {
+        "id": "tm_kaltsit_1",
+        "type": "BASE",
+        "sortId": 15,
+        "startTime": 1793599200,
+        "isSecret": true,
+        "tmName": "重構",
+        "tmDes": "見證了無數的離散與結合，那雙一直注視著時光變遷的眼睛，終於得以重構。",
+        "tmUsage": "在不變動功能的情況下，對PRTS介面進行了重新設計。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormTmId": "tm_kaltsit_1",
+            "sortId": 0
+          }
+        ],
+        "obtainApproach": "限時登入活動獎勵",
+        "unlockDesList": [
+          "回望泰拉限時登入活動獎勵"
+        ],
+        "isLimitObtain": true,
+        "hideWhenLimit": true,
+        "rarity": "TIER_5",
+        "multiPicId": null
       }
     ],
     "themeGroupDatas": [
@@ -4086,6 +4400,11 @@
             "id": "tm_rogue_5",
             "groupType": "BASE",
             "sortId": 11
+          },
+          {
+            "id": "tm_kaltsit_1",
+            "groupType": "BASE",
+            "sortId": 15
           }
         ]
       }
@@ -4177,6 +4496,18 @@
             "limitInfoId": "bg_lonetrail_1#1",
             "startTime": 1779811200,
             "endTime": 1782244799,
+            "invalidObtainDesc": "暫無獲取途徑",
+            "displayAfterEndTime": false
+          }
+        ]
+      },
+      "bg_little_pony_1": {
+        "bgId": "bg_little_pony_1",
+        "limitInfos": [
+          {
+            "limitInfoId": "bg_little_pony_1#1",
+            "startTime": 1795420800,
+            "endTime": 1797191999,
             "invalidObtainDesc": "暫無獲取途徑",
             "displayAfterEndTime": false
           }
@@ -4275,6 +4606,16 @@
           {
             "startTime": 1779811200,
             "endTime": 1782244799,
+            "invalidObtainDesc": "暫未開放獲取途徑"
+          }
+        ]
+      },
+      "tm_kaltsit_1": {
+        "id": "tm_kaltsit_1",
+        "limitInfos": [
+          {
+            "startTime": 1793599200,
+            "endTime": 1796759999,
             "invalidObtainDesc": "暫未開放獲取途徑"
           }
         ]
@@ -5460,6 +5801,74 @@
             "availEndTime": 1795377599
           }
         }
+      },
+      "nc_sandbox2_1": {
+        "id": "nc_sandbox2_1",
+        "name": "演算",
+        "type": "BASE",
+        "isSecret": false,
+        "sortId": 30,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "演算",
+        "themeEnName": "Algorithm",
+        "skinStartTime": 1794816000,
+        "skinDesc": "去往明天的第一個支點已經錨定，對目標的重新演算即將開始。",
+        "usageDesc": "在不變動功能的情況下，對PRTS進行了重新設計。",
+        "skinApproach": "生息演算：重啟錨點活動獎勵",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在羅德島採購平台中購買"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": "TIER_6",
+        "skinTmplCnt": 1,
+        "canChangeTmpl": false,
+        "isTimeLimit": false,
+        "timeLimitInfoList": []
+      },
+      "nc_littlepony_1": {
+        "id": "nc_littlepony_1",
+        "name": "合照",
+        "type": "SPECIAL",
+        "isSecret": true,
+        "sortId": 32,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "合照",
+        "themeEnName": "Besties Photo",
+        "skinStartTime": 1795420800,
+        "skinDesc": "將這一刻拍下來製成貼紙，一起裝點朋友手帳的第一頁吧。三、二、一，西瓜甜不甜——甜！",
+        "usageDesc": "在不變動功能的情況下，對PRTS進行了重新設計。",
+        "skinApproach": "真摯友誼組合包",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在[採購中心]中購買真摯友誼組合包獲得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": "TIER_6",
+        "skinTmplCnt": 3,
+        "canChangeTmpl": true,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "nc_littlepony_1": {
+            "limitId": "nc_littlepony_1",
+            "id": "nc_littlepony_1",
+            "availStartTime": 1795420800,
+            "availEndTime": 1797191999
+          }
+        }
       }
     },
     "skinGroupDatas": [
@@ -5552,6 +5961,11 @@
             "id": "nc_as2026_TheAphasic",
             "groupType": "SPECIAL",
             "sortId": 29
+          },
+          {
+            "id": "nc_littlepony_1",
+            "groupType": "SPECIAL",
+            "sortId": 32
           }
         ]
       },
@@ -5609,6 +6023,11 @@
             "id": "nc_6d5_1",
             "groupType": "BASE",
             "sortId": 24
+          },
+          {
+            "id": "nc_sandbox2_1",
+            "groupType": "BASE",
+            "sortId": 30
           }
         ]
       }
@@ -6612,6 +7031,24 @@
         "rewardList": [
           {
             "id": "randomMaterial_message2",
+            "count": 1,
+            "type": "VOUCHER_MGACHA"
+          }
+        ]
+      },
+      "mail_anniversary_2026_1": {
+        "id": "mail_anniversary_2026_1",
+        "type": "NORMAL",
+        "sortId": 57,
+        "displayReceiveTs": 1793606400,
+        "year": 0,
+        "dateDelta": -1,
+        "senderId": "char_1052_kalts2",
+        "title": "來自凱爾希·思衡托的信件",
+        "content": "博士，也許應該說，好久不見。\n之前發生的一切於我而言就像一場短暫的夢，但對你們來說，那應該是一段頗為漫長的離別。儘管我一度認為自己的生命會和使命一併完結，也從不曾期待自己還有機會以這種方式回到羅德島，我依然為當下能擁有生命感到慶幸。感謝你為我，還有羅德島所做的一切。\n如今的泰拉面臨的災難越來越深重，羅德島的使命依然沉重，所幸我們還擁有希望和彌足珍貴的時間。我很高興，能繼續與你同行。",
+        "rewardList": [
+          {
+            "id": "randomMaterial_message3",
             "count": 1,
             "type": "VOUCHER_MGACHA"
           }
@@ -8957,6 +9394,65 @@
           }
         }
       },
+      "collect_sandbox2": {
+        "setId": "collect_sandbox2",
+        "setName": "重啟錨點主題套組",
+        "setType": "SANDBOX",
+        "sortId": 7301,
+        "startTime": 1794816000,
+        "completeTime": -1,
+        "items": [
+          {
+            "itemId": "char_264_f12yin@marthe#13",
+            "itemType": "CHAR_SKIN",
+            "collectionSetId": "collect_sandbox2",
+            "sortId": 1
+          },
+          {
+            "itemId": "avatar_activity_XB2_1",
+            "itemType": "PLAYER_AVATAR",
+            "collectionSetId": "collect_sandbox2",
+            "sortId": 4
+          },
+          {
+            "itemId": "nc_sandbox2_1",
+            "itemType": "NAME_CARD_SKIN",
+            "collectionSetId": "collect_sandbox2",
+            "sortId": 3
+          },
+          {
+            "itemId": "bg_sandboxv3_1",
+            "itemType": "HOME_BACKGROUND",
+            "collectionSetId": "collect_sandbox2",
+            "sortId": 2
+          }
+        ],
+        "displayMaxCount": 4,
+        "missionList": {
+          "collect_sandbox2_mission1": {
+            "missionId": "collect_sandbox2_mission1",
+            "requireItemCount": 1,
+            "rewardList": [
+              {
+                "id": "leaf_sandbox2",
+                "count": 1,
+                "type": "MAGAZINE_LEAF"
+              }
+            ]
+          },
+          "collect_sandbox2_mission3": {
+            "missionId": "collect_sandbox2_mission3",
+            "requireItemCount": 3,
+            "rewardList": [
+              {
+                "id": "itempack_stickers_sand2",
+                "count": 1,
+                "type": "ITEM_PACK"
+              }
+            ]
+          }
+        }
+      },
       "collect_sandbox1": {
         "setId": "collect_sandbox1",
         "setName": "沙洲遺聞主題套組",
@@ -9048,6 +9544,7 @@
         "typeFilterSelectIcon": "setType_sandbox",
         "typeFilterUnselectIcon": "setType_sandbox_unselect",
         "setIdList": [
+          "collect_sandbox2",
           "collect_sandbox1"
         ],
         "sortId": 1
@@ -9236,6 +9733,29 @@
         "templateColor": "#e4e23a",
         "skinDefaultPos": {},
         "skinDefaultScale": 0.670639,
+        "leafDecorMaxNumMap": {
+          "HOME_THEME": 2,
+          "HOME_BACKGROUND": 1,
+          "NAME_CARD_SKIN": 2,
+          "PLAYER_AVATAR": 3,
+          "STICKER": 5
+        }
+      },
+      "leaf_sandbox2": {
+        "leafId": "leaf_sandbox2",
+        "leafType": "SANDBOX",
+        "sortId": 9,
+        "startTime": 1794816000,
+        "name": "頁面/啟航時分",
+        "desc": "破開迷霧，拔錨啟程。",
+        "usage": "形藝特輯的頁面設計，可用於版面編輯。",
+        "approach": "收集重啟錨點主題套組獲得",
+        "rarity": "TIER_5",
+        "templateId": "temp_leaf_sandbox2",
+        "templateStartTime": 1794816000,
+        "templateColor": "#e9ff51",
+        "skinDefaultPos": {},
+        "skinDefaultScale": 0.835965,
         "leafDecorMaxNumMap": {
           "HOME_THEME": 2,
           "HOME_BACKGROUND": 1,
@@ -9821,6 +10341,71 @@
           ],
           "scale": 0.670639
         }
+      },
+      "temp_leaf_sandbox2": {
+        "leafId": "leaf_sandbox2",
+        "decorList": [
+          {
+            "id": "bg_sandboxv3_1",
+            "type": "HOME_BACKGROUND",
+            "sub": 0,
+            "pos": [
+              471.412933,
+              -201.071487
+            ],
+            "scale": 0.367963
+          },
+          {
+            "id": "nc_sandbox2_1",
+            "type": "NAME_CARD_SKIN",
+            "sub": 0,
+            "pos": [
+              -481.447083,
+              -101.926979
+            ],
+            "scale": 0.555834
+          },
+          {
+            "id": "avatar_activity_XB2_1",
+            "type": "PLAYER_AVATAR",
+            "sub": 0,
+            "pos": [
+              -212.114624,
+              -214.855972
+            ],
+            "scale": 0.759504
+          },
+          {
+            "id": "sticker_sand_2_2",
+            "type": "STICKER",
+            "sub": 0,
+            "pos": [
+              -534.856323,
+              49.370468
+            ],
+            "scale": 1.0
+          },
+          {
+            "id": "sticker_sand_2_1",
+            "type": "STICKER",
+            "sub": 0,
+            "pos": [
+              562.285583,
+              241.369644
+            ],
+            "scale": 0.396449
+          }
+        ],
+        "charSkin": {
+          "id": "char_264_f12yin@marthe#13",
+          "type": "CHAR_SKIN",
+          "sub": 0,
+          "pos": [
+            316.405121,
+            54.838051
+          ],
+          "scale": 0.835965
+        }
       }
     },
     "constData": {
@@ -9841,101 +10426,11 @@
       "defaultLeafId": "leaf_default"
     },
     "blackListInDiy": {
-      "PLAYER_AVATAR": {
-        "avatar_special_07": 0,
-        "avatar_special_12": 0,
-        "avatar_special_15": 0,
-        "avatar_special_16": 0,
-        "avatar_special_19": 0,
-        "avatar_special_20": 0,
-        "avatar_special_21": 0,
-        "avatar_special_22": 0,
-        "avatar_special_23": 0,
-        "avatar_special_24": 0,
-        "avatar_special_25": 0,
-        "avatar_special_26": 0,
-        "avatar_special_27": 0,
-        "avatar_special_28": 0,
-        "avatar_special_29": 0,
-        "avatar_special_30": 0,
-        "avatar_special_32": 0,
-        "avatar_special_33": 0,
-        "avatar_special_34": 0,
-        "avatar_special_40": 0,
-        "avatar_special_41": 0,
-        "avatar_special_44": 0,
-        "avatar_special_46": 0,
-        "avatar_special_43": 0,
-        "avatar_special_45": 0,
-        "avatar_special_47": 0,
-        "avatar_special_51": 0,
-        "avatar_special_52": 0,
-        "avatar_special_53": 0,
-        "avatar_special_54": 0,
-        "avatar_special_55": 0,
-        "avatar_special_56": 0,
-        "avatar_special_57": 0,
-        "avatar_special_58": 0,
-        "avatar_special_61": 0,
-        "avatar_special_62": 0,
-        "avatar_special_63": 0,
-        "avatar_special_64": 0,
-        "avatar_special_65": 0,
-        "avatar_special_74": 0,
-        "avatar_special_92": 0
-      },
-      "HOME_BACKGROUND": {
-        "bg_rainbowsix_1": 0,
-        "bg_sanrio_1": 0,
-        "bg_avemujica_1": 0
-      },
-      "HOME_THEME": {
-        "tm_rainbowsix_1": 0,
-        "tm_avemujica_1": 0,
-        "tm_sanrio_1": 0
-      },
-      "NAME_CARD_SKIN": {
-        "nc_movie_1": 0,
-        "nc_taiko_1": 0,
-        "nc_avemujica_1": 0,
-        "nc_rilakkuma_1": 0
-      },
-      "CHAR_SKIN": {
-        "char_173_slchan@wwf#1": 0,
-        "char_456_ash@rainbow6#1": 0,
-        "char_459_tachak@rainbow6#1": 0,
-        "char_4123_ela@rainbow6#2": 0,
-        "char_4125_rdoc@rainbow6#2": 0,
-        "char_4124_iana@rainbow6#2": 0,
-        "char_293_thorns@it#1": 0,
-        "char_350_surtr@it#1": 0,
-        "char_115_headbr@it#1": 0,
-        "char_358_lisa@lxh#1": 0,
-        "char_4040_rockr@lxh#1": 0,
-        "char_4077_palico@mh#1": 0,
-        "char_322_lmlee@sanrio#1": 0,
-        "char_377_gdglow@sanrio#1": 0,
-        "char_4091_ulika@sanrio#1": 0,
-        "char_180_amgoat@sanrio#2": 0,
-        "char_1032_excu2@sanrio#2": 0,
-        "char_4042_lumen@sanrio#2": 0,
-        "char_2023_ling@ncg#1": 0,
-        "char_4082_qiubai@ncg#1": 0,
-        "char_106_franka@ncg#1": 0,
-        "char_4019_ncdeer@ncdeer#1": 0,
-        "char_4141_marcil@dungeon#1": 0,
-        "char_1034_jesca2@cfa#1": 0,
-        "char_2014_nian@cfa#1": 0,
-        "char_2024_chyue@cfa#1": 0,
-        "char_151_myrtle@taiko#1": 0,
-        "char_4182_oblvns@avemujica#1": 0,
-        "char_4186_tmoris@avemujica#1": 0,
-        "char_4184_dolris@avemujica#1": 0,
-        "char_4185_amoris@avemujica#1": 0,
-        "char_4183_mortis@avemujica#1": 0,
-        "char_197_poca@rilakkuma#1": 0,
-        "char_134_ifrit@rilakkuma#1": 0
-      }
+      "PLAYER_AVATAR": [],
+      "HOME_BACKGROUND": [],
+      "HOME_THEME": [],
+      "NAME_CARD_SKIN": [],
+      "CHAR_SKIN": []
     }
   },
   "stickerData": {
@@ -10118,6 +10613,26 @@
         "desc": "為特輯增添個性元素，展現獨到美學理解。",
         "usage": "形藝特輯專用特輯收藏貼，可用於版面編輯。",
         "approach": "收集沙洲遺聞主題套組獲得",
+        "rarity": "TIER_5"
+      },
+      "sticker_sand_2_1": {
+        "id": "sticker_sand_2_1",
+        "name": "收藏貼/無窮",
+        "stickerType": "SANDBOX",
+        "sortId": 19,
+        "desc": "為特輯增添個性元素，展現獨到美學理解。",
+        "usage": "形藝特輯專用特輯收藏貼，可用於版面編輯。",
+        "approach": "收集重啟錨點主題套組獲得",
+        "rarity": "TIER_5"
+      },
+      "sticker_sand_2_2": {
+        "id": "sticker_sand_2_2",
+        "name": "收藏貼/演算",
+        "stickerType": "SANDBOX",
+        "sortId": 20,
+        "desc": "為特輯增添個性元素，展現獨到美學理解。",
+        "usage": "形藝特輯專用特輯收藏貼，可用於版面編輯。",
+        "approach": "收集重啟錨點主題套組獲得",
         "rarity": "TIER_5"
       }
     }
