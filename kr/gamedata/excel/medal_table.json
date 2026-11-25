@@ -13023,6 +13023,69 @@
       "isHidden": false
     },
     {
+      "medalId": "medal_story_surfer_1",
+      "medalName": "'정상의 풍경'",
+      "medalType": "storyMedal",
+      "slotId": 371,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_4052_surfer",
+        "story_surfer_set_1"
+      ],
+      "getMethod": "오퍼레이터 서퍼의 오퍼레이터 레코드 《정상의 풍경》개방하기",
+      "description": "어째서 망설이지 않느냐면, 보고 싶은 풍경이 그곳에 있기 때문입니다.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1794812400,
+      "expireTimes": [],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_story_kroos2_1",
+      "medalName": "'몽롱'",
+      "medalType": "storyMedal",
+      "slotId": 372,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_1021_kroos2",
+        "story_kroos2_set_1"
+      ],
+      "getMethod": "오퍼레이터 크루스 더 킨 글린트의 오퍼레이터 레코드 《몽롱》개방하기",
+      "description": "“눈을 떠 세상을 통찰하고, 눈을 감아 마음을 살펴라.”",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1794812400,
+      "expireTimes": [],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_story_beagle_1",
+      "medalName": "'팀의 방패'",
+      "medalType": "storyMedal",
+      "slotId": 373,
+      "preMedalIdList": [],
+      "rarity": "T1",
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_122_beagle",
+        "story_beagle_set_1"
+      ],
+      "getMethod": "오퍼레이터 비글의 오퍼레이터 레코드 《팀의 방패》개방하기",
+      "description": "그녀는 자신에게 가장 어울리는 방패를 찾을 것이고, 팀에서도 언제나 가장 견고한 방패가 될 것입니다.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1794812400,
+      "expireTimes": [],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
       "medalId": "medal_sandbox_2_01",
       "medalName": "'내일의 아침 해'",
       "medalType": "rogueMedal",
@@ -15133,6 +15196,147 @@
       "originMedal": null,
       "displayTime": 1639015200,
       "expireTimes": [],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act1football_01",
+      "medalName": "챔피언십 월계관 훈장",
+      "medalType": "activityMedal",
+      "slotId": 11,
+      "preMedalIdList": [],
+      "rarity": "T3",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act1football_ex04",
+        "1"
+      ],
+      "getMethod": "진지 축구 챔피언십 이벤트 기간 동안, 스테이지 PF-EX-4 클리어",
+      "description": "진지 축구 챔피언십에서 챔피언 트로피를 들어 올린 팀에게 수여한 훈장.\n이 전술과 기술의 궁극적인 대결에서, 당신은 팀을 이끌고 최고의 기량을 보여주었습니다.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1796842800,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act1football_02",
+      "medalName": "챔피언십 샛별 훈장",
+      "medalType": "activityMedal",
+      "slotId": 12,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act1football_04",
+        "1"
+      ],
+      "getMethod": "진지 축구 챔피언십 이벤트 기간 동안, 스테이지 PF-4 클리어",
+      "description": "진지 축구 챔피언십에서 아마추어 조별리그를 성공적으로 통과한 팀에게 격려의 의미로 수여한 훈장.\n모든 경기는 똑같이 중요하며, 탄탄한 기본기만이 승리를 이끌어낼 수 있습니다.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1796842800,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act1football_03",
+      "medalName": "챔피언십 포위 돌파 훈장",
+      "medalType": "activityMedal",
+      "slotId": 13,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act1football_07",
+        "1"
+      ],
+      "getMethod": "진지 축구 챔피언십 이벤트 기간 동안, 스테이지 PF-7 클리어",
+      "description": "진지 축구 챔피언십에서 프로 조별리그를 성공적으로 통과한 팀에게 격려의 의미로 수여한 훈장.\n모두가 하나가 되어 최종 우승을 향해 힘차게 전진하리!",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1796842800,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act1football_04",
+      "medalName": "챔피언십 트랜드 훈장",
+      "medalType": "activityMedal",
+      "slotId": 14,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "GotItemBeforeTime",
+      "unlockParam": [
+        "1",
+        "char_4171_wulfen@marthe#14",
+        "1796842800"
+      ],
+      "getMethod": "진지 축구 챔피언십 이벤트 기간 동안, 컬렉션 '경쾌한 리듬' 획득",
+      "description": "진지 축구 챔피언십에서 대회 기념 컬렉션과 함께 동봉된 훈장.\n대회의 열기는 꼭 킥오프 후에만 느낄 수 있는 게 아니라, 사전 공연 역시 분위기를 한껏 띄워줍니다.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1796842800,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act1football_05",
+      "medalName": "챔피언십 공세 훈장",
+      "medalType": "activityMedal",
+      "slotId": 15,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "Act1FootballScores",
+      "unlockParam": [
+        "act1football",
+        "5",
+        "3",
+        "act1football_tr01"
+      ],
+      "getMethod": "진지 축구 챔피언십 이벤트 기간 동안, 누적 5개 스테이지의 골득실 차가 3골 달성 (튜토리얼 스테이지 제외)",
+      "description": "진지 축구 챔피언십에서 대량으로 득점한 팀에게 수여한 훈장.\n“골을 많이 넣으면 승리는 저절로 따라온다.” 챔피언십의 그라운드 위에서 이 말은 변치 않는 진리입니다.",
+      "advancedMedal": "medal_activity_act1football_055",
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1796842800,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
       "medalRewardGroup": [],
       "isHidden": false
     },
@@ -38593,6 +38797,71 @@
       "isHidden": true
     },
     {
+      "medalId": "medal_hidden_50side_01",
+      "medalName": "'최고의 파트너'",
+      "medalType": "hiddenMedal",
+      "slotId": 35,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "GotCharsBeforeTime",
+      "unlockParam": [
+        "char_4215_buddy",
+        "1796583599"
+      ],
+      "getMethod": "<포영을 뚫는 창뢰> 이벤트 기간 동안, 오퍼레이터 로도스 아일랜드 그림자 부대 획득",
+      "description": "당신은 참 운이 좋으시군요. 마사무네와 요시츠네만큼 뛰어난 사냥 파트너는 좀처럼 없으니까요.\n자 보십시오. 둘이 당신을 부르고 있습니다. 더 이상 기다리게 할 순 없죠. 지금 당장 출발하십시오, 헌터여.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1794812400,
+      "expireTimes": [
+        {
+          "start": -1,
+          "end": 1794812400,
+          "type": "INIT"
+        },
+        {
+          "start": 1796583599,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": true
+    },
+    {
+      "medalId": "medal_hidden_50side_02",
+      "medalName": "'월하뢰명'",
+      "medalType": "hiddenMedal",
+      "slotId": 36,
+      "preMedalIdList": [],
+      "rarity": "T2",
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act50side_01;act50side_02;act50side_03;act50side_04;act50side_05;act50side_06;act50side_07;act50side_08",
+        "8"
+      ],
+      "getMethod": "<포영을 뚫는 창뢰> 이벤트 기간 동안, 3★ 평가로 [창뢰 사냥] 내 모든 스테이지 클리어 (튜토리얼 및 스토리 스테이지 제외)",
+      "description": "장군과 국주, 소녀와 '이쥬', 사냥과 숙명.\n마치 꿈을 꾸고 있는 듯한 기분이었지만, 꿈속의 모든 일은 너무나도 생생했습니다.",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1794812400,
+      "expireTimes": [
+        {
+          "start": -1,
+          "end": 1794812400,
+          "type": "INIT"
+        },
+        {
+          "start": 1796583599,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": true
+    },
+    {
       "medalId": "medal_activity_10d0_035",
       "medalName": "파이라이트 협약 훈장 II",
       "medalType": "activityMedal",
@@ -41023,6 +41292,35 @@
       "originMedal": "medal_stage_sixstarpoint_03",
       "displayTime": -1,
       "expireTimes": [],
+      "medalRewardGroup": [],
+      "isHidden": false
+    },
+    {
+      "medalId": "medal_activity_act1football_055",
+      "medalName": "챔피언십 공세 훈장",
+      "medalType": "activityMedal",
+      "slotId": 15,
+      "preMedalIdList": [],
+      "rarity": "T2D5",
+      "template": "Act1FootballScores",
+      "unlockParam": [
+        "act1football",
+        "8",
+        "3",
+        "act1football_tr01"
+      ],
+      "getMethod": "진지 축구 챔피언십 이벤트 기간 동안, 누적 8개 스테이지의 골득실 차가 3골 달성 (튜토리얼 스테이지 제외)",
+      "description": null,
+      "advancedMedal": null,
+      "originMedal": "medal_activity_act1football_05",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1796842800,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
       "medalRewardGroup": [],
       "isHidden": false
     }

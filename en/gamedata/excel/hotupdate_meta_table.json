@@ -736,6 +736,50 @@
       "picType": "NONE",
       "logoId": null,
       "color": null
+    },
+    {
+      "picId": "pic74_a_1",
+      "groupId": 19,
+      "sortId": 4,
+      "startTime": 1794841200,
+      "endTime": 1796036399,
+      "textList": [],
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic74_s_3",
+      "groupId": 19,
+      "sortId": 5,
+      "startTime": 1794841200,
+      "endTime": 1797245999,
+      "textList": [],
+      "picType": "SKIN",
+      "logoId": "mh",
+      "color": null
+    },
+    {
+      "picId": "pic74_s_1",
+      "groupId": 19,
+      "sortId": 6,
+      "startTime": 1794841200,
+      "endTime": 1797245999,
+      "textList": [],
+      "picType": "SKIN",
+      "logoId": "epoque_game",
+      "color": null
+    },
+    {
+      "picId": "pic74_a_2",
+      "groupId": 19,
+      "sortId": 2,
+      "startTime": 1795446000,
+      "endTime": 1796641199,
+      "textList": [],
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
     }
   ],
   "movieInfo": null

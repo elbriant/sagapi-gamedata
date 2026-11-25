@@ -1349,6 +1349,101 @@
       "bindMainlineRetroZoneId": null,
       "diamondRewardCount": 0
     },
+    "act1football_zone1": {
+      "zoneID": "act1football_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "QUALIFIER",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
+    },
+    "act1football_zone2": {
+      "zoneID": "act1football_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "TOURNAMENT",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
+    },
+    "act1football_zone3": {
+      "zoneID": "act1football_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "TRAINING",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
+    },
+    "act50side_zone1": {
+      "zoneID": "act50side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Hunting the Azure Thunder",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
+    },
+    "act50side_zone2": {
+      "zoneID": "act50side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Treading on Dreams",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
+    },
     "act42sre_zone1": {
       "zoneID": "act42sre_zone1",
       "zoneIndex": 0,
@@ -8473,6 +8568,63 @@
       "bindMainlineZoneId": null,
       "bindMainlineRetroZoneId": null,
       "diamondRewardCount": 0
+    },
+    "permanent_sidestory_32_zone1": {
+      "zoneID": "permanent_sidestory_32_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "A Glance at the Shrine",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
+    },
+    "permanent_sidestory_32_zone2": {
+      "zoneID": "permanent_sidestory_32_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "An Audience with God",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
+    },
+    "permanent_sidestory_32_zone3": {
+      "zoneID": "permanent_sidestory_32_zone3",
+      "zoneIndex": 2,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Rest in Peace",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "antiSpoilerId": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false,
+      "sixStarMilestoneGroupId": null,
+      "bindMainlineZoneId": null,
+      "bindMainlineRetroZoneId": null,
+      "diamondRewardCount": 0
     }
   },
   "weeklyAdditionInfo": {
@@ -8562,6 +8714,26 @@
     }
   },
   "zoneValidInfo": {
+    "act1football_zone1": {
+      "startTs": 1795446000,
+      "endTs": 1796641199
+    },
+    "act1football_zone2": {
+      "startTs": 1796050800,
+      "endTs": 1796641199
+    },
+    "act1football_zone3": {
+      "startTs": 1795446000,
+      "endTs": 1796641199
+    },
+    "act50side_zone1": {
+      "startTs": 1794841200,
+      "endTs": 1796036399
+    },
+    "act50side_zone2": {
+      "startTs": 1795474800,
+      "endTs": 1796036399
+    },
     "act42sre_zone1": {
       "startTs": 1793890800,
       "endTs": 1794740399
