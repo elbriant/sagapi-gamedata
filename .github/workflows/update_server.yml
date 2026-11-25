@@ -39,18 +39,18 @@ jobs:
     timeout-minutes: 60
     steps:
       - name: Checkout main code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: main_repo
 
       - name: Checkout gamedata branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: gamedata
           path: gamedata_branch
 
       - name: Setup .NET
-        uses: actions/setup-dotnet@v4
+        uses: actions/setup-dotnet@v6
         with:
           dotnet-version: '8.0.x'
 
