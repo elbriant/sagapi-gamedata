@@ -51,6 +51,9 @@ class GamedataDecoder {
           return true;
         } catch (_) {}
 
+        if (failfast) {
+          throw Exception('[ERROR] Failed to decode levels/activities file ${file.path}');
+        }
         return false;
       }
 
@@ -80,6 +83,9 @@ class GamedataDecoder {
           return true;
         } catch (_) {}
 
+        if (failfast) {
+          throw Exception('[ERROR] Failed to decode baked muzzle file ${file.path}');
+        }
         return false;
       }
 

@@ -1,0 +1,121 @@
+name: Update Gamedata Server
+
+# Reusable workflow: updates exactly one game server and commits only that
+# server's folder. It is invoked by both hot_update.yml and app_update.yml.
+#
+# Contract with the callers:
+#   - inputs.server: cn | en | jp | kr | tw
+#   - inputs.force:  false for hot updates, true for app/schema updates
+#   - inputs.commit_label: text used in the commit message
+#
+# A server that fails during the pipeline never reaches the commit step. The
+# runner is discarded, so partial output from a failed server cannot leak into
+# another server's commit.
+
+on:
+  workflow_call:
+    inputs:
+      server:
+        description: 'Server to update (cn, en, jp, kr, tw)'
+        required: true
+        type: string
+      force:
+        description: 'Force a full bundle redownload'
+        required: false
+        type: boolean
+        default: false
+      commit_label:
+        description: 'Label used in the commit message'
+        required: false
+        type: string
+        default: 'Hot Update'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout main code
+        uses: actions/checkout@v4
+        with:
+          path: main_repo
+
+      - name: Checkout gamedata branch
+        uses: actions/checkout@v4
+        with:
+          ref: gamedata
+          path: gamedata_branch
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1
+
+      - name: Fetch Dependencies
+        run: dart pub get
+        working-directory: main_repo
+
+      - name: Execute Pipeline (${{ inputs.server }})
+        working-directory: main_repo
+        run: |
+          set -euo pipefail
+          ARGS=(
+            --server "${{ inputs.server }}"
+            --bundles-path ../gamedata_tmp_bundles
+            --out-path ../gamedata_branch
+            --failfast
+          )
+          if [ "${{ inputs.force }}" = "true" ]; then
+            ARGS+=(--force)
+          fi
+          dart run bin/sagapi_gamedata.dart "${ARGS[@]}"
+
+      - name: Validate Output (${{ inputs.server }})
+        working-directory: gamedata_branch
+        env:
+          SERVER: ${{ inputs.server }}
+        run: |
+          set -euo pipefail
+          if [ ! -d "$SERVER" ]; then
+            echo "::notice::No output for $SERVER (schema unsupported or no changes)."
+            exit 0
+          fi
+          test -s "$SERVER/gamedata/excel/character_table.json"
+          test -s "$SERVER/hot_update_list.json"
+          python3 - <<'PY'
+          import json
+          import os
+
+          server = os.environ["SERVER"]
+          path = os.path.join(server, "gamedata", "excel", "character_table.json")
+          with open(path, encoding="utf-8") as f:
+              data = json.load(f)
+          if not isinstance(data, dict) or not data:
+              raise SystemExit(f"character_table.json for {server} is empty or invalid")
+          print(f"{server}: {len(data)} character entries")
+          PY
+
+      - name: Commit and Push (${{ inputs.server }})
+        working-directory: gamedata_branch
+        run: |
+          set -euo pipefail
+          SERVER="${{ inputs.server }}"
+          if [ ! -d "$SERVER" ]; then
+            echo "No output for $SERVER; skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- "$SERVER"
+          if git diff --cached --quiet; then
+            echo "No changes for $SERVER."
+            exit 0
+          fi
+          git commit -m "Auto-update Gamedata (${{ inputs.commit_label }}) | Server: $SERVER | Date: $(date -u +'%Y-%m-%d %H:%M')"
+          git push origin HEAD:gamedata

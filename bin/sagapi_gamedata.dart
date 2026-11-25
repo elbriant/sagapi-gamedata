@@ -37,7 +37,13 @@ Future<void> _processChunkInIsolate(
         verbose: verbose,
         failfast: failfast,
       );
-      if (result) successCount++;
+      if (result) {
+        successCount++;
+      } else if (failfast) {
+        throw Exception('[ERROR] Failed to decode ${file.path}');
+      }
+    } else if (failfast) {
+      throw Exception('[ERROR] Decode input disappeared before processing: ${file.path}');
     }
   }
   print('[ISO-${payload.isolateId}] Process completed: $successCount files decoded successfully.');
@@ -220,6 +226,8 @@ void main(List<String> arguments) async {
 
           GamedataDownloader.updateHotUpdateJson(localDirectory: outputRoot, serverName: server);
         }
+      } else {
+        print('[SKIP] No schemas available for ${server.toUpperCase()}; skipping server.');
       }
     }
   }
